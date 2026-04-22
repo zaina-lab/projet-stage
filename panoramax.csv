@@ -1,0 +1,1131 @@
+id_poi;poi;lat;lon;found;distance_m;api_lat;api_lon;image_url;nb_results
+0;Vers la Forêt d'Eu à VTT;49.704962;1.4788275;True;42.93;49.705346;1.478765;https://panoramax.openstreetmap.fr/derivates/c9/bd/ea/2a/4432-4b98-bdf7-3705fbbe95cf/sd.jpg;5
+1;De Rouen à Forges-les-Eaux;49.4332945;1.10618979;False;;;;;10
+2;L'Orée des Près - Gite familial;49.8753083;0.98187158;False;;;;;0
+3;Festival de danse : Plein Phare Out;49.49359;0.10097;True;1.72;49.493586;0.100993;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/99/06/c6/a7/228b-40a5-99fd-c9bce6143f41/sd.jpg;10
+4;Location de vélos - Bureau d'Information Touristique de Jumièges;49.4346353;0.8207907;True;2.85;49.434614008;0.820812554;https://panoramax.openstreetmap.fr/derivates/00/bc/58/7b/9df6-4352-b09c-1fffbba911f1/sd.jpg;10
+5;[Exposition temporaire] Jacques-Émile Blanche et Celia Saxton Noble : une amitié anglaise;49.8727897;1.0438285;False;;;;;0
+6;De Yainville à Jumièges;49.4522949;0.83200023;False;;;;;0
+7;Ekla ! Concert live pour livre pop-up animé par Compagnie Turnsteak;49.46313;1.07078;True;33.02;49.4633798;1.0705329;https://panoramax.openstreetmap.fr/derivates/4c/05/b4/67/406c-422c-b89f-2fd2d82e4ad8/sd.jpg;10
+8;Silleron et Iclon à VTT;49.829923;0.790955;False;;;;;0
+9;Animation nature pour les tout-petits;49.554264;0.181841;True;12.97;49.55437;0.181766;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/e0/e8/d1/50/40bc-4191-92cc-2c3f9a302554/sd.jpg;10
+10;Musée Pierre Corneille - Maison des Champs;49.3896909;1.02115777;False;;;;;0
+11;Pub Janine - La Grande École;49.4882739;0.1084304;True;20.2;49.488291;0.108152;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/5a/5c/4e/33/fcd5-45bd-bbe2-de933e7817b9/sd.jpg;10
+12;Le Donjon de Rouen;49.4464099;1.09444078;True;10.19;49.4463328;1.0943646;https://panoramax.openstreetmap.fr/derivates/2d/68/ca/d8/f9a3-42ca-a802-c7cebb506045/sd.jpg;10
+13;Rando Yourte;49.8492521;0.62329263;False;;;;;6
+14;Hôtel Les Arcades;49.9267667;1.079382;True;7.39;49.9267003;1.0793857;https://panoramax.openstreetmap.fr/derivates/cc/d2/50/5d/ea3f-4dbf-a7ae-f9208b1e4414/sd.jpg;10
+15;Domaine Le Clos des Fontaines;49.4340365;0.8182253;False;;;;;0
+16;Visit and Run;49.613311;1.545886;False;;;;;0
+17;Les ateliers créatifs du Croco : Fleurs crépon;49.7176358;1.0993315;True;26.55;49.7175716;1.0996872;https://panoramax.openstreetmap.fr/derivates/e8/aa/0e/5c/a537-4bd9-805f-33883da5ba0f/sd.jpg;10
+18;Cirque-Théâtre d'Elbeuf;49.2907524;1.01117056;True;6.9;49.290793112;1.011098756;https://panoramax.openstreetmap.fr/derivates/e7/9b/0a/c8/24ba-4605-b8b9-ff77db2ab1fb/sd.jpg;9
+19;Le Rive Gauche;49.3803992;1.10120474;True;5.34;49.380440414;1.101166931;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/29/0c/53/3e/81d7-4458-b78e-7852c944a77a/sd.jpg;10
+20;Atelier créatif : Cadre mural végétal;49.5037784;0.0942485;False;;;;;10
+21;La Belle de Beauval;49.721716;1.02033655;False;;;;;0
+22;Laurie Guerrero - Fresques et team buildings;49.7074851;0.2051629;True;1.96;49.707482;0.205136;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/28/8d/db/a5/0207-44ed-a4cd-1bb48deefe21/sd.jpg;10
+23;Gîtes de France® - Le Manoir de Tessy;49.8622666;0.99303056;False;;;;;0
+24;Foire Agricole de Bacqueville en Caux;49.7863094;0.99904944;False;;;;;0
+25;La Chaumière;50.0167768;1.5031608;False;;;;;10
+26;Fête du goût et de l'artisanat;49.8940342;0.8716147;True;39.34;49.89369557;0.87177394;https://panoramax.openstreetmap.fr/derivates/1f/82/4c/49/5eed-4021-8bb2-e7710cb6ca2c/sd.jpg;8
+27;Guérin Location;49.9284146;1.08226067;True;25.4;49.928587875;1.08202946;https://panoramax.openstreetmap.fr/derivates/af/78/2c/2b/f23b-4d55-95fa-6fee23522f3f/sd.jpg;10
+28;[Brocante];49.9050978;1.09436641;False;;;;;0
+29;Musée Industriel Vivant Expotec 103 - Moulin Saint-Gilles;49.438279;1.133683;True;20.38;49.4384427;1.1338097;https://panoramax.openstreetmap.fr/derivates/47/54/11/ff/568f-4e66-9881-30421bd127c5/sd.jpg;10
+30;L'Afloria - Head Spa;49.696481;0.1977289;True;19.72;49.696393;0.197967;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/aa/7c/89/bd/f75d-4c27-9e91-43f68e6aefca/sd.jpg;10
+31;[Création immersive] Au jardin des potiniers;49.9061814;1.0940258;False;;;;;0
+32;Randonnée apéro My French Rhum;49.8402847;0.9905579;False;;;;;0
+33;Aux portes d'Yvetot;49.5781528;0.76045731;False;;;;;0
+34;Atelier de l’Ethnothèque : clayonnage et fascinage;49.4975326;0.7573669;True;7.26;49.4974742;0.757322092;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/22/0f/9b/d6/22f4-47a9-8f35-a355c128b2c6/sd.jpg;10
+35;Musée du Tissage Charles Denis;49.707982;0.7559637;False;;;;;0
+36;Quincamp'Fest;49.51955;1.20316;False;;;;;0
+37;Valleuse des Grandes-Dalles;49.80617;0.49559;False;;;;;0
+38;Gîte du Vieux Puits N°2;49.8957643;0.91337417;False;;;;;0
+39;Exposition : Petites voiles;49.4889481;0.1143016;True;21.66;49.489133;0.114396;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/0b/51/84/e6/5ef6-49f2-8a8a-2ff5cb969f7c/sd.jpg;10
+40;La Grillade;49.7593275;0.3626056;False;;;;;0
+41;Visite guidée - Criel-sur-Mer : Circuit du patrimoine architectural;50.017558;1.3158049;False;;;;;1
+42;Brocante;49.9895521;1.4214813;False;;;;;0
+43;Peinture sur enduit de chaux frais peinture affresco;49.476084;1.406129;False;;;;;0
+44;Jardin des Damville;49.4505853;1.6522555;False;;;;;0
+45;Aître Saint-Maclou;49.4398949;1.09947523;True;4.29;49.4398637;1.0995102;https://panoramax.openstreetmap.fr/derivates/a1/ca/35/27/e662-4358-bbda-8614a6538257/sd.jpg;10
+46;[Cabaret] Bingo disco;49.9213557;1.0799553;False;;;;;10
+47;Gîtes de France® - Auleclairlogis;49.5675055;0.30322222;True;3.61;49.567537;0.30321;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/dc/ed/79/4e/ec43-4f04-bb4e-e140506714e7/sd.jpg;10
+48;réouverture de la Micro Folie d'Yquebeuf;49.5903797;1.2581554;False;;;;;0
+49;Fête communale de Canville les deux églises avec marché artisanal/ retraite aux flambeaux avec défilé de majorettes/ feu d'artifice;49.7704359;0.84102999;False;;;;;0
+50;Séance de yoga;49.8633661;0.711919;True;24.45;49.863583333;0.711972222;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f2/a1/b9/85/be8e-4a47-9f51-6b38f8a47967/sd.jpg;6
+51;Stage de chant : Bab Assalam;50.030264;1.386167;True;27.81;50.030117;1.385852;https://panoramax.openstreetmap.fr/derivates/13/a9/5e/b1/e6b9-420f-8e8f-43bc9d4c38eb/sd.jpg;10
+52;Hôtel Les Initiés;49.4419889;1.09238023;True;7.02;49.4420497;1.0923542;https://panoramax.openstreetmap.fr/derivates/10/4a/bb/65/efd7-4c94-bedb-7dc4c747ab12/sd.jpg;10
+53;Concert : Catherine Lara en trio;49.500977;0.1435657;True;12.2;49.500868;0.143585;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/d2/84/d0/15/84f7-46d3-9b32-dc098c75adef/sd.jpg;10
+54;"Atelier théâtre enfants : ""Les gardiens de la nature""";50.017558;1.3158049;False;;;;;1
+55;Enduro Truite;49.77878;0.99704;False;;;;;0
+56;Rencontre : Tatiana de Rosnay;49.4915537;0.1087973;True;12.94;49.491565;0.108619;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/83/f4/c1/b1/c6b7-4a46-bffa-945d6d5ece3b/sd.jpg;10
+57;Divernet;49.9254147;1.07568879;True;4.21;49.9254287;1.0756341;https://panoramax.openstreetmap.fr/derivates/15/fe/fd/31/54eb-4205-96b1-d06b724052c5/sd.jpg;10
+58;Hôtel de la Plage;49.904435;0.92268438;False;;;;;0
+59;Tennis Etretat Cap de Caux;49.705421;0.209279;True;4.07;49.705398;0.209323;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/2c/4f/ad/13/f237-4324-bb5d-aa3f0f30dc39/sd.jpg;10
+60;[Foire à tout];49.8704484;1.0518932;False;;;;;0
+61;Yvetot Normandie Tourisme;49.617333;0.754906;False;;;;;0
+62;Lin et l'Autre · Normandie;49.90487;0.992512;True;23.08;49.9049403;0.9928153;https://panoramax.openstreetmap.fr/derivates/47/68/31/cb/2474-4b3e-8f95-a83e60426964/sd.jpg;7
+63;La Maison sur la Falaise;50.0573239;1.3760477;True;9.68;50.0572662;1.3759462;https://panoramax.openstreetmap.fr/derivates/d2/06/e4/32/fa88-4c4e-ae1d-9e46d36b1c07/sd.jpg;10
+64;Sur la Piste des Comtes d'Evreux;49.5016233;0.58281603;True;43.97;49.501423;0.583341;https://panoramax.openstreetmap.fr/derivates/11/6f/38/de/cee5-44aa-9ed6-d020af92292e/sd.jpg;10
+65;Le Cap Fagnet / Fécamp (site classé) : les blockhaus;49.7676284;0.36963948;False;;;;;0
+66;Plage-Baignade Saint-Valery-en-Caux;49.870122;0.71578823;False;;;;;2
+67;Bienvenue chez M. Goubert;49.7661871;0.3671446;False;;;;;0
+68;Rouen gourmande;49.4404281;1.093544;True;4.31;49.440425;1.0936034;https://panoramax.openstreetmap.fr/derivates/0c/fd/8a/73/ffe3-432c-8a9f-6795dd9e7276/sd.jpg;10
+69;Mon P'tit resto;49.6612881;0.8785383;True;39.43;49.660935411;0.87848178;https://panoramax.openstreetmap.fr/derivates/42/0b/38/d3/3fe4-4b37-983d-ac7b55a4f2c2/sd.jpg;1
+70;L'Etoile de mer;49.70695;0.207388;True;3.79;49.706984;0.207384;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/51/02/ab/f5/b526-45b1-a862-e7407186c4e9/sd.jpg;10
+71;Pôle de santé libéral et ambulatoire Gournay en Bray;49.4784002;1.7239127;False;;;;;6
+72;App'art 2 et App'art 3;50.0609909;1.3709107;True;0.55;50.0609958;1.370912;https://panoramax.openstreetmap.fr/derivates/8f/3b/0a/2b/1ce8-4c1c-97dc-9210b98f4919/sd.jpg;10
+73;Mme TARLEE Catherine;50.053368;1.392653;True;5.81;50.0534152;1.3926879;https://panoramax.openstreetmap.fr/derivates/d2/f9/87/39/8321-4539-b275-6b2b35bd932c/sd.jpg;10
+74;La Riv'Yères;50.0183496;1.31436499;True;35.54;50.0184022;1.3138744;https://panoramax.openstreetmap.fr/derivates/2b/12/4b/cc/5904-4047-9ad1-eca43801567c/sd.jpg;10
+75;Gîtes de France® - Gîte  de la Forêt;49.524671;0.743182;True;0.97;49.524679686;0.743182283;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f3/e4/39/a9/d494-4367-a6d1-5965a63da981/sd.jpg;10
+76;Traversée du Havre en voitures anciennes;49.6402759;0.2225154;True;0.59;49.6402784;0.2225082;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/48/64/6d/24/3389-4718-a69f-280b73ea4ab3/sd.jpg;10
+77;Sortie nature : Transhumance;49.6863179;0.1974784;True;4.47;49.686279;0.197494;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/0e/08/52/a9/5ff0-4735-b948-d78c59247510/sd.jpg;10
+78;Oh ! Croco : Bricolage Kazoo;49.7176358;1.0993315;True;26.55;49.7175716;1.0996872;https://panoramax.openstreetmap.fr/derivates/e8/aa/0e/5c/a537-4bd9-805f-33883da5ba0f/sd.jpg;10
+79;Plage-Baignade Saint-Aubin-sur-Mer;49.8939924;0.87116199;True;49.9;49.89367718;0.87165777;https://panoramax.openstreetmap.fr/derivates/b2/8a/93/c4/8e50-4d2a-8853-45869f740856/sd.jpg;8
+80;[Sport] Gala de Gymnastique aux Agrès;49.8737296;1.0476766;False;;;;;0
+81;Montigny;49.767051;1.14157399;False;;;;;0
+82;Gites beauregard - Gîte Madeleine;49.92935;1.08314;True;31.57;49.929081941;1.083285279;https://panoramax.openstreetmap.fr/derivates/f8/a3/a9/22/1d09-45f5-bbc1-fd7f36de2110/sd.jpg;10
+83;Maison des forêts Darnétal;49.4379765;1.15881296;False;;;;;0
+84;Maître Jean;49.8965869;1.65975189;False;;;;;0
+85;Le Camp de César;49.94038;1.1415;True;14.19;49.94034715;1.1416916;https://panoramax.openstreetmap.fr/derivates/2c/94/67/b0/b9cc-47d1-91ae-8cd88ec5f1e1/sd.jpg;7
+86;L'Écrin du Manoir du Perroy;49.55128;0.75454;False;;;;;0
+87;Gratte-Panche;49.95574;1.42144;False;;;;;0
+88;Loto;49.8304275;1.0279592;False;;;;;0
+89;Circuit du Courval;49.857974;1.657494;False;;;;;0
+90;[Spectacle] Dansons l'opéra;49.9241256;1.0742735;True;22.16;49.9241342;1.0739643;https://panoramax.openstreetmap.fr/derivates/90/fc/a1/c4/79e1-491a-8c4f-4900aa7f318b/sd.jpg;10
+91;"Lecture-conférence photographique ""la Normandie"" par Gilles Régnier";49.7059107;0.9625195;False;;;;;0
+92;Atelier créatif : Cyanotype;49.5037784;0.0942485;False;;;;;10
+93;Claricello - Fantaisie musicale pour trio extravagant;49.4446789;1.1001902;True;23.46;49.4447446;1.0998818;https://panoramax.openstreetmap.fr/derivates/e9/92/e1/19/934a-4d37-8e83-d7b05cd04e01/sd.jpg;10
+94;Les Sérénades de Printemps du Vert Galant;49.539626;1.223672;False;;;;;8
+95;Les Racines du Goût;49.6696676;1.4911537;False;;;;;0
+96;Aire de Camping-Car de Ry;49.4722942;1.3444567;True;23.31;49.472198;1.34417;https://panoramax.openstreetmap.fr/derivates/73/dd/0b/f7/dd5c-4d3c-be67-837827442082/sd.jpg;4
+97;Gîtes de France® - Le Varvannes;49.68125;0.966682;False;;;;;0
+98;Site Médiéval de Blainville-Crevon;49.5042744;1.30462106;False;;;;;0
+99;Gîtes de France® - La Petite Maison;49.6943805;0.47773889;False;;;;;0
+100;Visite découverte du village du lin;49.8651013;0.88805211;True;24.83;49.865321;0.88799;https://panoramax.openstreetmap.fr/derivates/a4/4d/5a/c9/d1a6-42b1-92b1-42f3d5ce33ea/sd.jpg;4
+101;Visite guidée du manoir d'Auffay;49.729212;0.6818054;False;;;;;0
+102;[Concert] Festival de Musique Ancienne;49.8850082;1.1374462;False;;;;;0
+103;La Plaine de Sonimare à cheval;49.680784;0.74038208;False;;;;;0
+104;Table ronde : Arctique - eldorado maritime ou zone à risques ? Mercredi 15;49.4850974;0.11676722;True;10.43;49.4851902;0.1167463;https://panoramax.openstreetmap.fr/derivates/42/f7/55/f6/91cc-40db-ac9c-a6213ab8f18b/sd.jpg;9
+105;Point Plage de Dieppe · Initiations aux loisirs nautiques et location de matériel;49.9266235;1.08033734;True;14.78;49.92651;1.08023;https://panoramax.openstreetmap.fr/derivates/e8/71/69/71/26a4-40c6-ae80-9985df52ba81/sd.jpg;10
+106;Pressoir du Bois Gribout;49.679;0.71682;False;;;;;0
+107;Centre hospitalier du Belvédère;49.4583051;1.0809364;True;12.97;49.458222972;1.080808972;https://panoramax.openstreetmap.fr/derivates/c7/b9/d6/cb/b5d3-401b-b0e3-b69926de1614/sd.jpg;10
+108;Vacances de printemps créatives avec Manufactory;49.4892907;0.108098;True;7.68;49.4892228;0.1080782;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/26/5b/49/93/c5ca-4f7d-8baa-22eefeb8f144/sd.jpg;10
+109;Les ateliers théâtre sur scène;50.0547342;1.42771872;True;5.89;50.0546825;1.4277007;https://panoramax.openstreetmap.fr/derivates/43/a3/17/2a/0c73-4d12-8efd-ce65612330d5/sd.jpg;10
+110;La Jolie Fécampoise;49.75534;0.37585;False;;;;;0
+111;Défilé Charlott';49.6961637;1.4921802;True;25.74;49.695934;1.492224;https://panoramax.openstreetmap.fr/derivates/de/1d/56/40/7bb9-447e-ac71-825b818d32d0/sd.jpg;5
+112;Visite de Buchy;49.5856526;1.3629912;False;;;;;0
+113;Gîte L'ancienne Forge;49.5686186;0.7236844;False;;;;;0
+114;Klic-klac c'est dans la boîte;49.51584;0.66302;False;;;;;10
+115;Salon du livre;50.0627409;1.3688819;True;21.71;50.062577779;1.369049042;https://panoramax.openstreetmap.fr/derivates/48/ce/42/84/16ab-4b21-9b94-b81bbd6f108c/sd.jpg;10
+116;Scène ouverte fête de la musique;49.7176358;1.0993315;True;26.55;49.7175716;1.0996872;https://panoramax.openstreetmap.fr/derivates/e8/aa/0e/5c/a537-4bd9-805f-33883da5ba0f/sd.jpg;10
+117;Vilaterre;49.836384;0.98260234;False;;;;;0
+118;Hôtel B&B Yvetot;49.61686;0.77571;False;;;;;0
+119;Gare de Longroy-Gamaches;49.98221;1.55322;False;;;;;0
+120;La Ferme du Pays;49.5258378;1.02012307;False;;;;;0
+121;Monroe;49.44015;1.09517;True;36.0;49.4398265;1.0951912;https://panoramax.openstreetmap.fr/derivates/9a/8d/21/03/da28-4e43-bb72-f60c20cd652a/sd.jpg;10
+122;Visite Atelier Roger Douville;49.771;0.84206;False;;;;;0
+123;[Festival J.E.Di];49.922838;1.081005;False;;;;;10
+124;"Exposition artistique ""Dramagraphie""";49.8503116;0.6233199;False;;;;;0
+125;Le Bièvredent;49.5299197;1.52563618;False;;;;;0
+126;Concert : Benjamin Biolay;49.4881755;0.1300304;False;;;;;10
+127;Meublé 54 LEVILLAIN;50.06029;1.372715;True;2.59;50.0602971;1.3726805;https://panoramax.openstreetmap.fr/derivates/78/06/05/6b/b3c9-4e51-afd2-4ea86ba15cb9/sd.jpg;10
+128;Un après-midi à la ferme;49.767861;0.733197;False;;;;;0
+129;All Suites Appart Hôtel Le Havre - GESTLEHAVRE;49.4884321;0.12561885;True;24.65;49.488342;0.125307;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/31/76/94/9d/32a0-429e-b3cb-459465d49d49/sd.jpg;10
+130;Gîte du petit pressoir;50.005794;1.436099;False;;;;;9
+131;La Longère;49.4870855;1.71383796;False;;;;;0
+132;Fête de la musique à Cideville;49.6155179;0.894361;False;;;;;0
+133;Marais de Longueil;49.8833149;0.9552132;False;;;;;0
+134;Écomusée Pays de Caux - Traditions du Lin;49.6970888;0.84017514;False;;;;;0
+135;Le Fournil du Lin;49.72062;0.78141;False;;;;;0
+136;Visite théâtralisée : Perret la nuit...;49.4917758;0.1075554;True;10.72;49.491791;0.107702;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/24/90/9e/21/448f-4129-9d84-2625b648ff4c/sd.jpg;10
+137;Hôtel de Bourgtheroulde ***** - Autograph Collection;49.442099;1.08830899;True;14.84;49.442053;1.0885017;https://panoramax.openstreetmap.fr/derivates/6b/55/13/5f/7602-4763-b233-328ac6c35aa2/sd.jpg;10
+138;Jardin du Manoir de l'Aumônerie;49.4343085;0.96751228;False;;;;;0
+139;[Animations] Village des sports;49.9303236;1.08067914;True;47.66;49.929948;1.080999972;https://panoramax.openstreetmap.fr/derivates/a3/54/f9/de/1f06-4b82-81e4-187c2cebd581/sd.jpg;10
+140;L'insolit O Verger;49.486708;1.419909;False;;;;;0
+141;Aire de pique-nique d'Héronchelles;49.5288218;1.383356;True;29.25;49.528801;1.38376;https://panoramax.openstreetmap.fr/derivates/bd/6b/25/36/f0f9-43e9-83e0-f9176e6df17b/sd.jpg;4
+142;Circuit du Tournant;49.957;1.22251;True;2.12;49.956980972;1.222507972;https://panoramax.openstreetmap.fr/derivates/5b/f5/ee/33/e1a6-4130-bd14-bdfe73d4d1e9/sd.jpg;10
+143;Gîte Côté Mer;49.898202;0.9164395;False;;;;;0
+144;Mon premier ciné concert;49.5758845;0.4698193;True;19.54;49.5758739;0.4695488;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/dc/56/f2/91/d12d-46e7-8697-332a535722a0/sd.jpg;10
+145;La croix de pierre;49.5714005;0.53613915;True;2.03;49.57139945;0.536167186;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/63/91/33/2b/40c5-49bb-a024-cd10d8ae90a7/sd.jpg;10
+146;Le Cotin des Cordiers;50.0607;1.37014;True;21.87;50.060781924;1.369861473;https://panoramax.openstreetmap.fr/derivates/9b/c5/af/9c/13bd-430d-8c5f-6479b3b39e9b/sd.jpg;10
+147;[Concours de pétanque] La Boule Offranvillaise;49.8691573;1.0491045;False;;;;;0
+148;Aux Anciennes Halles;49.5846768;1.3592135;False;;;;;0
+149;La Cavée aux Coqs à VTT;49.5520056;0.79333693;False;;;;;0
+150;La Mare aux Daims;49.73277;1.57921459;False;;;;;0
+151;"Marché à la ferme ""Les Prés d'Artemare""";49.7680433;0.7305165;False;;;;;0
+152;L'Atelier - Médiathèque Michel Bussi;49.48386;1.71997;False;;;;;0
+153;Arbres remarquables de l'abbaye du Valasse;49.5367336;0.50552181;False;;;;;0
+154;[Villa Augustine] Appartement Célestine;49.92189;1.07615;False;;;;;10
+155;L'Yvette;50.00955;1.39342;False;;;;;0
+156;Soirée Africaine;49.6017176;1.115314;False;;;;;0
+157;Maison Legout;49.5246255;0.72661029;True;12.18;49.524689753;0.726473547;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/55/1f/a4/44/4743-420a-9c6a-91eea2ca4813/sd.jpg;10
+158;Rétro;49.7071373;0.2034254;True;5.01;49.707102;0.203382;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/c3/0a/57/3f/addf-4e5b-ad07-b1a3e76b6cae/sd.jpg;10
+159;Les Terres de Jim 2025;49.56773;1.29836;False;;;;;0
+160;AST SUN JET PASSION;50.05908;1.38263;True;30.7;50.05927;1.382942;https://panoramax.openstreetmap.fr/derivates/78/5f/a2/82/1718-43fb-b16c-a5c56328a82e/sd.jpg;10
+161;Bar Zoo;49.7626831;0.3728202;False;;;;;0
+162;Musée du Cidre et des Métiers Traditionnels;49.6954226;1.2450803;False;;;;;0
+163;La Maison Bleue;49.874646;0.797782;False;;;;;0
+164;Gite du Point du Jour;49.552236;1.491686;False;;;;;0
+165;Chez Suzy et Gérard;50.0569009;1.42226709;True;6.91;50.0568696;1.4221834;https://panoramax.openstreetmap.fr/derivates/a7/e6/69/7f/4d05-46a2-b2a1-ff1bf3fa8fb4/sd.jpg;10
+166;Visite guidée couplée ville/théâtre romain;49.518141;0.5363113;True;3.86;49.518106872;0.536301772;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/19/44/3c/e8/7686-4b4b-9048-61e3af86504e/sd.jpg;10
+167;Suites du château de Roumare;49.51595;0.96661;False;;;;;0
+168;[Visite guidée] Puys : le charme discret d’une station balnéaire;49.9379701;1.1095595;True;22.76;49.937769;1.1095;https://panoramax.openstreetmap.fr/derivates/61/d5/aa/28/828e-4aca-b1c0-be932a71f1cb/sd.jpg;2
+169;Aire de stationnement et de service d'Ecretteville-les-Baons;49.625327;0.685953;True;20.25;49.6253795;0.686222222;https://panoramax.openstreetmap.fr/derivates/48/c2/ff/11/3f93-4be5-b855-46d38adaf7fd/sd.jpg;6
+170;Boucle VTT - De la Saâne à la Vienne;49.8139385;0.95187337;False;;;;;0
+171;[reporté] Défilé de vieux véhicules de sapeurs-pompiers;49.556023;1.104021;False;;;;;0
+172;Randonnée à la Hallotière;49.517946;1.474694;False;;;;;0
+173;Foire à tout au stade d'Etoutteville;49.6753453;0.7908157;True;41.08;49.675701;0.79097;https://panoramax.openstreetmap.fr/derivates/67/6c/66/43/4c71-438d-876c-42a894ced50a/sd.jpg;5
+174;Atelier : Broderie sur papier;49.4892907;0.108098;True;7.68;49.4892228;0.1080782;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/26/5b/49/93/c5ca-4f7d-8baa-22eefeb8f144/sd.jpg;10
+175;Escalade - Séance multisports;49.7929493;0.63876033;True;12.96;49.792833333;0.638777778;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f3/4a/d8/1a/e4e8-4446-8a8d-f1bc39e2c970/sd.jpg;10
+176;La Ferme de La Boudinière;49.518999;0.8065679;False;;;;;0
+177;Journées Européennes du Patrimoine 2026;49.9275109;1.0878759;True;3.94;49.9275339;1.0879178;https://panoramax.openstreetmap.fr/derivates/1f/ee/07/90/9256-4f27-9c33-ef6a8ef1a315/sd.jpg;10
+178;Dans les pas de Laura · Visites guidées;49.92651;1.07998;True;2.57;49.926530972;1.079995;https://panoramax.openstreetmap.fr/derivates/44/95/02/be/7d10-4228-b032-69c347c11d21/sd.jpg;10
+179;Les terrasses du jeudi;49.44014;1.0894;True;3.71;49.440167;1.089369972;https://panoramax.openstreetmap.fr/derivates/c2/f7/23/c8/a00e-45a6-bbce-d7fa6318a924/sd.jpg;10
+180;Le Bois de la Brétèque;49.6155;0.82695;False;;;;;0
+181;Château de Maltot - Le Nichoir;49.6325948;1.02066184;False;;;;;0
+182;Boutique de la distillerie de la Seine - spiritueux Made In LH;49.47929;0.15022;False;;;;;0
+183;La Mercerie de Denise;49.8656478;0.88637472;False;;;;;0
+184;Le Clos Vildor;49.9868497;1.3612152;False;;;;;0
+185;La Réserve en Seine;49.48957;0.09567;False;;;;;0
+186;Chasse aux trésors Oiseaux;49.5982617;1.1102176;False;;;;;0
+187;Centre Hospitalier d'Eu;50.0505989;1.4224728;False;;;;;10
+188;Chez Simon;49.740252;0.35800201;False;;;;;1
+189;Des Glycines à la Porte Noire;49.7919239;1.10938397;False;;;;;0
+190;Linstantiny;49.634958;0.534817;True;4.42;49.6349198;0.5348002;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/df/a7/3b/1a/9391-4012-8c8f-496b88527f39/sd.jpg;10
+191;"Les Gîtes du Manoir du Perroy ""Le Four à Pain""";49.551276;0.754538;False;;;;;0
+192;Hissez les voiles à Dieppe !;49.9266079;1.08033599;True;13.27;49.92651;1.08023;https://panoramax.openstreetmap.fr/derivates/e8/71/69/71/26a4-40c6-ae80-9985df52ba81/sd.jpg;10
+193;Bleu Horizon;49.9043627;0.92432642;True;18.1;49.90449687;0.92418343;https://panoramax.openstreetmap.fr/derivates/33/ba/d4/b3/80bf-4934-96fd-37d07073a8a1/sd.jpg;1
+194;Foire à tout/ Loterie;49.67758;1.10802;False;;;;;0
+195;Mme CONSEIL Sylvia;50.0540252;1.3663099;False;;;;;10
+196;Visite du Tissage du Ronchay;49.82695;0.92249;False;;;;;0
+197;Le Gîte la Pommeraie;49.83851;1.14222;False;;;;;0
+198;Marché traditionnel;49.869006;0.713904;True;33.09;49.868728611;0.713736972;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/1f/bb/97/31/fff7-4b7a-a0f3-5cbdda42086a/sd.jpg;10
+199;La Forêt de Ménonval;49.7845605;1.45609052;False;;;;;0
+200;Chez Mme ROBILLARD Marie-Line;49.85456;0.7933064;True;22.87;49.854639839;0.793600436;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/24/7b/96/76/f973-48da-8fd0-02a4e18f2195/sd.jpg;6
+201;GUIHOME;49.6153314;1.545216;False;;;;;0
+202;Mess My Mind 2026;49.5039576;0.1207302;False;;;;;10
+203;La Quesnoye;49.827011;1.568073;False;;;;;0
+204;Pablo Mira;49.6153314;1.545216;False;;;;;0
+205;Humour : Haroun - Bonjour quand même;49.4881755;0.1300304;False;;;;;10
+206;Aéroclub de l'Estuaire de la Seine;49.5439914;0.35470134;False;;;;;0
+207;"Promenade ""Fabrique ton herbier""";49.4755549;1.5873906;False;;;;;0
+208;Les bulles de Malylou;49.52647;0.76115;True;4.11;49.526440439;0.761184158;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/78/c0/4d/89/79d6-4d92-b8ef-787dacb20764/sd.jpg;10
+209;Escape Game Étretat - Panda Motion;49.7030055;0.2115548;True;9.2;49.702945;0.211642;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/8a/92/ec/64/f4e3-4171-a073-749c07d870bc/sd.jpg;10
+210;Château du Val d'Arques;49.563559;0.449732;False;;;;;10
+211;Gîte Le Presbytère;49.5975259;0.842321;False;;;;;0
+212;[Musique] On laisse les clés à Hakim Molina;49.9197341;1.08554463;True;16.89;49.919632551;1.08536921;https://panoramax.openstreetmap.fr/derivates/6a/6d/4c/c3/461d-497d-b96d-ecffdbf00f14/sd.jpg;10
+213;Bodega Le Havre;49.4901913;0.1053264;True;14.44;49.4902;0.105127;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/a5/36/aa/0f/bb71-4db1-ba71-0a6766eba042/sd.jpg;10
+214;Marché hebdomadaire de Forges-les-Eaux;49.6133371;1.5453536;False;;;;;0
+215;La Véloroute des Thermes;49.44014;1.0894;True;3.71;49.440167;1.089369972;https://panoramax.openstreetmap.fr/derivates/c2/f7/23/c8/a00e-45a6-bbce-d7fa6318a924/sd.jpg;10
+216;Gomare;49.956621;1.473188;False;;;;;0
+217;La Chevrette;49.61288;1.54602;False;;;;;0
+218;Ferme des Templiers;49.47384;1.50636;False;;;;;0
+219;Museoh oh oh Seine, le Noël des enfants au musée;49.52469;0.72148;True;6.32;49.524745631;0.72146195;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/2f/ad/56/d9/241e-4dbb-9512-d6e11c5ec375/sd.jpg;10
+220;Nichoir à chauve-souris et abri pour hérisson;49.6178933;1.5215934;False;;;;;0
+221;Le Nid Cauchois;49.553125;0.79055;False;;;;;0
+222;Gare de Bolbec;49.59139;0.48472;True;14.35;49.5913643;0.484915111;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/41/00/40/0d/4ca5-4e7c-b31a-84b63aa5bd86/sd.jpg;10
+223;Fête foraine, vide grenier et feu d'artifice à Motteville;49.6347169;0.85575799;False;;;;;0
+224;Trail des Z'oranges pressées;49.54724;1.0753;False;;;;;0
+225;Forges-en-Courses;49.613311;1.545886;False;;;;;0
+226;Les clos masures;49.65345;0.53664;True;44.61;49.6531534;0.5370572;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f7/06/ca/f8/aa5c-451b-967b-210dc6d4adfa/sd.jpg;10
+227;Découverte du verre soufflé à la canne;49.9294121;1.6378564;False;;;;;0
+228;Serres des Jardins Suspendus;49.5032165;0.09450077;True;26.09;49.503004;0.094654;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/46/d2/27/ac/a49a-4027-8950-5a04f2da0a84/sd.jpg;10
+229;Une ville, des quartiers : Le quartier Saint-Sever;49.4304891;1.0850508;True;4.38;49.4305268;1.0850333;https://panoramax.openstreetmap.fr/derivates/1c/0f/73/64/aa11-4a76-b1db-499f0c412462/sd.jpg;10
+230;Visite guidée - Eu : Mille ans d'Histoire;50.0485671;1.41908166;True;6.3;50.0485563;1.4191683;https://panoramax.openstreetmap.fr/derivates/1a/f5/ef/24/a9f1-4239-9c20-4bc348cf3bd6/sd.jpg;10
+231;Gîte communal de Gaillefontaine;49.6540333;1.615525;True;6.41;49.6540606;1.6156034;https://panoramax.openstreetmap.fr/derivates/80/33/6a/3e/7d56-490c-bf25-a7847dbacbe9/sd.jpg;10
+232;Le clos d'Estain;49.58936;0.76036;False;;;;;0
+233;La Sellerie;49.9862076;1.3593233;True;3.02;49.9861927;1.3592879;https://panoramax.openstreetmap.fr/derivates/8a/74/66/8f/a1d8-4df9-bc23-2c12efcb7393/sd.jpg;10
+234;Mme LAVAL-ANDRE Chloé;50.0609384;1.3686737;True;35.16;50.061232277;1.368492084;https://panoramax.openstreetmap.fr/derivates/1a/0e/3b/0b/7442-480e-a47e-94f49e349688/sd.jpg;10
+235;Visite de territoire : Passe à poissons de la Risle;49.52469;0.72148;True;6.32;49.524745631;0.72146195;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/2f/ad/56/d9/241e-4dbb-9512-d6e11c5ec375/sd.jpg;10
+236;Plage -Baignade et pêche à pied Quiberville-sur-Mer;49.9053628;0.92466065;False;;;;;1
+237;Cap Fécamp à Bâbord;49.7584662;0.3646078;False;;;;;0
+238;Bien-être au musée : Visite inspirée;49.5033248;0.1650465;False;;;;;10
+239;La Roulée;49.5414803;1.51513459;False;;;;;0
+240;Visite guidée des jardins - Rendez-vous aux Jardins 2026;49.5646689;0.4431552;False;;;;;0
+241;Ferme Aquaponique de l'Abbaye;49.67516;1.1230088;False;;;;;0
+242;Café des sports;49.6961055;0.6956539;False;;;;;4
+243;Atelier Musée du Textile;49.5770313;0.49214811;False;;;;;10
+244;La  Ferme des Falaises;49.6411553;0.1917055;False;;;;;0
+245;Le Chemin Vert du Petit Caux à VTT;50.0448685;1.42624162;True;5.93;50.044855556;1.426161111;https://panoramax.openstreetmap.fr/derivates/6e/a0/1a/74/78ac-46b8-ae44-ef56660cf368/sd.jpg;10
+246;J'extériorise mes maux par le modelage de l'Argile;49.7661779;0.89680299;True;41.46;49.766183462;0.896225843;https://panoramax.openstreetmap.fr/derivates/06/e9/ce/7d/2360-4a87-8caf-1968680ecd1d/sd.jpg;4
+247;Visite famille : Du rire aux larmes;49.5033248;0.1650465;False;;;;;10
+248;Bistrot by lac de Caniel;49.801267;0.6315422;True;18.73;49.801194444;0.631777778;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/3b/10/99/71/74e0-4c23-a13a-6c25be69e75e/sd.jpg;10
+249;Exposition : Monet au Havre;49.4849943;0.102668;True;24.63;49.485102;0.102966;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/b2/4c/93/93/fdbe-49a9-9422-dc413e7d90dd/sd.jpg;10
+250;Le Jardin du Roi de Rome à cheval;49.709884;1.304758;False;;;;;0
+251;L'heure bleue;49.70693;0.20572;True;1.17;49.706932;0.205736;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f6/9e/ae/1e/1ea8-4b9c-8ff4-65b4a00433b6/sd.jpg;10
+252;Jardin des Fontaines;50.049716;1.418578;True;12.87;50.0498096;1.418684;https://panoramax.openstreetmap.fr/derivates/e5/03/f3/81/ae28-4729-958d-952f55858fe8/sd.jpg;10
+253;Escale Quai George V;49.4910054;0.1136129;True;13.94;49.490881;0.113589;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f8/c2/9e/39/f16e-4e8e-a52d-2c85585c5f66/sd.jpg;10
+254;Spectacle : Thomas Marty;49.6154232;1.5436649;False;;;;;0
+255;Cours de navigation à la voile ados / adultes - Stage de Voile Dériveurs - Centre Nautique du Tréport;50.062666;1.378418;True;10.31;50.0627337;1.3783194;https://panoramax.openstreetmap.fr/derivates/d7/95/7f/6f/ae9f-43d3-bd7e-9ff60346639a/sd.jpg;10
+256;Patinoire Municipale;49.507282;0.13321774;True;43.23;49.507657;0.13306;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/5e/99/7e/4b/4bf5-4cb1-8c05-eee76064fd3b/sd.jpg;10
+257;Hôtel Rouen Alba;49.4384934;1.09439032;True;12.7;49.438395142;1.094479792;https://panoramax.openstreetmap.fr/derivates/78/86/d0/62/220d-492e-adfc-9647c94da78d/sd.jpg;10
+258;Parc la Fontaine Enchantée;49.5272855;0.1322766;True;2.15;49.527303;0.132264;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/51/f0/20/f7/0f40-4a20-a066-2afa07be604a/sd.jpg;10
+259;Grumesnil;49.610218;1.692263;False;;;;;0
+260;Circuit du manoir au Val;49.8245;1.24282;False;;;;;0
+261;Clos-masure, dis-nous tes secrets !;49.661915;0.7594149;False;;;;;0
+262;Foire à tout;49.8774128;0.9521601;False;;;;;0
+263;Visite-démonstration à la Poterie Seinomarine;49.5984796;0.7827459;False;;;;;0
+264;Dîner-spectacle : La Fiesta Do Brazil;49.49161;0.11206;True;6.0;49.491654;0.112108;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/21/ec/83/f1/657e-49a9-97d0-59e8520a398a/sd.jpg;10
+265;Visite commentée de la Collection de faïences « Vieux Forges »;49.6126371;1.5466693;False;;;;;0
+266;Office de Tourisme Intercommunal de Fécamp;49.760916;0.3712345;False;;;;;0
+267;[Visite guidée] À la découverte des jardins du château;49.9243623;1.0704652;True;5.2;49.924342821;1.070531306;https://panoramax.openstreetmap.fr/derivates/22/91/11/8e/c744-4de1-81c4-b3aaabdb1e9c/sd.jpg;10
+268;[Randonnée chantée] Dieppe et le Canada, entre histoire et musique;49.9275109;1.0878759;True;3.94;49.9275339;1.0879178;https://panoramax.openstreetmap.fr/derivates/1f/ee/07/90/9256-4f27-9c33-ef6a8ef1a315/sd.jpg;10
+269;Auppegard en Fleurs et Plants;49.8488425;0.9284493;False;;;;;0
+270;Bal de la Victoire à Duclair;49.48225;0.87575;True;11.54;49.482277353;0.875595953;https://panoramax.openstreetmap.fr/derivates/97/a1/c3/07/28e3-4eb1-b7ad-99ed2c75d832/sd.jpg;10
+271;Le Relais Normand;49.4668877;1.63428603;False;;;;;0
+272;Escale Dieppe Gambetta;49.91573;1.07504;True;25.59;49.9156807;1.0746909;https://panoramax.openstreetmap.fr/derivates/e8/ce/74/bd/ccd9-4b4c-a9ed-9f8030e98f0e/sd.jpg;10
+273;Jardin en Seine;49.5245398;0.7228595;True;29.59;49.524771164;0.723062033;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/97/de/86/5d/ef3d-4816-853f-704ac6d4f34a/sd.jpg;10
+274;Domaine de la Reine Blanche - Villa;49.7925916;1.0834345;False;;;;;0
+275;Tournoi jeunes de Tennis;49.7070069;0.2055978;True;1.32;49.706997;0.205608;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/45/d9/7f/39/1858-405d-8053-8c790ee79e72/sd.jpg;10
+276;Marché de producteurs;49.7496455;0.64080745;False;;;;;0
+277;La Réformation;49.745897;1.273468;False;;;;;0
+278;Propos de jardinier : La botanique pour les nuls;49.5037784;0.0942485;False;;;;;10
+279;Poug'Rock Fest;49.8303011;1.0266109;False;;;;;0
+280;Bien-être au musée : Art, sport et relaxation;49.5033248;0.1650465;False;;;;;10
+281;Yoga et yoga Nidra en terre d'Accord;49.8595269;0.8459003;False;;;;;0
+282;L' Estran;49.7387165;0.3093045;False;;;;;0
+283;Les Ecuries des Vallées;49.508467;1.389896;False;;;;;0
+284;[Atelier famille] Carterie;49.9197341;1.08554463;True;16.89;49.919632551;1.08536921;https://panoramax.openstreetmap.fr/derivates/6a/6d/4c/c3/461d-497d-b96d-ecffdbf00f14/sd.jpg;10
+285;Le Mont Rôti à VTT;49.933483;1.58091;False;;;;;0
+286;Montville en fleurs;49.54375;1.06986;False;;;;;0
+287;Le Quai Sud;49.7634402;0.370215;False;;;;;0
+288;Activités sportives - jeux de raquettes;49.7864003;0.59079695;False;;;;;0
+289;Aire de stationnement et de service du Flower Camping La Chênaie;49.7328623;0.32199167;False;;;;;3
+290;Une oeuvre, un invité, un café : le départ pour la pêche et l'oeuvre du peintre Emile Louis Minet;49.52469;0.72148;True;6.32;49.524745631;0.72146195;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/2f/ad/56/d9/241e-4dbb-9512-d6e11c5ec375/sd.jpg;10
+291;"Théâtre : ""Nous étions la forêt""";49.8637161;0.710195;False;;;;;0
+292;La Basse Vallée de la Durdent;49.845075;0.587848;False;;;;;0
+293;[Thé dansant] Club de l'Amitié d'Offranville;49.8737296;1.0476766;False;;;;;0
+294;Exposition : Le thermalisme à travers les cartes postales anciennes;49.6077826;1.5322243;False;;;;;0
+295;[Exposition] Maryvonne Burel et Annie Loue;49.8726358;1.0438192;False;;;;;0
+296;MENADEL - Chambre Ariel;49.61315;0.75079;False;;;;;0
+297;L'écume - Duplex 1er étage;49.7603167;0.3632638;False;;;;;0
+298;Chèvrerie de la forêt d'Eu;49.99192;1.45613;False;;;;;0
+299;Auberge d'Ypreville;49.694784;0.532835;True;2.6;49.694778333;0.5328;https://panoramax.openstreetmap.fr/derivates/bf/43/35/10/52b0-495a-8bfe-3b69bb9c447e/sd.jpg;7
+300;Téléthon;49.7181466;1.0998027;True;3.06;49.7181577;1.0997638;https://panoramax.openstreetmap.fr/derivates/d0/0c/30/a1/016d-4542-9f24-bf640207dd51/sd.jpg;10
+301;Théâtre : Nous étions la forêt;50.0215515;1.4624048;True;32.44;50.0213591;1.4620634;https://panoramax.openstreetmap.fr/derivates/5c/7a/a3/c0/a816-48e1-8287-75b9b3a6d58c/sd.jpg;10
+302;Mcdonald's;49.614139;0.772163;True;14.89;49.614229845;0.772011103;https://panoramax.openstreetmap.fr/derivates/cb/d0/0a/39/a6ba-49bf-bdbe-2d24a87b24a4/sd.jpg;8
+303;Site V1 de Guerville;49.9459166;1.50118232;True;37.04;49.945584;1.501155;https://panoramax.openstreetmap.fr/derivates/08/27/b8/96/1afa-4676-a58b-a0a56323bd72/sd.jpg;3
+304;La Cave du Salut;49.760787;0.36631099;False;;;;;0
+305;Randonnée pédestre;49.737508;0.971204;False;;;;;0
+306;Le Val Saint-Etienne à VTT;49.695619;1.243019;False;;;;;0
+307;M. GAULANDEAU Henri et Isabelle - Location vue mer;50.061375;1.371215;True;5.39;50.06142176;1.371235029;https://panoramax.openstreetmap.fr/derivates/f3/50/0e/06/9885-4af3-9bd4-e40ced0a6b35/sd.jpg;10
+308;Concert : Danyl;49.5038294;0.12076702;False;;;;;10
+309;L'oeil et la main - Espace d'expositions d'art;50.04725;1.41889;True;2.52;50.0472432;1.4189237;https://panoramax.openstreetmap.fr/derivates/fd/f6/e5/b2/2074-4fda-88e7-8eb0ca0b9f07/sd.jpg;10
+310;La grillade;49.4856725;0.46614934;True;20.62;49.485826986;0.465991561;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/11/d2/52/4f/1ec2-4f68-b1b3-cb0b85cfc958/sd.jpg;10
+311;Le Clos Marin;50.0523904;1.396456;True;4.83;50.0524334;1.3964654;https://panoramax.openstreetmap.fr/derivates/86/66/f5/3d/4e18-46d6-979e-3536d57b4b8e/sd.jpg;10
+312;Base Nautique et de Loisirs de Bédanne;49.3231689;1.07249478;False;;;;;0
+313;Woupi;49.4221636;1.0507747;False;;;;;10
+314;Minute patrimoine : Ces messieurs du café;49.4938304;0.1141793;True;14.36;49.493702;0.114158;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/39/c9/b7/3c/d0ac-4888-84bc-2e1a1379e14f/sd.jpg;10
+315;Maison de santé pluridisciplinaire La Charmille;49.6899914;0.5028093;False;;;;;0
+316;Des dessins animés au Shed !;49.4825612;1.0447739;False;;;;;0
+317;La Dame au Chapeau;49.71658;0.24679;True;3.81;49.716546;0.246797;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/5d/29/ca/51/eeb8-474c-890e-9b45c9e6d2fb/sd.jpg;10
+318;Mémoire d'Albâtre, Site du Pont Rouge;49.8554805;0.60982218;True;12.23;49.855388889;0.609916667;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/86/7d/92/5e/630b-4261-b24a-15b220a5736f/sd.jpg;10
+319;Chapelle Seigneuriale de l'église Notre-Dame;49.6462396;0.68831956;False;;;;;0
+320;Le Petit Gîte d'Angélique;49.4938632;0.63389199;True;5.63;49.493879631;0.633818233;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/a3/34/ed/cb/50b0-4a52-87f0-8c2e92fa5bb8/sd.jpg;10
+321;Gîtes de France® - Ferme de la Houssaye;49.5000472;1.18360556;False;;;;;0
+322;La Lisette;49.708263;0.206797;False;;;;;10
+323;"Atelier de danse libre ""move your body""";49.8595269;0.8459003;False;;;;;0
+324;NAMONT Béatrice;50.0576587;1.37025059;True;5.73;50.0576461;1.3701728;https://panoramax.openstreetmap.fr/derivates/af/c5/19/11/cc53-42b2-91f1-e78e25a2ce2f/sd.jpg;10
+325;Les Grands Genêts;49.4634934;1.5142934;False;;;;;4
+326;Le Goulet à VTT;49.78533;1.22861;False;;;;;0
+327;Journées du Patrimoine | Visite guidée - Criel-sur-Mer : Circuit du patrimoine architectural;50.017558;1.3158049;False;;;;;1
+328;Domaine du Grand Daubeuf;49.709956;0.47875799;False;;;;;0
+329;La Plaine du Moulin;49.817234;0.771752;False;;;;;2
+330;Petite sortie en voilier habitable;49.8673536;0.70996198;True;12.3;49.867402074;0.709807683;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/d3/b9/9b/5d/b6ca-49ab-846a-3459325d9718/sd.jpg;10
+331;Stage nature : La vie sauvage;49.5314995;0.2577854;True;4.12;49.531528;0.257749;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/e7/1f/83/bd/84ff-4f01-9779-2dd2ee293aa4/sd.jpg;10
+332;Exposition à Médiscie - Teddy Gardez, Graphiste Artandbuzz, et Caroline Strande;49.7889728;1.10979406;False;;;;;0
+333;Gare de Le Houlme;49.510119;1.036864;False;;;;;0
+334;[Exposition] Guillaume Montier;49.8726358;1.0438192;False;;;;;0
+335;Duck House;49.52976;0.77281;True;2.31;49.529780767;0.772809642;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/a4/82/a1/27/d914-4baf-b781-f57ed407078b/sd.jpg;10
+336;Sport dans les années 1920 Croquet – initiation au Gateball;49.6138467;1.5359427;False;;;;;0
+337;La chèvrerie des trois L;49.6859209;0.5573873;True;1.4;49.685933428;0.557386206;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/a9/7d/bf/43/4b46-40a5-98eb-71eae7385a98/sd.jpg;10
+338;La VéloCauchoise;49.75772;0.37634;False;;;;;0
+339;[Visite guidée] Pourville, l’histoire d’une métamorphose;49.896928;1.033522;False;;;;;0
+340;Musée d'Histoire de la Vie Quotidienne;49.9579443;1.22506881;False;;;;;0
+341;Le Cercle des pages partagées;49.8257162;0.91212676;True;31.5;49.8254384;0.9120405;https://panoramax.openstreetmap.fr/derivates/e9/25/87/4b/482a-462f-8815-778d14e148eb/sd.jpg;4
+342;Glicool;49.9354684;1.2412635;False;;;;;10
+343;Gare de Motteville;49.6371252;0.8497574;False;;;;;0
+344;FRONT DE MER ET FALAISE 317;50.0607804;1.3667727;True;1.34;50.0607915;1.3667655;https://panoramax.openstreetmap.fr/derivates/29/04/4c/85/8be3-45d3-8b07-80f063c7d995/sd.jpg;10
+345;Le Grand Tour du Trait à VTT;49.4785994;0.86025978;False;;;;;0
+346;Concerts : Les Musicales de Normandie 2026;49.4384683;1.123968;True;33.03;49.438251972;1.123655;https://panoramax.openstreetmap.fr/derivates/19/c1/4a/cb/08b7-4004-920e-77b90db27c73/sd.jpg;10
+347;Marais de Fesques;49.790217;1.4778039;False;;;;;0
+348;Pain bio de la Castorette;49.64836;1.09932;False;;;;;0
+349;Le Vallon;49.62956;1.34659;False;;;;;0
+350;La Ferm'entente;49.4987053;1.3527173;False;;;;;0
+351;La Porteuse d'Eau;49.880241;1.125068;False;;;;;0
+352;Saint Valery en Caux : une ville et la mer;49.8689991;0.71079433;True;41.92;49.8686224;0.710816103;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/47/24/0f/d9/0609-47b8-acbe-fb04bf919968/sd.jpg;10
+353;"Marché à la ferme ""Les Prés d'Artemare""";49.7680433;0.7305165;False;;;;;0
+354;Les îles de la Seine en paddle au coucher du soleil;49.3890428;1.1252048;False;;;;;0
+355;La Maison d'Yport;49.73931;0.31138;False;;;;;0
+356;Exposition : Section peinture du Club des Jeunes;49.828901;0.912495;True;19.28;49.828739655;0.91259342;https://panoramax.openstreetmap.fr/derivates/65/b0/d5/12/53f5-4c5c-8fd1-6ce9c2e006d2/sd.jpg;10
+357;"Exposition photo ""Quand le Paysage trompe l'oeil""";49.9000275;0.9213372;False;;;;;0
+358;Tiny House Graine d'Insolite;49.7098515;0.9596453;False;;;;;0
+359;Téléski nautique au Lac de Caniel - Cours particulier;49.81879;0.63718;False;;;;;5
+360;Au P'tit Spot;49.9045817;0.92371375;True;34.93;49.90449687;0.92418343;https://panoramax.openstreetmap.fr/derivates/33/ba/d4/b3/80bf-4934-96fd-37d07073a8a1/sd.jpg;1
+361;"APPARTEMENT ""LA SUITE ISAHORA"" _ LOVE ROOM";50.05129;1.42101;True;3.64;50.0512943;1.4209595;https://panoramax.openstreetmap.fr/derivates/c4/82/b0/99/82bd-43f7-9283-95d7d1774589/sd.jpg;10
+362;Gare d'Yvetot;49.621724;0.750563;False;;;;;0
+363;[Fiction sonore] Pourquoi n'y a-t-il plus de chats à Veules-les-Roses ?;49.9099115;0.9466468;False;;;;;0
+364;Meublé 37/38 LEVILLAIN;50.0598946;1.3723964;True;3.01;50.059902;1.372436972;https://panoramax.openstreetmap.fr/derivates/2e/f4/b3/78/e528-464b-ba54-35c6d1561847/sd.jpg;10
+365;Le Marais des Communaux;49.4652453;1.39854538;False;;;;;0
+366;Eglise Saint-Martin;49.53108;0.99238;True;43.02;49.530712;0.992564;https://panoramax.openstreetmap.fr/derivates/37/67/e9/ac/6477-4a20-8db2-23b6f4412d93/sd.jpg;10
+367;Visite thématique : Les couleurs de l'automne;49.5037784;0.0942485;False;;;;;10
+368;Gare de Montville;49.55138;1.07016;False;;;;;0
+369;Défilé et Goûter d'Halloween;49.4820726;1.7465569;False;;;;;0
+370;Les Chambres du Chat Perché - Chambre Clair de Lune;49.4994931;0.1065582;True;5.45;49.499452;0.106517;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/15/3d/88/ad/4866-464b-adff-04e20e9b9698/sd.jpg;10
+371;Gîte de l'escargot;49.6301884;0.5563444;False;;;;;10
+372;Circuit touristique de Criel-sur-Mer & Mesnil-Val;50.0242793;1.3088317;True;3.55;50.0242627;1.3087892;https://panoramax.openstreetmap.fr/derivates/ac/86/ac/b0/47f0-4b54-b31c-1f1474b650a8/sd.jpg;10
+373;Un après-midi à la ferme;49.767861;0.733197;False;;;;;0
+374;Les Terres de Marie - Le Hêtre;49.4642873;1.4449219;False;;;;;0
+375;Visite Kostik;49.52469;0.72148;True;6.32;49.524745631;0.72146195;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/2f/ad/56/d9/241e-4dbb-9512-d6e11c5ec375/sd.jpg;10
+376;Rendez-vous aux jardins au sein du parc du château d'Ancretiéville Saint Victor;49.652521;0.970831;False;;;;;0
+377;Le Grenier de La Mothe - Management par l’orchestre;49.8152013;1.42855611;False;;;;;0
+378;Musée Saint-Louis;49.619568;0.745472;False;;;;;0
+379;Descente de la Durdent en kayak ou en paddle;49.8530594;0.6013477;True;20.19;49.853222222;0.601472222;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/49/90/8c/ec/43d3-4aea-b4ac-aa52f2967e95/sd.jpg;10
+380;Les Deux Piliers;49.81591;1.02843;False;;;;;0
+381;Exposition de peinture : Elisabeth Haloo Joye;49.9043513;0.92226363;False;;;;;0
+382;Concert : Sclavine;49.7073281;0.2025123;True;4.38;49.707366;0.202529;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/88/3b/46/c2/59cf-4dd1-815a-3fd60dc5a045/sd.jpg;10
+383;Gîtes de France® - Gîte du Levant;49.276611;1.050498;True;30.26;49.2765703;1.0500856;https://panoramax.openstreetmap.fr/derivates/d7/b1/ec/a3/4c48-44e1-a72c-1e9452edffe0/sd.jpg;10
+384;Sure Hotel by BESTWESTERN Port Jérome Le Havre;49.4929807;0.5601781;True;1.33;49.492992289;0.560182803;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/3b/a4/a7/bc/9641-4f70-90a4-9102a36e4e1f/sd.jpg;10
+385;A l'Orée du Lin;49.68975;0.40097222;False;;;;;0
+386;Gîtes de France® - Le Petit Giteopré;49.65434;1.50162;False;;;;;0
+387;Visite guidée : Les comices agricoles;49.5258605;0.3619664;True;14.66;49.525937;0.361801;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/59/f8/b4/4b/be0a-448b-9e0d-f5b2f6695c59/sd.jpg;10
+388;MEDI-CAUX BUS du Pays de Caux;49.6193329;0.7575204;True;12.97;49.619275;0.757676667;https://panoramax.openstreetmap.fr/derivates/a7/ef/02/99/9700-4e27-a123-a1e94a88918c/sd.jpg;6
+389;Le Mont Lévêque à VTT;49.6455855;0.69005043;True;23.61;49.645789;0.689957;https://panoramax.openstreetmap.fr/derivates/9f/c0/10/17/5b8a-425e-bd21-494aca8ba8a3/sd.jpg;2
+390;Le Genetey;49.44691;0.96476;False;;;;;0
+391;[Foire à tout] En intérieur;49.8691573;1.0491045;False;;;;;0
+392;L'Escale du Gros-Horloge;49.44179;1.09115;True;1.36;49.4417981;1.0911359;https://panoramax.openstreetmap.fr/derivates/0f/41/1b/74/e659-484d-8c87-93cbc3b723cb/sd.jpg;10
+393;Appartement Superbe Vue Mer et Funiculaire;50.0607804;1.3667727;True;1.34;50.0607915;1.3667655;https://panoramax.openstreetmap.fr/derivates/29/04/4c/85/8be3-45d3-8b07-80f063c7d995/sd.jpg;10
+394;Gîtes de France® - François et Auguste;49.49205;0.1143283;True;0.36;49.492051;0.114333;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/76/1b/cc/b0/c1e6-4aac-8b93-9cb29551786f/sd.jpg;10
+395;Sortie nature :  Contes au fil de l'eau;49.5181785;0.2045656;True;32.86;49.5184429;0.2043622;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/d9/87/47/0f/bc6b-4701-8c77-70f2c6958068/sd.jpg;10
+396;Les Toits de Dieppe;49.9258071;1.07614956;False;;;;;10
+397;"Gîte ""le Bâtiment""";49.696025;0.694458;False;;;;;0
+398;[Escape Game] Mémoires de la fôret;49.860918;1.083522;False;;;;;0
+399;La Terre est Ronde pour Ceux qui S'aiment;49.7468258;0.4506207;False;;;;;0
+400;Epicerie d'Yport;49.7386861;0.3127606;False;;;;;0
+401;Aire de pique-nique de Martainville-Epreville;49.4589235;1.29345145;False;;;;;0
+402;L'Écurie et l'Étable;49.6818803;0.1762494;True;4.09;49.681866;0.176197;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/45/00/ce/88/0599-4bd7-8af0-755697835b3c/sd.jpg;10
+403;Visite : Les Cordiers au temps des bains de mer;50.0620054;1.36779197;True;12.43;50.061902357;1.367859555;https://panoramax.openstreetmap.fr/derivates/c3/78/56/b2/895a-49b5-b5cd-a1ead7ab3463/sd.jpg;10
+404;Les chemins de forrières;49.862342;0.848781;False;;;;;0
+405;Hôtel La Villa 10;49.7074957;0.20683059;True;4.54;49.707529;0.206794;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/1f/ef/de/6a/c32f-4763-abe9-5c9ebff5833c/sd.jpg;10
+406;La Villa Castel;49.9242282;1.07124743;True;29.96;49.924128697;1.070858535;https://panoramax.openstreetmap.fr/derivates/5e/da/1d/b8/838d-4db8-b85f-3f8af68c4c2f/sd.jpg;10
+407;Centre de santé de Fontaine le Dun;49.8117736;0.8501106;True;37.68;49.812020718;0.849751366;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/08/67/e9/c5/7edc-460b-b52a-7829b27be966/sd.jpg;10
+408;Parcours nature de la Basse Vallée de la Durdent;49.8522973;0.60170964;True;15.04;49.852416667;0.601611111;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/93/f6/65/92/779c-408f-a250-72c4fe67bfe9/sd.jpg;10
+409;Atelier petit miroir rond;49.59953;1.11099;False;;;;;0
+410;Gîtes de France® - Chez Mireille;50.057041;1.3852458;True;5.08;50.0570846;1.385267;https://panoramax.openstreetmap.fr/derivates/71/9c/ab/88/0918-44cc-bb03-1056ddd4d2cc/sd.jpg;10
+411;Cours de catamarans - Centre Nautique du Tréport;50.062604;1.37807467;True;1.85;50.062591;1.3780586;https://panoramax.openstreetmap.fr/derivates/6c/eb/c7/bd/5431-4d6d-8108-8f54c190de37/sd.jpg;10
+412;Forêt domaniale d'Arques;49.880241;1.125068;False;;;;;0
+413;Visite de Ville « Ferro et Aqua »;49.6128418;1.545757;False;;;;;0
+414;Marché traditionnel;49.8742736;0.79798405;False;;;;;0
+415;La Saurisserie;50.059701;1.378606;True;7.25;50.059766;1.378597972;https://panoramax.openstreetmap.fr/derivates/59/61/85/f6/c715-4d78-a78a-712194ec67e3/sd.jpg;10
+416;La soirée de l'année ! Ebb'Flow en concert;49.7780328;0.9787456;False;;;;;0
+417;L'Espace Beauté de Sophie Coiffure;49.72118;0.7841;False;;;;;0
+418;Le Séchoir à Lin;49.65436;0.76753;False;;;;;0
+419;Auberge de la Forêt;49.901243;1.230756;False;;;;;0
+420;Hôtel Restaurant le Scie-Gare;49.716787;1.099374;True;12.43;49.7168387;1.0992207;https://panoramax.openstreetmap.fr/derivates/4b/78/6e/8e/4de0-4af5-83c7-cb4fac4b1cfc/sd.jpg;10
+421;Camping Les Prés de la Mer;49.8258576;0.63470183;True;19.09;49.826027778;0.634666667;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/3f/61/24/92/e77b-4669-9a05-3ae31200df88/sd.jpg;4
+422;Résidence du bord de mer n°5;50.056881;1.3732369;True;10.06;50.056879972;1.373096;https://panoramax.openstreetmap.fr/derivates/85/5a/b8/25/468e-477e-8eb1-517f17bbfec7/sd.jpg;10
+423;La Charreterie - Studio;49.5019976;0.3816444;True;13.77;49.501877;0.381688;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/82/07/6e/c3/95c5-4f40-8ee9-9d134b0b89e5/sd.jpg;10
+424;Mme ROSSIGNOL Geneviève;50.05908;1.38143;True;8.71;50.05912;1.381534972;https://panoramax.openstreetmap.fr/derivates/db/b4/05/27/9f95-4c94-9972-76857450f8b7/sd.jpg;10
+425;Gîtes de France® - Le Colombier;49.8047145;1.6485089;False;;;;;0
+426;Gîtes de France® - Le Clos des Fleurs;49.3994444;1.18;False;;;;;0
+427;Les Magiciens de La Nuit;49.7428946;0.5145614;False;;;;;0
+428;Foyer de la culture et des loisirs de Clères;49.59978;1.10853;False;;;;;0
+429;Gîtes de France® - La Villa;49.596;0.5188;True;4.49;49.596024231;0.518849778;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/c7/f3/ea/51/617f-43b7-b3b7-fb927513e429/sd.jpg;10
+430;Exposition - Enfants et alcools : normes, éducation, prévention;49.4414;1.10167;True;3.65;49.4414308;1.1016527;https://panoramax.openstreetmap.fr/derivates/5a/31/5a/95/19df-4699-845d-d0b7e50669c3/sd.jpg;10
+431;Aire de stationnement et de service Camping Les Falaises de Toussaint;49.7411096;0.41656066;True;12.79;49.741138333;0.416388333;https://panoramax.openstreetmap.fr/derivates/24/1c/d5/7b/e074-4306-add7-d90fd41cb266/sd.jpg;10
+432;Bistrot des Barrières;49.9262917;1.0796228;True;8.59;49.9263492;1.0795427;https://panoramax.openstreetmap.fr/derivates/fd/03/a7/60/8cc6-4406-839e-0530aa2e79aa/sd.jpg;10
+433;"Visites commentées ""Mémoires d'Albâtre""";49.854111;0.610423;False;;;;;10
+434;Huitres de Veules-les-Roses;49.90505;0.92525;False;;;;;0
+435;Visite de la Chapelle de Villedieu et du village de Haucourt;49.635882;1.649142;False;;;;;0
+436;Gîtes de France® - La Grange au Pré des Marées;49.8100189;0.911409;False;;;;;0
+437;Ferme pédagogique d'Épaville;49.537794;0.197159;False;;;;;0
+438;L'Abel maison de MADAM Paris;49.57087;0.32707;True;23.99;49.571071;0.326949;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/04/84/5c/da/a37d-4ffe-9042-1eb9d156b3d2/sd.jpg;10
+439;Sortie nature avec Plantes et Fruits Brayons;49.671387;1.516699;False;;;;;0
+440;L'idylle;49.9021397;0.92183094;False;;;;;0
+441;Gîtes de France® - La Lampotte 1;49.6963888;0.27461111;False;;;;;0
+442;Grandes voix d’Afrique - Lauréats du concours international de chant;49.4446789;1.1001902;True;23.46;49.4447446;1.0998818;https://panoramax.openstreetmap.fr/derivates/e9/92/e1/19/934a-4d37-8e83-d7b05cd04e01/sd.jpg;10
+443;Yvetot fête la nature – Marché aux végétaux;49.61798;0.75402;False;;;;;6
+444;Exposition : la vie dans les années 1920;49.6136629;1.5463089;False;;;;;0
+445;Le verger du Mesnil;49.9694292;1.44647429;False;;;;;0
+446;Gîte de Laure;49.8960868;0.91773242;False;;;;;0
+447;Concert : Helios 10 Ans - Acte 1;49.500977;0.1435657;True;12.2;49.500868;0.143585;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/d2/84/d0/15/84f7-46d3-9b32-dc098c75adef/sd.jpg;10
+448;[Cérémonies] Libération d'Offranville;49.8705808;1.0493288;False;;;;;0
+449;Hôtel Sofhôtel;49.6147965;1.5524037;False;;;;;0
+450;Week-end « Pause en couple » à l’écrin de l’Andelle;49.4752524;1.4361581;False;;;;;0
+451;Séance de yoga;49.8633661;0.711919;True;24.45;49.863583333;0.711972222;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f2/a1/b9/85/be8e-4a47-9f51-6b38f8a47967/sd.jpg;6
+452;Maison Caillet;49.7443614;0.4929134;False;;;;;0
+453;L'Effet des Fées;49.698386;1.124486;False;;;;;0
+454;Centre aquatique E'Caux Bulles;49.6184576;0.77409197;False;;;;;0
+455;Balade à cheval islandais;49.5381;1.40541;False;;;;;0
+456;Les Gîtes de Marjorie - La Maison de Jeanne;49.930093;1.083319;False;;;;;10
+457;Cinéma du Casino;50.0629542;1.36869675;True;10.23;50.063045671;1.368681953;https://panoramax.openstreetmap.fr/derivates/d2/11/47/8b/ae33-483b-ba71-7153579daa18/sd.jpg;10
+458;Tapisserie Literie Hoinville-Boulan;49.8285156;0.91026776;True;3.69;49.8285164;0.91021634;https://panoramax.openstreetmap.fr/derivates/a9/5a/82/e7/e456-4260-a986-f97dd969f07e/sd.jpg;3
+459;Port de Plaisance;49.8686517;0.71095715;True;5.26;49.86861084;0.710920126;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/e2/dc/a0/25/e0b8-433c-a2de-3d79474b5f26/sd.jpg;10
+460;Découverte nature en famille - Le cyanotype;49.59786;1.11045;False;;;;;0
+461;Bois-Guilbert Élégance, by Art Automobile;49.5379528;1.4047237;False;;;;;0
+462;Le Caillebourg 1;49.6454722;0.88166389;False;;;;;0
+463;La Bergerie;49.48875;1.33347222;False;;;;;0
+464;L'Ô2 Mer;49.9261066;1.0713272;False;;;;;10
+465;Musée des Sapeurs-Pompiers de France;49.5474339;1.07568366;False;;;;;0
+466;Gîte de la Vallée;49.60428;0.98636;False;;;;;0
+467;Ferme des Chataigniers;49.510557;1.323185;False;;;;;0
+468;Visite naturaliste des falaises : Falaise d'Aval ou d'Amont;49.70432;0.211098;True;15.17;49.704212;0.211227;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/98/5f/65/08/fbd7-4853-a94a-172ac1a769da/sd.jpg;10
+469;Marché d'Aumale;49.7700106;1.7519636;False;;;;;0
+470;"Théâtre : ""Journal de mer""";49.826211;0.71507763;True;9.44;49.82625;0.715194444;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/c1/c5/50/74/0fc2-4b10-8f11-762b0665acc8/sd.jpg;10
+471;Festival “ Ça bouge dans mon quartier ” à Blangy-sur-Bresle;49.9324129;1.6300539;False;;;;;0
+472;L’Arlésienne - Georges Bizet;49.4395264;1.0894296;True;33.7;49.439627;1.088989972;https://panoramax.openstreetmap.fr/derivates/d5/96/0f/d7/0f07-47f9-aca8-7d46a6bc5825/sd.jpg;10
+473;Vacances de printemps créatives avec Manufactory;49.4892907;0.108098;True;7.68;49.4892228;0.1080782;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/26/5b/49/93/c5ca-4f7d-8baa-22eefeb8f144/sd.jpg;10
+474;Au balcon de la falaise;50.0570043;1.3730692;True;1.04;50.0570045;1.3730547;https://panoramax.openstreetmap.fr/derivates/05/3a/1a/57/3c06-4887-8879-6a942fab8f1b/sd.jpg;10
+475;La Petite Salamandre;49.7083361;0.2035266;True;25.81;49.708107;0.203469;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/21/d7/ca/f7/5b20-4fb4-b46b-cdaf0489e86e/sd.jpg;10
+476;Wonder Women - L’Arpeggiata;49.4446789;1.1001902;True;23.46;49.4447446;1.0998818;https://panoramax.openstreetmap.fr/derivates/e9/92/e1/19/934a-4d37-8e83-d7b05cd04e01/sd.jpg;10
+477;[Atelier] Fabrication de lumignons;49.9163852;1.070615;False;;;;;0
+478;Visite naturaliste Natterra : Marée de découverte en famille à Etretat;49.7072999;0.1935822;False;;;;;0
+479;La Bichotterie;49.595295;0.728116;False;;;;;0
+480;La Vallée de Valmont;49.74068;0.51743699;False;;;;;0
+481;Bourvil à bicyclette;49.7214097;0.7834738;False;;;;;0
+482;Restaurant du Clos Rouen - La Vaupalière;49.48162;1.01325;False;;;;;2
+483;Le Mont de Beaussault;49.6873068;1.4984572;False;;;;;0
+484;Aire de pique-nique de Bosc-le-Hard;49.625549;1.175255;False;;;;;0
+485;Au pied des vagues;50.061317;1.368546;True;10.18;50.061232277;1.368492084;https://panoramax.openstreetmap.fr/derivates/1a/0e/3b/0b/7442-480e-a47e-94f49e349688/sd.jpg;10
+486;"Catamaran 14"" - Stage";49.8770242;0.7972283;False;;;;;0
+487;Téléski nautique - Base de Loisirs de Caniel;49.8011932;0.6312391;True;38.66;49.801194444;0.631777778;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/3b/10/99/71/74e0-4c23-a13a-6c25be69e75e/sd.jpg;10
+488;Villa Jack'Line - RDC;49.8700184;0.7126278;False;;;;;10
+489;Camping Etennemare;49.8587158;0.70289968;False;;;;;0
+490;Flab' des Vents;50.060728;1.366953;True;7.73;50.060776307;1.366875047;https://panoramax.openstreetmap.fr/derivates/f3/90/9d/2c/228f-432f-a97f-ae2393716693/sd.jpg;10
+491;Hôtel Ibis Budget Petit-Quevilly;49.4254486;1.05517589;True;34.83;49.425557471;1.054724374;https://panoramax.openstreetmap.fr/derivates/96/29/de/41/5e82-4256-a373-4517e36ca24e/sd.jpg;10
+492;La Maison du Rebours;49.59151;1.68911;False;;;;;0
+493;Chez M. Calentier;49.57352;0.47937;True;1.99;49.5735038;0.479358228;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/35/d4/79/2a/6bf3-4c0d-a113-3db704afde00/sd.jpg;10
+494;Théâtre : Victor Hugo, un géant dans un siècle;49.5033248;0.1650465;False;;;;;10
+495;Gîte Peintres Impressionnistes Normandie;49.6559253;0.2419778;False;;;;;0
+496;L'échoppe l'Atelier Des Marées;50.0163;1.31729;True;3.45;50.01632;1.317253;https://panoramax.openstreetmap.fr/derivates/1e/ae/ca/5f/b6e9-4cbe-a56d-e3bf7dcb1f8c/sd.jpg;10
+497;Le Denver;49.49214;0.10679;True;19.0;49.492301002;0.10687817;https://panoramax.openstreetmap.fr/derivates/60/86/63/ab/ee98-4cf1-bcf8-ad3fe300f20d/sd.jpg;10
+498;Concours de Pêche en mer;49.9053409;0.9262351;False;;;;;0
+499;Mme Catherine Langaney;49.7576874;0.36749887;False;;;;;0
+500;L’histoire d’Yvetot à travers les noms de ses rues;49.6173244;0.7549866;False;;;;;0
+501;Humour : Thomas Marty;49.4881755;0.1300304;False;;;;;10
+502;À la découverte de Bondeville et Colleville;49.77239;0.46148;False;;;;;0
+503;Forêt de Jumièges;49.4318565;0.81783516;True;8.2;49.43188345;0.81772965;https://panoramax.openstreetmap.fr/derivates/20/3d/24/86/df88-4125-b34e-6404fa008f89/sd.jpg;10
+504;Les Brisants;49.9036284;0.92052869;False;;;;;0
+505;La Sirène - Restaurant;49.7393039;0.3094304;False;;;;;0
+506;Visite commentée de la Collection de faïences « Vieux Forges »;49.6126371;1.5466693;False;;;;;0
+507;Rendez-vous aux jardins;49.4469844;0.9647736;False;;;;;0
+508;Jardin-clos du Manoir du Fay;49.623361;0.757497;False;;;;;0
+509;Visite thématique : Les secrets gravés de l'abbaye;49.5033248;0.1650465;False;;;;;10
+510;Valleuse de Senneville-sur-Fécamp;49.7827359;0.41876521;False;;;;;0
+511;Point Location Nautisme;49.761595;0.36313234;False;;;;;0
+512;Château d'Ouville l'Abbaye;49.694255;0.864014;False;;;;;0
+513;Atelier : gravure à emporter;49.5033248;0.1650465;False;;;;;10
+514;Réouverture du Jardin Agapanthe;49.65267;1.189455;False;;;;;3
+515;Le Pavillon du Bosc aux Moines;49.7200082;0.8601035;False;;;;;0
+516;Gîtes de France® - Le Grand Catillon;49.5536111;0.97194444;False;;;;;1
+517;Découverte du Marais de Longueil;49.882934;0.9543739;False;;;;;0
+518;Visite guidée : L'USST 488;49.4866618;0.12472596;False;;;;;8
+519;Rallye du Patrimoine;49.5253848;0.76594699;False;;;;;10
+520;Marché traditionnel;49.7871911;0.63861211;True;8.82;49.78725;0.638694444;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/29/71/ac/9e/5b3b-4983-a128-add3989938ea/sd.jpg;10
+521;La Régissière;49.47843;0.67961;True;3.75;49.478454275;0.6796461;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/48/6e/13/98/2036-4e5a-a9af-6ffb9981c351/sd.jpg;10
+522;Maison de Santé pluridisciplinaire Les Carmes;49.4424311;1.0963744;True;7.6;49.442497222;1.096401111;https://panoramax.openstreetmap.fr/derivates/01/62/6a/26/5cdf-4d31-ab78-d725991e5c9d/sd.jpg;10
+523;Vestiges du Château Gauthier Giffard;49.7926303;1.11481275;False;;;;;0
+524;Biclou à [H]istoires en balade gourmande autour du Tortillard;49.7042745;0.9624587;False;;;;;0
+525;Gîtes de France® - Gîte du Valnaye;49.4030888;0.94839167;False;;;;;0
+526;Villa quai du Tréport;50.0595934;1.3797546;True;10.89;50.059677;1.379834;https://panoramax.openstreetmap.fr/derivates/23/d9/7b/7e/4d0d-4d71-a795-3bcfa38a3b4c/sd.jpg;10
+527;Le Bistrot de la Pucelle;49.44205;1.0889;True;14.03;49.4419591;1.0887655;https://panoramax.openstreetmap.fr/derivates/34/1c/72/46/0a52-4bad-9e3d-179fca8573ec/sd.jpg;10
+528;Brasserie Saint Joseph - Boutique;49.4797623;0.15020758;False;;;;;0
+529;Gîtes de France® - Le Catteville;49.8254194;1.06948333;False;;;;;0
+530;L'ancienne forge, chambres d'hôtes;49.5685943;0.72367903;False;;;;;0
+531;Journées archéologiques régionales de Normandie 2026;49.44045;1.09594;True;7.4;49.4405046;1.0958814;https://panoramax.openstreetmap.fr/derivates/2c/56/8e/86/4fc5-4e15-a0a2-a21e366aa2b4/sd.jpg;10
+532;Cours d'équitation en petit comité;49.5381;1.40541;False;;;;;0
+533;[Sortie Nature] Falaises vivantes à Dieppe;49.924977;1.066356;False;;;;;10
+534;Parc du chateau de Merval;49.50575;1.61006;False;;;;;0
+535;La Paysagerie;49.6310598;0.77376793;False;;;;;0
+536;Concours de pétanque;49.5131415;1.6963887;False;;;;;0
+537;Entre Varenne et Scie;49.7922009;1.11041394;False;;;;;0
+538;la Ferme des Trois Portes;49.8285252;0.92116565;False;;;;;0
+539;Palais Ducal;49.7550929;0.38008898;False;;;;;1
+540;Boucle VTT de Saint-Jean-de-Folleville;49.523113;0.50582564;True;1.19;49.523122397;0.505833547;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/69/ed/65/57/38e0-4d8e-98a1-46ec03da47f4/sd.jpg;10
+541;La belle histoire;50.0585112;1.4180218;True;4.58;50.0585146;1.4179579;https://panoramax.openstreetmap.fr/derivates/21/f5/99/f3/c6f9-4712-a532-347933d59f51/sd.jpg;10
+542;MuséoSeine, musée de la Seine normande;49.5244887;0.72220095;True;37.41;49.524820833;0.722118694;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/1b/9f/43/87/fac0-49d3-85c8-fd63f212fe8a/sd.jpg;10
+543;Descente de la Durdent en kayak ou en paddle;49.8530594;0.6013477;True;20.19;49.853222222;0.601472222;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/49/90/8c/ec/43d3-4aea-b4ac-aa52f2967e95/sd.jpg;10
+544;Centre équestre des Droops;49.515309;0.601878;True;38.04;49.515423089;0.602374792;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/c1/33/a5/60/73d6-47b9-b4a1-62e52030f3c5/sd.jpg;10
+545;Savon D'ICI;49.620863;0.786154;False;;;;;0
+546;LU6D;49.4391646;1.09775039;True;7.68;49.4391041;1.0976992;https://panoramax.openstreetmap.fr/derivates/ec/c2/f2/3a/1fd2-41cd-81d3-618b674f5664/sd.jpg;10
+547;Gîtes de France® - Le Clos du Bailly;50.0198888;1.44802778;False;;;;;0
+548;PR La Forêt de Jumièges;49.4523022;0.83231211;False;;;;;0
+549;Atelier Yin Yoga;49.8722937;0.79993201;False;;;;;0
+550;La Fumisterie - dîners spectacles;49.75363;0.39674;False;;;;;0
+551;La surprise;50.05974;1.37425;True;0.62;50.0597394;1.3742587;https://panoramax.openstreetmap.fr/derivates/af/66/58/44/19fb-42e8-bd7a-8ee398a93371/sd.jpg;10
+552;Église de Vatierville;49.77725;1.50071;False;;;;;0
+553;Boutique de la Maison de la Rando et du Trail;49.52481;0.72982;True;1.47;49.524822864;0.729815072;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/a0/77/13/95/daff-4f9b-9e4d-c05978d89e19/sd.jpg;10
+554;La Maisonnette;50.0301414;1.3858976;True;4.24;50.030117;1.385852;https://panoramax.openstreetmap.fr/derivates/7b/32/d4/71/5922-4028-8884-fc14f2a9524e/sd.jpg;10
+555;Chez Annie et Claude PIZZAGALLI;49.526223;0.721958;True;2.96;49.52624015;0.721989333;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/b4/df/e3/ba/0b43-4d10-8ca9-b151db9fc09d/sd.jpg;10
+556;Visite thématique : Architecture romane, architecture gothique;49.5033248;0.1650465;False;;;;;10
+557;Gîte L'Air du Large;49.5625819;0.1014357;True;18.72;49.562748;0.101393;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/71/74/6a/54/554e-4376-93de-a7ec2cc4bf30/sd.jpg;10
+558;Exposition : Pietra, une ville rêvée;49.4939958;0.1085678;False;;;;;10
+559;Visite commentée de l’église Saint Eloi;49.6124451;1.5426182;False;;;;;1
+560;Château d'Herbouville;49.8488374;0.8715614;False;;;;;0
+561;Villa The Treport;50.0597;1.3745;True;0.69;50.0597041;1.3745072;https://panoramax.openstreetmap.fr/derivates/39/b0/c4/b5/6d56-4c95-821a-cb99fc50130d/sd.jpg;10
+562;The People Bar;49.4931351;0.1306799;True;46.77;49.492741;0.130906;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/fb/12/5f/b2/a820-41d5-a5fc-0582f89db535/sd.jpg;10
+563;Aire de pique-nique de Montville;49.545788;1.074472;False;;;;;0
+564;L'Hirondelle;49.52538;0.73096;True;1.97;49.525384878;0.730986264;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/84/b5/00/1c/6e44-4731-9455-a6cf01fac732/sd.jpg;10
+565;Balade commentée de Serqueux;49.6314152;1.538251;True;44.92;49.6315401;1.5388441;https://panoramax.openstreetmap.fr/derivates/be/a6/83/74/775c-4b40-9253-97d830973822/sd.jpg;10
+566;Exposition : Famille Gaignoux - Transmission et métamorphoses;49.5447941;0.19272699;True;36.06;49.544893;0.193203;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/65/c7/66/aa/ca71-4c0e-8c87-49edf5ccca7f/sd.jpg;10
+567;A.R.C.A.D.E. Bowling;49.4972241;0.5745784;True;20.64;49.4970509;0.5744757;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/18/8b/dc/e8/d917-433c-babf-6343b4752ba7/sd.jpg;10
+568;[Atelier] Couture;49.92952;1.0840965;True;11.9;49.929463914;1.084238135;https://panoramax.openstreetmap.fr/derivates/49/59/ea/a0/b585-4daa-83c5-4d99af114918/sd.jpg;10
+569;Exposition : La vie quotidienne pendant la Seconde Guerre Mondiale;49.7458794;1.2735764;False;;;;;0
+570;Moulin de l'Arbalète;49.6887367;1.1031901;False;;;;;0
+571;Glaces Ortiz;49.49601;0.0964;True;5.92;49.496033;0.096474;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/c7/96/30/72/fe90-4aaf-b565-ba63c02d32f6/sd.jpg;10
+572;Vacances de printemps créatives avec Manufactory;49.4892907;0.108098;True;7.68;49.4892228;0.1080782;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/26/5b/49/93/c5ca-4f7d-8baa-22eefeb8f144/sd.jpg;10
+573;Le Chalet du Pêcheur;50.0185911;1.4983597;False;;;;;1
+574;Gîte des Briff;49.95806;1.47726;False;;;;;0
+575;Cap Fécamp à Tribord;49.75846;0.36464;False;;;;;0
+576;Ancien Bailliage d'Arques la Bataille;49.88108;1.12539;False;;;;;0
+577;Atelier d'argile en famille;49.44002;1.0995;True;1.24;49.4400119;1.0995117;https://panoramax.openstreetmap.fr/derivates/e7/9a/36/d2/6c5e-44d1-8431-1bfb085179d0/sd.jpg;10
+578;Gîtes de France® - La Maison Rouge;49.5758388;1.38525833;False;;;;;0
+579;La Cascade;49.7870206;0.63469648;True;26.99;49.787083333;0.634333333;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/e8/b7/82/2a/84f1-4c67-8910-7e60a24f8e6d/sd.jpg;4
+580;Le Refuge de la Sente;49.75738;0.36755;False;;;;;0
+581;Théâtre : La Ferme des Animaux;49.5442684;0.1946963;True;8.7;49.544323;0.19461;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/05/6f/d3/27/5af9-4cc1-9945-e9c20e322d6e/sd.jpg;10
+582;"Marché à la ferme ""Les Prés d'Artemare""";49.7680433;0.7305165;False;;;;;0
+583;Lecture spectacle Ne m’enterrez pas vivante, vérifiez bien !;50.057746;1.3800998;True;9.14;50.057816;1.380166972;https://panoramax.openstreetmap.fr/derivates/0a/04/f2/e7/7ee6-45af-b00e-59ebf5659e2a/sd.jpg;10
+584;Aire de stationnement et de service d'Eu;50.0528817;1.4262472;True;1.18;50.0528742;1.4262356;https://panoramax.openstreetmap.fr/derivates/42/11/e1/23/0a32-46df-adce-b95e1be2f2a1/sd.jpg;10
+585;Le Bouche à Oreille;49.5481561;1.07388379;False;;;;;0
+586;Appartement en plein coeur de Saint-Valery-en-Caux;49.860582;0.708557;False;;;;;0
+587;Agrimont;49.813539;1.0099414;False;;;;;0
+588;Concert : Gospel pour 100 voix - The Deliverance Tour;49.4881755;0.1300304;False;;;;;10
+589;Gîtes de France® - Gîte du Loup Vert;49.4354452;0.8219582;True;23.57;49.4355469;0.82167215;https://panoramax.openstreetmap.fr/derivates/9f/45/99/2d/2407-472f-be58-e10004730327/sd.jpg;10
+590;Au fil du tissage : démonstrations du métier à tisser;49.825583;0.849337;False;;;;;0
+591;Marché des producteurs, gourmands  et artisanaux - Grande foire à tout;49.8611614;0.7133662;True;21.81;49.861277778;0.713611111;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/90/b3/79/95/0558-4d69-af76-1e3045048352/sd.jpg;6
+592;Webiozen;49.86972;0.80019;False;;;;;0
+593;Lait de Mai;49.49412;0.57918;True;1.25;49.494129728;0.579188572;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/15/92/b9/da/c7d8-446d-8bc3-78829569ac65/sd.jpg;10
+594;Maison du Parc Naturel Régional des Boucles de la Seine Normande;49.496075;0.755175;False;;;;;0
+595;BERENGERE KRIEF - SEXE;49.6154232;1.5436649;False;;;;;0
+596;La petite maison normande;49.8310312;0.91465048;True;30.83;49.830932714;0.914248611;https://panoramax.openstreetmap.fr/derivates/0d/ab/04/c4/423b-48fc-99c1-606a5a67905b/sd.jpg;4
+597;La Longère du Val;49.82319;0.90345;False;;;;;0
+598;Clinique Saint Hilaire;49.4417542;1.1132262;True;17.31;49.4418825;1.1130906;https://panoramax.openstreetmap.fr/derivates/4f/94/72/e1/b288-41e0-80de-0100f5cec5cc/sd.jpg;10
+599;La Mer à Boire;49.707362;0.202051;True;14.6;49.707483;0.20213;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/76/18/4b/89/33ef-42a3-82cc-6ad9e5f0efcf/sd.jpg;10
+600;Restaurant de l'Hôtel L'Aiguille Creuse;49.70753;0.20144;True;1.74;49.707515;0.201433;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/7e/fc/aa/85/13d4-4486-a7c3-83e460277e7b/sd.jpg;10
+601;Gîte le clos des Nandous;49.5026916;0.3834488;False;;;;;10
+602;Gite à la ferme;49.5676673;1.5299405;False;;;;;0
+603;Ferme de Bray Conservatoire de la Mémoire Rurale;49.6331004;1.4538217;False;;;;;0
+604;Un Été musical au Jardin,  7e édition;49.5379528;1.4047237;False;;;;;0
+605;Chez Doudou entre Terre et Mer;49.76316;0.8797;False;;;;;0
+606;Marché d'Auzouville sur Ry;49.442258;1.310761;False;;;;;0
+607;Sur la trace des chevaux;49.4573157;0.36524272;False;;;;;0
+608;Atelier participatif : Carnet d’idées pour mon jardin;49.5037784;0.0942485;False;;;;;10
+609;La Côte de la Vierge;49.7623496;0.37340029;False;;;;;0
+610;Château d'Eu - Musée Louis-Philippe;50.0493884;1.41708645;False;;;;;10
+611;Pont Colbert;49.9272658;1.08507763;True;2.67;49.9272898;1.0850792;https://panoramax.openstreetmap.fr/derivates/39/0c/28/34/ad9d-4948-9895-baac3d81853a/sd.jpg;10
+612;La Maison de Patou;49.7573234;0.3630514;False;;;;;0
+613;Fête Patronale de Serqueux;49.6314152;1.538251;True;44.92;49.6315401;1.5388441;https://panoramax.openstreetmap.fr/derivates/be/a6/83/74/775c-4b40-9253-97d830973822/sd.jpg;10
+614;Enigma Keys;49.61165;1.53013;False;;;;;0
+615;[Atelier Nature] À vos nichoirs ! Atelier familial à Offranville;49.8752366;1.0511653;False;;;;;0
+616;RICHARD Maryse;50.061061;1.3690927;True;34.3;50.0607559;1.36916318;https://panoramax.openstreetmap.fr/derivates/1b/66/03/12/db8a-4654-bed4-b50f7bb6a83d/sd.jpg;10
+617;D'Eux-Mêmes;49.4425858;1.0882469;True;29.1;49.442836;1.0881287;https://panoramax.openstreetmap.fr/derivates/a9/ae/eb/c5/5871-4e4d-8cc5-cc36118c7714/sd.jpg;10
+618;Team Break Rouen;49.4385486;1.10122896;True;37.3;49.4382339;1.1010505;https://panoramax.openstreetmap.fr/derivates/f8/97/c9/bb/0e65-460b-ba3f-eea91dda0bd6/sd.jpg;10
+619;Isa Lin Créations;49.8652533;0.88731599;True;48.89;49.865321;0.88799;https://panoramax.openstreetmap.fr/derivates/a4/4d/5a/c9/d1a6-42b1-92b1-42f3d5ce33ea/sd.jpg;4
+620;Chez Sylviane et Olivier;50.030481;1.391639;False;;;;;10
+621;Bienvenue chez Mme Saint-Martin;49.7067405;0.20303109;True;9.3;49.706711;0.20291;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/c0/fb/94/88/4c76-4b60-bd11-74d4d1a943cd/sd.jpg;10
+622;Boucle de l'Hippodrome à cheval;49.604343;1.468052;False;;;;;0
+623;Four à pain de Flainville;49.8850075;0.89525794;False;;;;;0
+624;Gîtes de France® - La Clozette;49.670964;0.189129;True;3.04;49.670985;0.189156;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/fa/a9/c7/84/942f-44a4-8c83-ef5b999535cc/sd.jpg;10
+625;Les Hirondelles;49.5819444;0.72805556;False;;;;;0
+626;Expo Dominique Cointrel;49.5985633;1.109007;False;;;;;0
+627;"Visites guidées ""Les Trois trésors de Blainville""";49.50481;1.30599;False;;;;;0
+628;Aire de stationnement du Camping Les Mouettes;49.8281797;0.54978846;False;;;;;5
+629;Entre Seine et Terre;49.4759544;0.63706263;True;14.29;49.475831194;0.637119114;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f2/81/b5/00/339b-42e8-8ed4-1061663c4274/sd.jpg;10
+630;Ciné Seine;49.6024627;1.1154521;False;;;;;5
+631;Jardin du Mesnil et Parc Botanique de Bray;49.6228286;1.34343893;False;;;;;0
+632;Balade au fil de l'Austreberthe;49.5163889;0.917741;False;;;;;0
+633;La Maison des Sources 2;49.612976;1.543993;False;;;;;0
+634;Bien dans mon jardin : Dans le jardin de ma main;50.056881;1.3732369;True;10.06;50.056879972;1.373096;https://panoramax.openstreetmap.fr/derivates/85/5a/b8/25/468e-477e-8eb1-517f17bbfec7/sd.jpg;10
+635;[79ème Salon des Peintres & Sculpteurs];49.9073165;0.99459107;False;;;;;0
+636;Atelier l'Oeil du Photographe;49.6975799;0.839754;False;;;;;0
+637;[Fermé] Casino Joa Etretat;49.7086665;0.20286997;True;20.95;49.708521;0.203055;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/d9/79/4a/f0/523b-40c3-9df8-ddb8f309ebb2/sd.jpg;10
+638;La Cavée des Sabotiers;49.493466;1.48067;False;;;;;0
+639;Guillaume Fourrier · Guide de pêche · 29 records France et monde;49.92851;1.0817;True;8.09;49.92857;1.081763972;https://panoramax.openstreetmap.fr/derivates/82/bb/b6/eb/b63b-41ba-8bcf-e72376f52583/sd.jpg;10
+640;[Théâtre d'objets] Un océan d'amour;49.896928;1.033522;False;;;;;0
+641;Le Comptoir JOA;49.7608231;0.3738151;False;;;;;0
+642;Masterclass d’aquarelle – Thème du lin;49.7140026;0.7549691;False;;;;;0
+643;Maison des Dalles;49.80155;0.51713333;False;;;;;0
+644;Balade commentée avec Claudine Naty;49.46955;1.672229;False;;;;;0
+645;"Studio ""Le Panoramic""";49.8686631;0.71543934;True;41.3;49.868693333;0.714865;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f0/da/cf/7d/2177-4c37-89f0-ed34a823ef8a/sd.jpg;10
+646;Le Manège;49.52999;0.70089;True;1.71;49.530001903;0.700904967;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f7/d8/47/74/f7e9-4417-9673-b74825fbf5f3/sd.jpg;10
+647;CHEVRIER Véronique;50.025864;1.388127;True;3.31;50.0258869;1.3881565;https://panoramax.openstreetmap.fr/derivates/49/d0/57/3d/d641-4bcf-9ebd-8fb40c508389/sd.jpg;10
+648;Chez le roi des Canaries;49.755382;0.7221419;False;;;;;0
+649;Clinique Bois Guillaume;49.4644733;1.115801;False;;;;;0
+650;Terre du Lin à VTT;49.825583;0.849337;False;;;;;0
+651;Port de plaisance de Saint-Aubin lès Elbeuf;49.29757;1.03422;False;;;;;0
+652;Catamaran - Location;49.8530168;0.6013804;True;23.77;49.853222222;0.601472222;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/49/90/8c/ec/43d3-4aea-b4ac-aa52f2967e95/sd.jpg;10
+653;Gîtes de France® - L'appartement du Chanteclerc;49.4942392;1.1409347;False;;;;;0
+654;La Belle Jeannette - Appartement 2;50.06152;1.37001;True;12.63;50.06146321;1.36985672;https://panoramax.openstreetmap.fr/derivates/5e/cf/af/88/005f-4651-ab5b-577fa074b08b/sd.jpg;10
+655;Randonnée à Beaussault;49.6699268;1.5984165;False;;;;;0
+656;Le Bristol;49.8748497;0.79768935;False;;;;;0
+657;Mont Madame;49.954629;1.55023099;False;;;;;5
+658;Gîtes de France® - Colombier de Caux;49.7783888;0.80308333;False;;;;;0
+659;"Exposition ""Fantastique physique !""";49.4414;1.10167;True;3.65;49.4414308;1.1016527;https://panoramax.openstreetmap.fr/derivates/5a/31/5a/95/19df-4699-845d-d0b7e50669c3/sd.jpg;10
+660;L'Evasion;50.0609322;1.3675976;True;27.66;50.061164635;1.367459425;https://panoramax.openstreetmap.fr/derivates/f4/9e/d3/29/8afb-40ef-bab6-232c2841e9c2/sd.jpg;10
+661;[Cabaret] Le grand show des amoureux;49.9213557;1.0799553;False;;;;;10
+662;Circuit de la mer;49.9047515;0.92310499;False;;;;;0
+663;Camping Le Clos des Charmilles;49.7827187;0.6424856;False;;;;;4
+664;Croisière promenade sur la Seine;49.444672;1.067544;True;40.68;49.444315485;1.067417938;https://panoramax.openstreetmap.fr/derivates/a0/8b/47/85/bd21-4b79-a672-c37d877143b3/sd.jpg;10
+665;La Mare aux Daims à VTT;49.73277;1.57921459;False;;;;;0
+666;Les Clos Masures à VTT;49.65345;0.53664;True;44.61;49.6531534;0.5370572;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f7/06/ca/f8/aa5c-451b-967b-210dc6d4adfa/sd.jpg;10
+667;Exposition de vieilles voitures avec l'Association Un Brin de Souvenir à Yerville;49.66916;0.8978298;False;;;;;8
+668;Gîtes de France® - La Cour du Puits;49.86157;0.71701;False;;;;;9
+669;Gîtes de France® - du Mesnil;49.6565858;0.92436026;False;;;;;0
+670;Les Bains des Docks - Institut;49.487608;0.12698419;True;1.89;49.487594;0.126999;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/e4/21/61/69/4d87-4620-8eac-c31f70691405/sd.jpg;10
+671;Le gîte de Malaunay;49.5253321;1.0432216;False;;;;;0
+672;Gîtes de France® - Le Brandeville;49.7300611;0.28728056;False;;;;;0
+673;Les Proses Trémières;49.7390599;0.3105659;False;;;;;0
+674;La Veules;49.8618632;0.84907199;False;;;;;0
+675;Routes par le Maroc;49.721286;0.784978;False;;;;;0
+676;Planche à voile - Cours particuliers;49.8772831;0.7970761;False;;;;;0
+677;Hôtel Mercure Rouen Centre Champ de Mars;49.4358519;1.1038896;True;26.22;49.4360872;1.1039128;https://panoramax.openstreetmap.fr/derivates/70/06/6d/33/4630-4e07-b551-77ae39b5d30d/sd.jpg;10
+678;Valleuse du Petit-Ailly;49.90487;0.992512;True;23.08;49.9049403;0.9928153;https://panoramax.openstreetmap.fr/derivates/47/68/31/cb/2474-4b3e-8f95-a83e60426964/sd.jpg;7
+679;Le Domaine des jardins de Bracquetuit;49.6658312;1.16820106;False;;;;;0
+680;Aux rendez-vous des gourmets;49.49113;0.10476;True;4.78;49.491173;0.10476;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/97/42/0c/0e/337d-47a0-9ea5-81cbccba5eb0/sd.jpg;10
+681;Aéroport Rouen Vallée de Seine;49.3884461;1.18909318;False;;;;;0
+682;Sur la Route de l'Ouraille;49.54945;0.6890674;True;12.09;49.549548;0.68914;https://panoramax.openstreetmap.fr/derivates/f0/e0/41/6e/b7b8-4fa3-8688-ea9c08f72933/sd.jpg;10
+683;Parc Canadien - Descente en canoë-kayak;49.7855141;1.2282401;False;;;;;0
+684;La Vienne;49.8629076;0.8492837;False;;;;;0
+685;Eglise Notre Dame du Bourg Dun;49.8653416;0.88785409;True;10.01;49.865321;0.88799;https://panoramax.openstreetmap.fr/derivates/a4/4d/5a/c9/d1a6-42b1-92b1-42f3d5ce33ea/sd.jpg;4
+686;Aire de pique-nique du Bocasse;49.594361;1.074895;False;;;;;0
+687;"Visites commentées ""Mémoires d'Albâtre""";49.854111;0.610423;False;;;;;10
+688;Le Chemin des Ecoliers à VTT;49.709884;1.304758;False;;;;;0
+689;Oscar Hôtel;49.4898764;0.1072545;True;2.94;49.48985;0.107257;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/47/b5/8d/67/11ba-4515-b78f-8d9fb50e056c/sd.jpg;10
+690;Le Bourg Joli;49.6514449;1.0456451;False;;;;;0
+691;Chambre Hortensia;49.6020583;0.1375679;False;;;;;0
+692;Michael;49.3523419;0.9289978;False;;;;;10
+693;[Visite guidée] Faune, flore et histoire du Château;49.9243623;1.0704652;True;5.2;49.924342821;1.070531306;https://panoramax.openstreetmap.fr/derivates/22/91/11/8e/c744-4de1-81c4-b3aaabdb1e9c/sd.jpg;10
+694;Maison de santé pluridisciplinaire Saint Eloi;49.4415193;1.088048;True;9.88;49.4414539;1.0881406;https://panoramax.openstreetmap.fr/derivates/1d/d7/db/31/087f-469c-9af0-afebba0d1b5a/sd.jpg;10
+695;Le Commerce;49.482704;1.724868;False;;;;;0
+696;Saison 2;49.4972407;0.0914956;False;;;;;10
+697;Racines;49.7062701;0.21215318;True;44.73;49.70667;0.212221;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/d1/7c/87/4f/aae0-4fe8-b0f1-9d589fdb6dd4/sd.jpg;10
+698;La Forêt Monumentale : jusqu'en septembre 2026;49.4537361;1.0313526;False;;;;;0
+699;Concert : Broken Back;49.4891157;0.12069352;True;19.21;49.488943;0.120686;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/e4/99/26/9f/0c9b-4013-a063-da1e00d7834a/sd.jpg;10
+700;Salle Culturelle La Ficelle;49.6464571;0.36331107;False;;;;;0
+701;LE PIGEONNIER 1;50.06138;1.37122;True;4.77;50.06142176;1.371235029;https://panoramax.openstreetmap.fr/derivates/f3/50/0e/06/9885-4af3-9bd4-e40ced0a6b35/sd.jpg;10
+702;Le Gîte du Clocheton;49.708114;0.206037;False;;;;;10
+703;"Les Gîtes du Manoir du Perroy ""la Maison de Pierres""";49.55128;0.75454;False;;;;;0
+704;L'ambullangère;49.8138643;0.9520876;False;;;;;0
+705;Au Cœur des Deux Vallées à VTT;49.7486688;0.41091903;False;;;;;0
+706;Visite guidée : La Reconstruction en 90 minutes chrono !;49.4944843;0.1020939;False;;;;;10
+707;Sortie nature : Les étonnantes zones humides;49.5181785;0.2045656;True;32.86;49.5184429;0.2043622;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/d9/87/47/0f/bc6b-4701-8c77-70f2c6958068/sd.jpg;10
+708;Les clos masures;49.65345;0.53664;True;44.61;49.6531534;0.5370572;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f7/06/ca/f8/aa5c-451b-967b-210dc6d4adfa/sd.jpg;10
+709;Atelier Yin Yoga;49.8722798;0.79991055;False;;;;;0
+710;Chambre & Caux;49.72676;0.48461;False;;;;;0
+711;Autour de Guernesey;49.7074469;0.36647014;False;;;;;0
+712;Minoterie Louis Capron;49.8016541;0.94502658;False;;;;;0
+713;Vide grenier;49.4826616;1.7245633;False;;;;;0
+714;La Closerie de Nointot;49.5808222;0.4710136;True;8.63;49.580868831;0.471109306;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/7b/01/43/41/90c1-4721-bba8-31c677e0c8cc/sd.jpg;10
+715;Les Confiseurs;49.4878915;1.0422256;False;;;;;0
+716;Gîtes de France® - Le Mesnilvasse;49.6740416;0.49773611;False;;;;;0
+717;Stage Voilier Grand Surprise;49.867202;0.709735;True;2.51;49.867223267;0.709723376;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/cc/18/cf/94/3b77-40c8-9104-b0270d1f00c4/sd.jpg;10
+718;Centre Aquatique Aqualoup;49.4521314;1.03114274;False;;;;;0
+719;Découverte nature en famille - Rivière et compagnie;49.59786;1.11045;False;;;;;0
+720;Normand' Street Festival;49.4826616;1.7245633;False;;;;;0
+721;Visite guidée : Tunnel Sainte-Marie;49.50314;0.13063;True;3.94;49.503119;0.130674;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/7f/c8/af/59/8a66-4a52-83f5-04928d83331e/sd.jpg;10
+722;Auberge du Val au Cesne;49.5903512;0.79893709;True;23.32;49.590145257;0.798998122;https://panoramax.openstreetmap.fr/derivates/1a/a4/11/3d/c5a9-4c9f-ba86-afd8ae7b28cd/sd.jpg;3
+723;Conférence :  Jules Durand, le monde ouvrier et Le Havre;49.494108;0.1113567;True;16.83;49.493959;0.111316;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/e5/04/81/65/ea02-4865-870b-ad4cc7bcf13e/sd.jpg;10
+724;[Fête foraine] Foire d'été de Dieppe;49.9307276;1.08134538;True;46.66;49.9304237;1.0817948;https://panoramax.openstreetmap.fr/derivates/3a/f7/cb/83/b3ca-4720-a3d2-c83a86d093fe/sd.jpg;10
+725;Fête du cheval;49.7890051;1.0058098;False;;;;;0
+726;Papilles;49.52762;0.76518;True;7.47;49.527680953;0.765136611;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/bd/e4/bc/eb/a8ff-4443-897c-7c1aa51ddd8c/sd.jpg;10
+727;Ruines de nuit;49.4346353;0.8207907;True;2.85;49.434614008;0.820812554;https://panoramax.openstreetmap.fr/derivates/00/bc/58/7b/9df6-4352-b09c-1fffbba911f1/sd.jpg;10
+728;Abbaye Saint-Martin;49.5473684;1.49183457;False;;;;;0
+729;Les Champs-Élysées;49.871217;0.80102;False;;;;;0
+730;Atelier de cartographie utopique;49.5917325;1.6893029;False;;;;;0
+731;Marché traditionnel;49.8817787;0.82976744;True;4.43;49.881782;0.829829;https://panoramax.openstreetmap.fr/derivates/47/00/64/21/4568-46e2-b76f-bebc888d0374/sd.jpg;1
+732;Initiation Tango Argentin;49.7506487;0.6434629;False;;;;;0
+733;Ô Rucher des 2 sources;49.5616157;0.6476667;True;7.19;49.5615761;0.6477455;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/b1/ea/cf/db/a507-46d7-a42c-d1cec6867ee6/sd.jpg;10
+734;PR La Forêt de Montgeon;49.5086943;0.13653368;True;17.79;49.508651389;0.136296389;https://panoramax.openstreetmap.fr/derivates/0d/6e/fd/01/bb84-415c-a6db-4af1fec372e6/sd.jpg;10
+735;Gîte Saâne;49.901509;0.9263564;False;;;;;0
+736;LE PAPE Alain et Eliane;50.0608;1.36875;True;20.92;50.06067761;1.36897264;https://panoramax.openstreetmap.fr/derivates/2e/07/6f/96/6525-4011-a37a-a78c54894935/sd.jpg;10
+737;La cabane perchée du trappeur;49.649232;0.311063;False;;;;;0
+738;Randonnée à Gaillefontaine Saint Maurice;49.66343;1.588776;False;;;;;0
+739;SEALAR AÉROPORT LE HAVRE;49.5276674;0.0924083;True;0.86;49.5276741;0.0924142;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/b3/b2/e5/bc/e1a7-4eac-a0f2-05d23b9719f0/sd.jpg;10
+740;Spectacle : Jean-Luc Lemoine - Liquidation;49.500977;0.1435657;True;12.2;49.500868;0.143585;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/d2/84/d0/15/84f7-46d3-9b32-dc098c75adef/sd.jpg;10
+741;Atelier : À la découverte des vins du Languedoc;49.4884137;0.1085863;True;17.13;49.4884856;0.108796;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/de/6c/1b/a6/36c3-45a0-85cd-2e05f8e3e8c8/sd.jpg;10
+742;Colline Sainte-Catherine - Panorama de Rouen;49.4335989;1.10990317;True;1.35;49.433611;1.1099018;https://panoramax.openstreetmap.fr/derivates/d7/f6/5e/53/4aa6-4a48-9bcf-685931c1568c/sd.jpg;10
+743;Plage-Baignade Fécamp;49.7596348;0.36109731;False;;;;;0
+744;Grand Hôtel de la Seine;49.44157;1.08146;True;2.54;49.441549972;1.081442972;https://panoramax.openstreetmap.fr/derivates/6f/91/69/d6/dfcb-4276-9df7-0f56adb8c28e/sd.jpg;10
+745;Gîte Le Clos D’Anthime;49.4886;0.34752;True;4.59;49.488591;0.347458;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f8/88/f1/cf/136f-4b1a-b5f2-6105205b9c93/sd.jpg;10
+746;Concert Notre Dame de Paris;49.514318;0.672634;True;1.41;49.514322444;0.672652361;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/b2/d0/ce/ed/40eb-4af3-a5dd-d15ae86de295/sd.jpg;10
+747;Fromagerie des Trèfles;49.6439;0.80653;False;;;;;0
+748;Gîtes de France® - Les Terriens;49.7298777;0.28625278;False;;;;;0
+749;Gîtes de France® - Coeur de Caux;49.6802222;0.73961111;False;;;;;0
+750;Le Jardin du Colombier;49.600503;0.279652;True;13.97;49.600628333;0.279665;https://panoramax.openstreetmap.fr/derivates/6a/01/82/0a/3183-4d0a-9d91-aab97d1c5390/sd.jpg;6
+751;Soirée chippendale au Cristal Cabaret;49.5259609;0.7525269;True;16.64;49.5259147;0.7527462;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/6e/90/b4/b0/fbeb-4386-a43d-e27cee9e4434/sd.jpg;10
+752;Gîtes de France® - Le Trèfle à Quatre Feuilles;49.52313;0.87371;False;;;;;0
+753;Jumping de Canteleu;49.4352498;1.0177802;False;;;;;0
+754;Le Palais des Sens - Une heure pour soi;50.03161;1.39664;False;;;;;10
+755;Loto du C.A. Longuevillais Football;49.7942838;1.1068403;False;;;;;0
+756;Stage RS FEVA pour les 12-15 ans - Ecole de voile du Tréport Sensation Large;50.0626246;1.37809613;True;1.24;50.0626143;1.3781028;https://panoramax.openstreetmap.fr/derivates/2b/05/d5/7b/2f9c-477e-933e-28bfc4a9cfa8/sd.jpg;10
+757;Au fil de la Lézarde;49.5129861;0.19338014;True;12.19;49.5130922;0.1933379;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/d2/6e/6c/1f/0926-46c1-9b89-da98a2251a9b/sd.jpg;10
+758;Gîte le RanDodo;49.9015332;0.92636176;False;;;;;0
+759;Mix & Move - Le cocktail nomade;50.04914;1.4205;True;5.19;50.0491095;1.4205551;https://panoramax.openstreetmap.fr/derivates/c1/ff/d0/9e/719c-409e-8514-c498b790820e/sd.jpg;10
+760;La fabrique des ados : customisation;49.5243809;0.72221839;True;49.39;49.52481655;0.722084786;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/91/84/27/9e/f664-411b-960b-8190712b31c8/sd.jpg;10
+761;Le Chemin des Ecoliers;49.709884;1.304758;False;;;;;0
+762;Camping à la Ferme de Flamanville;49.6330964;0.84078045;False;;;;;0
+763;Scène ouverte : Lavomatic Tour #5;49.5442684;0.1946963;True;8.7;49.544323;0.19461;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/05/6f/d3/27/5af9-4cc1-9945-e9c20e322d6e/sd.jpg;10
+764;Sortie nature : De la vie dans le jardin - Participez à la vie du jardin de la maison Dahlia;49.5126201;0.1586729;True;3.26;49.512597;0.158645;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/37/c9/00/9a/8124-4db8-b3fe-2293e069599b/sd.jpg;10
+765;Stage de voile sur habitable;49.8673536;0.70996198;True;12.3;49.867402074;0.709807683;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/d3/b9/9b/5d/b6ca-49ab-846a-3459325d9718/sd.jpg;10
+766;L'Ecurie;49.6307916;0.84305;False;;;;;0
+767;Hôtel Le Cardinal;49.4398974;1.0939121;True;7.34;49.4399601;1.0938804;https://panoramax.openstreetmap.fr/derivates/0a/da/e6/04/62f2-434b-a58a-4e6410717105/sd.jpg;10
+768;Quarter Horse Dream;49.4736071;0.72326492;False;;;;;0
+769;Marché de la brocante;49.52456;0.7257;True;9.87;49.524471506;0.725689825;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/00/71/fa/75/9b45-4e81-a83e-b219f516d089/sd.jpg;10
+770;La Bonne Adresse;49.5032217;0.0889462;True;1.14;49.503221;0.088962;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/21/8e/47/48/ad1d-40a0-a5bd-b33358d04ebc/sd.jpg;10
+771;"""Gamping"" de la Ferme du Pollet";49.815893;1.176577;False;;;;;0
+772;Le B'52;49.4833686;1.72329709;False;;;;;0
+773;Salon de Thé La Hulotte;49.622849;1.343414;False;;;;;0
+774;Les journées piquantes - À la découverte de capsicum;49.5037783;0.0942485;False;;;;;10
+775;Gîtes de France® - Le Saint Hilaire;49.5407777;0.59894444;False;;;;;0
+776;Les Bruyères;49.5136238;1.69784094;False;;;;;0
+777;[Exposition photos et sculptures] Olivier larrey et Patrick M. Dassargues;49.9077464;0.9475477;False;;;;;0
+778;La Forge;49.7419126;0.51475342;False;;;;;0
+779;Gîte Coeur de Normandie;49.6559253;0.2419778;False;;;;;0
+780;Les Bains des Docks;49.487608;0.12698419;True;1.89;49.487594;0.126999;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/e4/21/61/69/4d87-4620-8eac-c31f70691405/sd.jpg;10
+781;Le Nouveau Monde;49.765791;0.754673;False;;;;;0
+782;Le Grand Pavois - Restaurant;49.7609277;0.3660268;False;;;;;0
+783;Hôtel Centre Rouen Vieille Tour;49.4388951;1.09557097;True;11.99;49.4388051;1.0954797;https://panoramax.openstreetmap.fr/derivates/d8/c0/9d/13/b00d-45e7-a6d1-2962a5a77110/sd.jpg;10
+784;Les Cormorans;49.7392978;0.3103433;False;;;;;0
+785;La Sittelle;49.52953;0.25037;True;2.32;49.529528;0.250402;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/76/66/1b/b9/9d91-4478-976a-f775a9bff0e2/sd.jpg;10
+786;Ateliers Nature - Pédagogie par la Nature;49.78682;1.11131;False;;;;;0
+787;Le paradis des fleurs;50.05719;1.36541;True;21.9;50.0570019;1.3653193;https://panoramax.openstreetmap.fr/derivates/0e/4f/b9/5c/b89e-4619-90e0-0aa00168b3b7/sd.jpg;10
+788;Planche à voile - Stage;49.8530594;0.6013477;True;20.19;49.853222222;0.601472222;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/49/90/8c/ec/43d3-4aea-b4ac-aa52f2967e95/sd.jpg;10
+789;SCEA Ferme de Torchy;49.5139079;1.669486;False;;;;;0
+790;Visite en famille de la ferme pédagogique d'Épaville;49.5367707;0.1968552;False;;;;;0
+791;Bien-être & Harmonie;50.0167785;1.314323;True;6.35;50.0168286;1.3143657;https://panoramax.openstreetmap.fr/derivates/94/2f/6e/77/6182-4690-a6ec-1c4c02523747/sd.jpg;10
+792;Sortie Nature : Balade Créative – Bijoux Nature;49.754618;0.83475;False;;;;;0
+793;Escapade Verte Marine;50.02188;1.31775;True;29.2;50.021982972;1.318125972;https://panoramax.openstreetmap.fr/derivates/c1/b6/f2/26/185c-4997-b823-64602f6e2b63/sd.jpg;10
+794;COMPLET - Atelier bijoux en porcelaine;49.6662092;1.1684348;False;;;;;0
+795;Carpe Diem 76 - Maison avec jardin privatif;49.9314879;1.09037869;False;;;;;0
+796;Visite commentée du circuit du plus petit fleuve de France;49.8741369;0.79737426;False;;;;;0
+797;Musée National de l'Éducation;49.4413473;1.10166551;True;6.35;49.441312;1.1015965;https://panoramax.openstreetmap.fr/derivates/68/4f/14/79/1020-4871-a1cb-06a1c5909508/sd.jpg;10
+798;Rencontre avec l'autrice Pascale Dewambrechies;50.0587497;1.3759756;True;16.19;50.0586168;1.3758831;https://panoramax.openstreetmap.fr/derivates/57/c8/e3/eb/b322-4629-8b2f-5ccd66cdd9c6/sd.jpg;10
+799;Centre des Fontaines;50.0497449;1.41857776;True;10.17;50.049829;1.4186339;https://panoramax.openstreetmap.fr/derivates/59/82/a9/45/9b46-454c-b538-48216b070563/sd.jpg;10
+800;Château de Saint-Clair et son parc paysagé;49.7008;0.23429;True;2.42;49.700786667;0.234316667;https://panoramax.openstreetmap.fr/derivates/a8/6d/cb/7c/ac58-4ca7-a6fe-ef92f2b8f818/sd.jpg;3
+801;Les traversées de l'estuaire de la Seine - Départ du Havre;49.48957;0.09567;False;;;;;0
+802;Fête de la Saint Aubin-Chorale suivie d'une messe dans l'église Saint Aubin;49.688122;0.810179;False;;;;;0
+803;Une ville, des quartiers : De la rue Saint-Patrice aux Bons-Enfants;49.4464909;1.0976001;True;36.02;49.4463172;1.0980206;https://panoramax.openstreetmap.fr/derivates/12/bb/8c/d8/bbe9-4322-84bd-56a1aa6251b7/sd.jpg;10
+804;Gîtes de France® - Le Phare Ouest;49.9019555;0.91789722;False;;;;;0
+805;Gîtes de France® - Domaine de Gretot;49.6218055;0.99388889;False;;;;;0
+806;Gîtes de France® - La Pommeraie 76;49.905212;1.298388;False;;;;;0
+807;Cercle de la Voile de Dieppe;49.9266157;1.08033598;True;13.99;49.92651;1.08023;https://panoramax.openstreetmap.fr/derivates/e8/71/69/71/26a4-40c6-ae80-9985df52ba81/sd.jpg;10
+808;Découverte contée du jardin d'art Terre d'Accord;49.8595377;0.84396415;False;;;;;0
+809;Visit and Run;49.613311;1.545886;False;;;;;0
+810;Auberge Val'Riquaise;49.8622005;0.71308404;True;23.96;49.862222222;0.713416667;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/16/d2/a0/85/0d3b-4288-a1dd-87eb693cc8f2/sd.jpg;8
+811;[Exposition] Photo Show;49.8727668;1.0454312;False;;;;;0
+812;Location de vélo - Vélo 7;49.8237686;0.66634175;False;;;;;4
+813;Les Monts;49.5465505;1.48913252;False;;;;;0
+814;24 heures de la voie romaine;49.5274207;0.531523;False;;;;;8
+815;Atelier créatif : jardins et fleurs;49.5098155;0.20034871;True;28.52;49.509562;0.200409;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f7/ca/82/91/4c4d-4146-a835-6bea2af8d9a3/sd.jpg;10
+816;Cuisine pirntanière colorée et légère;49.7661779;0.89680299;True;41.46;49.766183462;0.896225843;https://panoramax.openstreetmap.fr/derivates/06/e9/ce/7d/2360-4a87-8caf-1968680ecd1d/sd.jpg;4
+817;Restaurant Campanile Barentin;49.53283;0.9661;False;;;;;10
+818;Porte Océane;49.49343;0.09661;True;14.53;49.493389;0.096801;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/cb/b6/56/b3/9478-42cd-aa42-2d0af84921f6/sd.jpg;10
+819;Descente de la Durdent en kayak ou en paddle;49.8530594;0.6013477;True;20.19;49.853222222;0.601472222;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/49/90/8c/ec/43d3-4aea-b4ac-aa52f2967e95/sd.jpg;10
+820;Family's Games;49.4957555;0.1108991;True;6.1;49.495769;0.110981;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/e9/3a/43/ea/e663-4ea8-aea2-165ea5dfd104/sd.jpg;10
+821;Hôtel O Bout du Quai;50.05946;1.38097;True;3.57;50.059432972;1.380943;https://panoramax.openstreetmap.fr/derivates/f8/1a/2c/9a/1cfe-4143-a340-05427508285c/sd.jpg;10
+822;La Maison - Chambre Manor House;49.4272736;1.08372759;True;5.97;49.4273014;1.0837982;https://panoramax.openstreetmap.fr/derivates/26/c5/61/25/813c-4f77-88fc-f432360cc9d8/sd.jpg;10
+823;[Atelier] Blockprinting;49.9302747;1.084813;True;16.78;49.930184181;1.0850005;https://panoramax.openstreetmap.fr/derivates/83/56/ca/ab/95ab-4d45-b92d-2e937402d6e3/sd.jpg;10
+824;Exposition de peinture;49.9043513;0.92226363;False;;;;;0
+825;[Visite guidée] Cité maritime;49.9265284;1.08010083;True;2.21;49.926516714;1.080075883;https://panoramax.openstreetmap.fr/derivates/d5/99/12/55/3d90-4669-a611-2723a1e3e372/sd.jpg;10
+826;Centre Henri Becquerel;49.4386242;1.1061905;True;34.38;49.438330583;1.1063395;https://panoramax.openstreetmap.fr/derivates/f7/17/25/ed/6ae5-48eb-a175-57cae3a9d729/sd.jpg;10
+827;[Atelier] Auto-réparation vélo;49.9163852;1.070615;False;;;;;0
+828;Fête communale- Foire à tout/corso fleuri et fête foraine à Canville les deux églises;49.7704359;0.84102999;False;;;;;0
+829;Lecture avec Catherine à la Librairie des 400 coups;49.4951039;0.1091365;True;8.28;49.495152;0.109224;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/c0/bc/fc/29/aea2-4877-a2b9-71b3b0f82679/sd.jpg;10
+830;Balade nautique - Centre Nautique du Tréport;50.062666;1.378418;True;10.31;50.0627337;1.3783194;https://panoramax.openstreetmap.fr/derivates/d7/95/7f/6f/ae9f-43d3-bd7e-9ff60346639a/sd.jpg;10
+831;Le Marie-Cloche à VTT;49.7333951;1.43566827;True;25.62;49.733409972;1.436023972;https://panoramax.openstreetmap.fr/derivates/1f/36/03/d7/7033-4cb0-8560-122e10dc2039/sd.jpg;1
+832;Aire de stationnement et de service de Veulettes-sur-Mer (chemin des courses);49.8521648;0.6019856;True;9.61;49.852101;0.602076;https://panoramax.openstreetmap.fr/derivates/78/d4/ee/c4/5cb3-45f8-8394-127b023b0ac7/sd.jpg;10
+833;Hôtel de la Plage;49.9043842;0.92281642;False;;;;;0
+834;Mme DEBRUYNE Angélique;50.04178;1.35648;True;3.37;50.041752;1.3564621;https://panoramax.openstreetmap.fr/derivates/77/60/25/2f/db54-4642-b3d8-1308c002eb41/sd.jpg;10
+835;L'Auberge Bucheoise;49.5846235;1.3571485;False;;;;;0
+836;"Exposition et Grand Jeu ""Bien sur ma planète"" : Mission valorisation";50.056881;1.3732369;True;10.06;50.056879972;1.373096;https://panoramax.openstreetmap.fr/derivates/85/5a/b8/25/468e-477e-8eb1-517f17bbfec7/sd.jpg;10
+837;Les racontines;49.4886;0.56932;True;3.3;49.488571083;0.569309914;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/a8/58/d2/49/23b6-4f40-ac50-e1df7a17a6d5/sd.jpg;10
+838;Bienvenue chez Martine et Jean-Claude VAILLANT;49.7589164;0.3611736;False;;;;;0
+839;[Visite du Château] Grâce aux 5 sens;49.860918;1.083522;False;;;;;0
+840;La fabrique des ados : crochet;49.5243809;0.72221839;True;49.39;49.52481655;0.722084786;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/91/84/27/9e/f664-411b-960b-8190712b31c8/sd.jpg;10
+841;Rien ? Danse par la Compagnie Monsieur K;49.46313;1.07078;True;33.02;49.4633798;1.0705329;https://panoramax.openstreetmap.fr/derivates/4c/05/b4/67/406c-422c-b89f-2fd2d82e4ad8/sd.jpg;10
+842;La Petite “Lourdes”;49.67862;0.847186;False;;;;;0
+843;Gîte La Maisonnette;49.5284885;0.5953497;False;;;;;0
+844;Château Saint-Victor;49.665348;0.965562;False;;;;;0
+845;Fête de la mer;50.0603601;1.37426076;True;3.26;50.060367402;1.374305038;https://panoramax.openstreetmap.fr/derivates/71/7a/08/85/9ad9-4c0d-a536-45db4fe702b0/sd.jpg;10
+846;Exposition A Touch of Hopper par Dom Simon;49.4409624;1.0734676;False;;;;;0
+847;Visite commentée de la Chapelle des Noyers;49.632843;1.63574;False;;;;;0
+848;Forêt indivise d'Eu;50.012701;1.47281202;False;;;;;0
+849;Vedettes Baie de Seine - Traversées de l'estuaire;49.4868068;0.0985444;True;24.18;49.48694;0.098809;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/72/44/09/c9/bf05-462c-ae14-1ef0b96f689f/sd.jpg;10
+850;O DELA DE L'O, le 64;50.048281;1.422207;True;4.99;50.0483083;1.4221516;https://panoramax.openstreetmap.fr/derivates/16/0b/74/e5/7353-441d-827b-20773ce8a782/sd.jpg;10
+851;M et Mme Lecomte;49.7376723;0.31303239;False;;;;;0
+852;Oceng Oryema;49.51811;0.53258;True;47.38;49.5183793;0.5330886;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/a7/65/44/48/15bb-4c91-bb58-19f9f7cb0910/sd.jpg;10
+853;Les Petites Suites Dieppoises - L'Atelier Couture;49.923466;1.072746;True;2.05;49.9234478;1.0727506;https://panoramax.openstreetmap.fr/derivates/c1/d1/af/1d/7c76-4d81-912d-cfc8b068945e/sd.jpg;10
+854;Dieppe Bowling;49.9092642;1.0780957;True;30.21;49.909077;1.07779;https://panoramax.openstreetmap.fr/derivates/35/42/06/90/e713-4e2b-b1bd-bd3123276ff0/sd.jpg;10
+855;Cathédrale Notre-Dame de Rouen;49.4403134;1.09503342;True;46.21;49.440675903;1.09534595;https://panoramax.openstreetmap.fr/derivates/b6/a3/fe/39/da91-424d-a5a0-d9023839e770/sd.jpg;10
+856;Jonas + Lars & Co;49.65087;0.59401;True;6.53;49.650905658;0.594081994;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/3e/0c/1f/7a/50d2-49b8-aad2-3004a76cf32d/sd.jpg;10
+857;ULM 76;49.53228;0.094819;False;;;;;10
+858;Les Cinq Hêtres;49.8106692;0.94556836;False;;;;;0
+859;Hôtel Relais d'Étretat;49.5722567;0.4925624;False;;;;;0
+860;Visite guidée du manoir d'Auffay;49.729212;0.6818054;False;;;;;0
+861;Balade autour de l’observatoire photographique du Grand Site;49.6429024;0.1630853;True;17.25;49.642801328;0.162903615;https://panoramax.openstreetmap.fr/derivates/bc/cd/88/5f/c56c-4a88-841e-ab8f65ace1c7/sd.jpg;10
+862;Aire de stationnement et de service de Saint-Pierre-Bénouville;49.7354731;0.9739586;False;;;;;0
+863;Stage P'tit Mousse;49.867202;0.709735;True;2.51;49.867223267;0.709723376;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/cc/18/cf/94/3b77-40c8-9104-b0270d1f00c4/sd.jpg;10
+864;Les Gourmandises du Chêne;49.59707;0.675233;True;45.73;49.596816;0.674734;https://panoramax.openstreetmap.fr/derivates/19/36/ca/e9/1720-44cb-86a0-2ffed78334b0/sd.jpg;4
+865;Randonnée à Mauquenchy;49.6047308;1.4682868;False;;;;;0
+866;Vue du Pont;49.527162;0.719485;True;3.33;49.527178558;0.719446522;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/96/14/09/c8/e633-48bb-9898-2c3369eab157/sd.jpg;10
+867;"Marché à la ferme ""Les Prés d'Artemare""";49.7680433;0.7305165;False;;;;;0
+868;La Vallée de la Ganzeville;49.73489;0.41263;False;;;;;0
+869;Café-Librairie les Bucoliques;50.0587497;1.3759756;True;16.19;50.0586168;1.3758831;https://panoramax.openstreetmap.fr/derivates/57/c8/e3/eb/b322-4629-8b2f-5ccd66cdd9c6/sd.jpg;10
+870;Sortie nature en canoë-kayak;49.4499556;0.8071387;True;45.92;49.449676047;0.807606175;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/14/7c/72/c3/247c-42fd-80cc-298c98797e78/sd.jpg;10
+871;North' Fest Fête Viking;49.5382766;1.4391494;False;;;;;0
+872;Le Lin en Fête;49.721534;0.784856;False;;;;;0
+873;Les Acres à VTT;49.5030786;1.5862643;False;;;;;0
+874;La Fiesta Du Pasino - 90 / 2000;49.4913749;0.1120312;True;31.53;49.491654;0.112108;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/21/ec/83/f1/657e-49a9-97d0-59e8520a398a/sd.jpg;10
+875;Gîte de l'Obione;50.05846;1.37016;True;1.39;50.0584645;1.3701418;https://panoramax.openstreetmap.fr/derivates/12/cb/a7/ec/cab3-4123-94bb-640c4526b386/sd.jpg;10
+876;La baie du Havre en voilier;49.4898847;0.0972618;True;25.79;49.489944;0.097607;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/89/0e/8c/bb/dbd0-49f0-8fc0-c799a5ea0480/sd.jpg;10
+877;Stages de danse contemporaine;50.0547342;1.42771872;True;5.89;50.0546825;1.4277007;https://panoramax.openstreetmap.fr/derivates/43/a3/17/2a/0c73-4d12-8efd-ce65612330d5/sd.jpg;10
+878;Les Houx à VTT;49.5221854;1.5072745;False;;;;;0
+879;Manoir de l'aumônerie - Gîte de la Longère;49.433909;0.966932;False;;;;;0
+880;L'Ecrin de l'Andelle;49.477418;1.428256;False;;;;;0
+881;Crème de Pâtissière;49.61746;0.75487;False;;;;;0
+882;Les Gîtes du Val Renoux;49.7485819;0.4032521;False;;;;;1
+883;Domaine de Merval;49.5158085;1.60134703;False;;;;;0
+884;Fête Communale;49.583094;1.665627;False;;;;;1
+885;Bienvenue chez M. et Mme Hédouin;49.7582683;0.3733233;False;;;;;0
+886;Minute patrimoine : Entracte au théâtre;49.4904989;0.1069792;False;;;;;10
+887;Le Bouchon Normand;49.4912336;0.1042597;True;4.64;49.491193;0.104245;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/c6/15/62/46/07e8-4384-9097-dfc5bdca5e2b/sd.jpg;10
+888;Dimanche sportif - Yoga;49.5243809;0.7222184;True;49.39;49.52481655;0.722084786;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/91/84/27/9e/f664-411b-960b-8190712b31c8/sd.jpg;10
+889;"Exposition ""Sous la pluie : peindre, vivre et rêver""";49.444846;1.0939292;True;5.01;49.4448826;1.093888889;https://panoramax.openstreetmap.fr/derivates/de/bc/f8/7c/807e-4121-9795-c6ae04fbcc76/sd.jpg;10
+890;La Route de Pompon;49.51408;1.69913;True;28.37;49.513901;1.69885;https://panoramax.openstreetmap.fr/derivates/b0/14/b6/c9/e09a-4bb2-9e54-a1bdaf7688f8/sd.jpg;2
+891;Le jardin des Lilas;49.826617;0.713168;True;5.4;49.826583333;0.713222222;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/1d/65/cd/64/ad60-492e-8770-cfa2f7368a1e/sd.jpg;10
+892;Sortie Nature : Balade Créative - Jeux de Nature;49.732249;0.855;False;;;;;0
+893;Parc Canadien - Tipis Camping;49.771563;1.18309799;False;;;;;0
+894;Le Bel Ami;49.7071349;0.20314319;True;5.34;49.707114;0.20321;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/4d/4b/71/78/96de-4901-9b56-871573d380fb/sd.jpg;10
+895;[Fête de la Musique] Artistes locaux;49.928985;1.1017361;False;;;;;0
+896;Earth Moov';49.6339163;0.3622772;False;;;;;0
+897;Librairie Banse;49.7567936;0.37675898;False;;;;;0
+898;La Verrière - Bar à cocktail - Palais Bénédictine;49.75884;0.36803;False;;;;;0
+899;Gîtes de France® - L'Orvason;49.5242958;0.83403498;False;;;;;0
+900;Emji;49.44185;1.09123;True;4.82;49.4418206;1.091279;https://panoramax.openstreetmap.fr/derivates/99/93/ad/f7/84e6-4a8a-b54c-c28fcc4cfaa7/sd.jpg;10
+901;Graines de Fée;49.471572;1.34251;False;;;;;0
+902;Les Croix des Blanques;49.60906;0.6388;True;0.98;49.609055986;0.638787881;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/e8/a0/54/4c/41d9-4732-af3e-70e74e66536d/sd.jpg;10
+903;Apprentis fermier;49.66311;1.354681;False;;;;;0
+904;Maison de santé pluridisciplinaire Wastus Santé;49.601018;1.1846116;False;;;;;0
+905;Appart'hôtel Odalys City Le Havre Centre Les Docks;49.4925;0.12978;True;5.68;49.492449;0.129783;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/a7/1d/b0/10/1567-4180-9c2c-692ffa848cdd/sd.jpg;10
+906;Office de tourisme de Bray Eawy;49.7314895;1.4415678;True;24.04;49.731632955;1.44131762;https://panoramax.openstreetmap.fr/derivates/bc/19/31/da/ca14-4148-91db-338e1bec8d54/sd.jpg;10
+907;Aux sources de l'Eaulne;49.7492271;1.55145572;False;;;;;0
+908;Danse : La petite soldate;49.4904989;0.1069792;False;;;;;10
+909;SPORTEVENTS;49.5702011;0.48210739;True;22.52;49.570003225;0.482174253;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/a3/4c/bd/26/10e2-445d-a593-da9a089c1a7d/sd.jpg;10
+910;Atelier DIY - Faire sa trousse de toilette Mijuin;49.3812138;1.0755691;True;35.6;49.381490128;1.075320636;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/c6/3e/fd/f4/bd37-471a-b013-a5bcd376c1e7/sd.jpg;10
+911;La maison au calme;50.03272;1.32168;False;;;;;0
+912;[Balade nature] Mission Nature au Cap d'Ailly;49.916492;0.959843;False;;;;;5
+913;Jardin des Amouhoques;49.816307;0.773092;False;;;;;0
+914;Exposition : Alexandre Honoré;49.5074213;0.2014497;True;20.75;49.507243;0.201365;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/a5/bb/18/f6/66e6-4536-baea-617800d1a4f6/sd.jpg;10
+915;Centre Hospitalier Intercommunal Elbeuf-Louviers-Val de Reuil (Site d’Elbeuf-Les Feugrais);49.305378;1.040376;False;;;;;0
+916;La Boucane;49.761876;0.368231;False;;;;;0
+917;Plage-Baignade Yport;49.7395249;0.30998557;False;;;;;0
+918;Gîtes de France® - Le Conquérant;49.679627;0.199916;True;19.07;49.67968;0.199664;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/aa/a6/a9/70/8e2b-4fc3-a7ab-259132aa66bd/sd.jpg;10
+919;Atelier tambour fleuri;49.59953;1.11099;False;;;;;0
+920;Circuit de La Rosière;49.6084428;1.53611035;True;29.4;49.6087;1.536016;https://panoramax.openstreetmap.fr/derivates/ab/74/c7/cf/0e14-443c-8b8e-017c4a69ef50/sd.jpg;4
+921;Appart Hôtel Terres de France Rouen Flaubert;49.43461;1.07672;True;5.53;49.4345753;1.0766652;https://panoramax.openstreetmap.fr/derivates/9d/4b/e8/ca/db4b-4852-8d2f-ba3654f92cdb/sd.jpg;10
+922;Train touristique Rouen;49.4404415;1.09503571;True;34.39;49.440675903;1.09534595;https://panoramax.openstreetmap.fr/derivates/e9/88/08/fa/eefe-4acb-b298-9a8a28ef6c03/sd.jpg;10
+923;Cello 360 Break - Christian-Pierre La Marca & Yaman Okur;49.4446789;1.1001902;True;23.46;49.4447446;1.0998818;https://panoramax.openstreetmap.fr/derivates/e9/92/e1/19/934a-4d37-8e83-d7b05cd04e01/sd.jpg;10
+924;La Maison - Chambre Nicolas;49.4272736;1.08372759;True;5.97;49.4273014;1.0837982;https://panoramax.openstreetmap.fr/derivates/26/c5/61/25/813c-4f77-88fc-f432360cc9d8/sd.jpg;10
+925;Atelier aquarelle adultes;49.6648938;1.0024709;False;;;;;0
+926;Les vendredis du Parvis - Concert Los Desperados Band;49.85739;0.99361;True;36.23;49.857711;0.993523;https://panoramax.openstreetmap.fr/derivates/16/b1/fb/78/9a4a-4ffe-98c7-29cb72bbf638/sd.jpg;1
+927;Église Saint-Jacques;49.9251543;1.0781709;True;15.9;49.9251578;1.0779488;https://panoramax.openstreetmap.fr/derivates/70/0d/fc/40/c21d-4462-b2d5-45b27fff7760/sd.jpg;10
+928;Valleuse de Saussemare à VTT;49.88984;0.87467;False;;;;;0
+929;Le Grand Eawy;49.67287;1.28297;False;;;;;0
+930;L'Andellix;49.4773114;1.42772014;False;;;;;0
+931;Concert des Carny Barker;49.5804191;1.2286082;False;;;;;1
+932;Exposition Lin'démodable;49.7213457;0.7831668;False;;;;;0
+933;Brasserie des Halles;49.4890225;0.56595859;True;8.9;49.489088503;0.566028267;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/25/b3/31/46/bcac-4424-a40e-c8bfe86a1605/sd.jpg;10
+934;Humour : Jérémy Charbonnel, Seul Tout;49.500977;0.1435657;True;12.2;49.500868;0.143585;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/d2/84/d0/15/84f7-46d3-9b32-dc098c75adef/sd.jpg;10
+935;Longueville-sur-Scie à pied;49.7946389;1.105822;False;;;;;0
+936;Bleue Fantaisie;49.5758845;0.4698193;True;19.54;49.5758739;0.4695488;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/dc/56/f2/91/d12d-46e7-8697-332a535722a0/sd.jpg;10
+937;Atelier petite enfance - Ecorce;49.5982617;1.1102176;False;;;;;0
+938;Cape-Cod;50.0607884;1.37177369;True;2.32;50.0608067;1.3717892;https://panoramax.openstreetmap.fr/derivates/f1/84/fb/9d/4afc-4168-883f-b1683211ee81/sd.jpg;10
+939;Maison Vatelier Boulangerie;49.52266;1.18679;True;7.6;49.5226454;1.1866871;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/a7/4f/85/73/f6a1-4d7a-82d6-76aaf0b6a8a2/sd.jpg;10
+940;Grand tournoi de Kubb;49.7876468;0.6388542;True;30.43;49.787472222;0.638527778;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/d2/37/79/07/b06c-4ced-9fe5-05cd30b1dc00/sd.jpg;10
+941;Gîte 3 matelots;49.76195;0.38038;False;;;;;0
+942;Aire de stationnement et de service du Camping l'Oiseau Blanc;49.8043816;0.52166416;True;8.49;49.804375;0.521782;https://panoramax.openstreetmap.fr/derivates/27/03/32/00/0833-4a7a-b7c8-a563becb59eb/sd.jpg;4
+943;Gîtes de France® - Rose;49.8741416;0.88797222;False;;;;;0
+944;Balade à la découverte de Veauville-lès-Baons;49.65414;0.76376;False;;;;;0
+945;Le Manoir de Séverine;49.600087;1.623264;False;;;;;0
+946;Gîte de La Ruchette;49.50349;0.81226;False;;;;;0
+947;Le Rougemont à VTT;49.71258;0.6177;False;;;;;0
+948;Chalet Mésange;50.0340062;1.40310168;True;42.32;50.0336929;1.4034381;https://panoramax.openstreetmap.fr/derivates/29/1f/37/74/fa35-464e-b345-3afacac372b6/sd.jpg;10
+949;TRÉSORS DU RIVAGE;49.7396419;0.30835433;False;;;;;0
+950;Découverte nature en famille -  Peinture végétale;49.59786;1.11045;False;;;;;0
+951;Plongeons au coeur de la tourbière - 5 km;49.4499556;0.8071387;True;45.92;49.449676047;0.807606175;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/14/7c/72/c3/247c-42fd-80cc-298c98797e78/sd.jpg;10
+952;[Exposition photographique] Gilles Lange;49.9206937;1.1559273;False;;;;;0
+953;Le Puit;49.612879;1.544181;False;;;;;0
+954;Gîte de M. Oury- N° 2;49.875654;0.801299;False;;;;;0
+955;Marché traditionnel;49.7871911;0.63861211;True;8.82;49.78725;0.638694444;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/29/71/ac/9e/5b3b-4983-a128-add3989938ea/sd.jpg;10
+956;La Normande;50.0593;1.37232;True;4.18;50.0592959;1.3722618;https://panoramax.openstreetmap.fr/derivates/49/7c/f0/ab/8490-4d33-83a8-a641e278dc37/sd.jpg;10
+957;Demeure en Seine;49.52477;0.73139;True;2.79;49.524794972;0.731394258;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/1b/1d/02/11/a1d0-4f67-9705-901aac84f601/sd.jpg;10
+958;Un Vent de Liberté à VTT;49.7464907;0.96453478;False;;;;;0
+959;Randonnée à Argueil;49.54205;1.513791;False;;;;;0
+960;"Appartement duplex ""Cour de la Plage""";49.8697654;0.71454578;True;12.3;49.869655894;0.714521189;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/75/bd/05/39/a17e-4cae-8412-b75b90c1d57c/sd.jpg;10
+961;[Animations] Structures gonflables;49.8691573;1.0491045;False;;;;;0
+962;Clinique Mathilde - Groupe Vivalto Santé;49.4283185;1.09705317;False;;;;;10
+963;Atelier Grand miroir fleuri;49.599534;1.110644;False;;;;;0
+964;Les Prieurales;49.5033248;0.1650465;False;;;;;10
+965;Centre Hospitalier (Gournay-en-Bray);49.4784002;1.7239127;False;;;;;6
+966;Entre bois et valleuses;49.7281023;0.28034748;False;;;;;0
+967;[Salon] L'Immobilier et de l'Habitat;49.8691573;1.0491045;False;;;;;0
+968;Poterie Seinomarine- Claire-Marie Fournier EI;49.598207;0.782358;False;;;;;0
+969;SCI de la mer - OCHANDO Amel;50.0329981;1.3192795;False;;;;;0
+970;Sortie nature : Découverte de la falaise;49.6484786;0.1536118;False;;;;;10
+971;Sport Nautique et Plaisance du Havre;49.4920039;0.09638362;True;11.94;49.492111;0.096396;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/6e/6d/ac/6e/9c53-4779-950d-5db0445028d8/sd.jpg;10
+972;Les Bruyères à VTT;49.5136238;1.69784094;False;;;;;0
+973;Spectacle : Night Fever - A tribute to the Bee Gees;49.4881755;0.1300304;False;;;;;10
+974;Les Tables de la Gare;49.7325529;1.4374593;False;;;;;0
+975;Gîtes de France® - Le Lodge du Parc;49.811044;0.539929;False;;;;;0
+976;Challenge Equi Normandie - National Pro 1 Amateur - Etape 3;49.4352498;1.0177802;False;;;;;0
+977;Le verger conservatoire;49.8015504;1.17655459;False;;;;;0
+978;Gîtes de France® - La Bergerie du Mauconduit;49.7869861;0.56983056;False;;;;;0
+979;Maison de Santé pluridisciplinaire Les Jardins Le Havre Bléville;49.5118963;0.0897149;True;16.95;49.51193;0.089486;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/fd/bc/46/a8/a228-4396-a9e7-846f81de05a4/sd.jpg;10
+980;Sur les pas des ramendeuses;49.7395948;0.35801833;False;;;;;10
+981;Festival Les goûts et les couleurs Les associations de Mont-Saint-Aignan font leur festival;49.46313;1.07078;True;33.02;49.4633798;1.0705329;https://panoramax.openstreetmap.fr/derivates/4c/05/b4/67/406c-422c-b89f-2fd2d82e4ad8/sd.jpg;10
+982;Visite guidée : Aux sources de Graville;49.5021927;0.15984169;True;9.27;49.502276;0.159845;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/b3/95/9d/0f/6045-480b-948c-4889efe13e6e/sd.jpg;10
+983;Gîtes de France® - Les Hêtres;49.689436;0.309884;False;;;;;10
+984;Les Fleurs de Maria;49.86714;0.89164;False;;;;;0
+985;La Mare au Thym;49.738996;0.712516;False;;;;;0
+986;Vinotilus;49.4851054;0.10628293;True;16.21;49.484973;0.106377;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/db/1d/e5/f3/36e2-41b1-8c4a-6b92b0b9758d/sd.jpg;10
+987;Concert d'orgue par Olivier Latry;49.528638;0.7676428;True;17.47;49.528567542;0.767426403;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/2b/f5/a7/43/64bb-4be6-aa11-0bcef44dae87/sd.jpg;10
+988;Atelier petite enfance - L'automne;49.5982617;1.1102176;False;;;;;0
+989;L'Estival;49.36875;1.12889;False;;;;;0
+990;Masterclass photo : Retouche photo;49.59786;1.11045;False;;;;;0
+991;Manoir d'Auffay;49.72921;0.68203;False;;;;;0
+992;Exposition : Héritage en dialogue;49.4443943;1.0951328;True;7.75;49.444454972;1.09508;https://panoramax.openstreetmap.fr/derivates/87/af/68/a7/2713-4f2d-9a6c-ecfb6a6e6d18/sd.jpg;10
+993;Quai 39;50.062571;1.369858;True;3.3;50.06257049;1.369904255;https://panoramax.openstreetmap.fr/derivates/22/af/cc/f5/2df6-4dfc-9491-8a86180efd8b/sd.jpg;10
+994;Parc de l'Abbaye du Valasse;49.5372481;0.50556245;False;;;;;0
+995;Office de Tourisme Bray Eawy - Location de vélos;49.73192;1.44211;True;20.46;49.732052889;1.44191307;https://panoramax.openstreetmap.fr/derivates/0e/fe/0a/ee/5a1c-4d8e-91ba-084876bcdfe2/sd.jpg;10
+996;La Ferme du Cèdre;49.603907;0.600123;True;5.17;49.603947797;0.600157464;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/d6/ea/c5/b6/2124-41fb-bc46-bcd5a4e80cd2/sd.jpg;10
+997;Coupe de normandie VTT FFC;50.0542331;1.378462;True;2.71;50.0542252;1.3784979;https://panoramax.openstreetmap.fr/derivates/d2/37/7a/d0/d22b-413e-91a6-b2503bea08e3/sd.jpg;10
+998;EARL du Bellevent;49.67041;1.19411;False;;;;;0
+999;"""LE BALCON DE NOTRE DAME"" du groupe ISAHORA-LOCATION.COM";50.0611154;1.37066999;True;8.74;50.0611584;1.3707724;https://panoramax.openstreetmap.fr/derivates/10/96/27/a8/f7ac-4780-9ca3-68c064c53e3f/sd.jpg;10
+1000;Indus;49.7071373;0.2034254;True;5.01;49.707102;0.203382;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/c3/0a/57/3f/addf-4e5b-ad07-b1a3e76b6cae/sd.jpg;10
+1001;Atelier dégustation de vin au Havre - une expérience gourmande au Cacaotier;49.4921245;0.10539;True;32.02;49.492412;0.105415;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/65/c3/8e/e9/c935-465c-8d87-9c6592b19fbd/sd.jpg;10
+1002;Concert : Maddy Blues;50.0488021;1.41514376;True;16.58;50.0489504;1.41512;https://panoramax.openstreetmap.fr/derivates/5f/54/1d/40/27b4-46d6-ab75-0161800a76f3/sd.jpg;10
+1003;Les Capucines de la petite Fosse;49.625289;0.40276566;False;;;;;0
+1004;Visite guidée du Cimetière Sainte-Marie :  Mémoire de Guerres;49.5043177;0.1263243;True;16.47;49.5042376;0.1261324;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/5d/6d/e7/14/71e3-444a-917c-a0a0566737d3/sd.jpg;10
+1005;La Petite Vallée;49.7056159;0.44358098;False;;;;;0
+1006;Aire de stationnement d'Auffay - Val-de-Scie;49.716088;1.098417;False;;;;;8
+1007;"Suite d'hôte de charme ""Le Hameau d'Ouville""";49.8737118;0.96112685;False;;;;;10
+1008;Concert-conférence de la saison culturelle du Bosmelet;49.701133;1.127597;False;;;;;0
+1009;L'Éclat d'Emaux - Sophie MARTINACHE;49.35389;1.18;False;;;;;0
+1010;Le Gîte du Bois du Fil;49.6963355;1.0758796;False;;;;;0
+1011;"Le Coin des Aromates - Chambre ""Hysope""";49.5682797;0.13167199;False;;;;;0
+1012;Gîtes de France® - Le Four à Pain;49.8058055;1.42069722;False;;;;;0
+1013;Salon de la Fête des Mères à la Résidence des Sources d'Héricourt en Caux;49.6965401;0.6981325;False;;;;;0
+1014;Sunêlia l'Aiguille Creuse;49.6989639;0.27576669;False;;;;;0
+1015;Location de vélos - Office de Tourisme Auffay Val-de-Scie;49.7170402;1.09952601;True;3.76;49.7170134;1.099558;https://panoramax.openstreetmap.fr/derivates/af/11/a9/47/05e7-4842-be89-005391062624/sd.jpg;10
+1016;Parc de la Sauvagette;49.5809209;0.52499429;False;;;;;0
+1017;Camping Aux Cygnes d'Opale;49.9238486;1.65751971;True;13.25;49.923951;1.657425;https://panoramax.openstreetmap.fr/derivates/03/e8/24/c3/1a54-48d1-99b2-1bc5fdd33f25/sd.jpg;7
+1018;Exposition de peinture;49.895702;0.916893;False;;;;;0
+1019;Le Lihut;49.67287;1.28297;False;;;;;0
+1020;Le Funiculaire;50.059987;1.36731165;True;1.41;50.0599784;1.3672971;https://panoramax.openstreetmap.fr/derivates/72/b9/9c/f7/8780-4f42-a414-8bb02db7140c/sd.jpg;10
+1021;La Ferté Saint Samson;49.57724;1.52462;False;;;;;0
+1022;Villa 27 entre falaise et mer;50.0576;1.3701;True;4.69;50.0576148;1.3701615;https://panoramax.openstreetmap.fr/derivates/a0/45/5e/f7/727d-46fb-b2cb-febca44ef397/sd.jpg;10
+1023;Randonnée à Mauquenchy (hippodrome);49.604343;1.468052;False;;;;;0
+1024;La Foire Saint Romain;49.4443201;1.05508154;False;;;;;0
+1025;Au gré des vents sur un vieux gréement à Fécamp;49.7605156;0.37323749;False;;;;;0
+1026;[Cérémonie] Commémorations du 08 mai 1945;49.8705808;1.0493288;False;;;;;0
+1027;Meublé 56 LEVILLAIN;50.0603208;1.37276199;True;2.88;50.060295;1.372757972;https://panoramax.openstreetmap.fr/derivates/78/55/66/c0/1416-4b49-8260-8989f6a34c0b/sd.jpg;10
+1028;Sortie Nature : Éphémères Créations;49.6488723;0.8830445;False;;;;;0
+1029;Veules les Roses et son petit fleuve;49.8741243;0.79810996;False;;;;;0
+1030;Les Jacquemarts en attelage;49.7191702;1.09988501;True;7.85;49.7190996;1.0998862;https://panoramax.openstreetmap.fr/derivates/b7/5b/df/29/fcd3-4171-99dc-120f1ce8a482/sd.jpg;10
+1031;[Café] Art et inconscient;49.9267448;1.0751416;True;14.2;49.926859972;1.075056;https://panoramax.openstreetmap.fr/derivates/9a/9d/1d/58/b823-4ee0-8fdd-e0dbd868cf3a/sd.jpg;10
+1032;Visite commentée de l'écomusée du lin : Le lin, de la graine au tissu;49.6975799;0.839754;False;;;;;0
+1033;Gîtes de France® - La Maréchalerie;49.753777;0.384077;False;;;;;1
+1034;Les Boucles de la Saâne - 34ème édition;49.8313307;0.92406596;False;;;;;0
+1035;Séance de yoga;49.8633661;0.711919;True;24.45;49.863583333;0.711972222;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f2/a1/b9/85/be8e-4a47-9f51-6b38f8a47967/sd.jpg;6
+1036;Stretching musical dans un lieu exceptionnel;49.4465058;1.0940803;True;2.06;49.446517;1.094103;https://panoramax.openstreetmap.fr/derivates/69/25/5d/0b/cc34-47a1-8cb0-f425ae957e53/sd.jpg;10
+1037;Valentine Léger · Guide conférencière;49.92651;1.07998;True;2.57;49.926530972;1.079995;https://panoramax.openstreetmap.fr/derivates/44/95/02/be/7d10-4228-b032-69c347c11d21/sd.jpg;10
+1038;La Sente des Manoirs;49.5713605;0.47180281;True;40.62;49.5710082;0.4716541;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/40/39/34/c3/eced-44e2-9555-4a982645f00e/sd.jpg;10
+1039;Aire de pique-nique de Clères;49.59471;1.104621;False;;;;;0
+1040;Théâtre : Enquête à Pen-arcouet;49.4930015;0.1199819;True;15.45;49.493137;0.120029;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/bc/8b/b5/3e/2419-4caf-a839-c6750b7724a7/sd.jpg;10
+1041;Marché de Bois-Robert;49.835348;1.14752;False;;;;;0
+1042;GAEC La Chèvrerie de Bliquetuit;49.504919;0.733004;True;4.63;49.5048879;0.7329614;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/b5/6b/4d/ec/e622-417b-9f0a-ecbcefb0b71a/sd.jpg;10
+1043;Atelier BD caricature et humour avec Nicolas Stérin;49.4886;0.56932;True;3.3;49.488571083;0.569309914;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/a8/58/d2/49/23b6-4f40-ac50-e1df7a17a6d5/sd.jpg;10
+1044;Marché traditionnel;49.8742736;0.79798405;False;;;;;0
+1045;Urban Style Hôtel de l'Europe;49.4410665;1.08914815;True;15.07;49.4411827;1.0892554;https://panoramax.openstreetmap.fr/derivates/1e/c8/e9/bc/2976-4987-bc95-659ed99fefe6/sd.jpg;10
+1046;Descente de la Durdent en kayak ou en paddle;49.8530594;0.6013477;True;20.19;49.853222222;0.601472222;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/49/90/8c/ec/43d3-4aea-b4ac-aa52f2967e95/sd.jpg;10
+1047;Visite guidée de Luneray, lin et textile;49.8286128;0.91229805;True;25.45;49.828739655;0.91259342;https://panoramax.openstreetmap.fr/derivates/65/b0/d5/12/53f5-4c5c-8fd1-6ce9c2e006d2/sd.jpg;10
+1048;Gîtes de France® - Les Erables;49.5833333;0.21666667;True;28.44;49.583131;0.216908;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/e8/22/78/59/949a-4567-a823-d84b8ba58c69/sd.jpg;10
+1049;Théâtre : Tournoi International;49.5049303;0.2325421;True;28.95;49.50467;0.232535;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/47/05/87/4c/a149-4fe0-8cb4-61b333859ced/sd.jpg;10
+1050;Exposition : Jardiner au naturel;49.5098155;0.20034871;True;28.52;49.509562;0.200409;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f7/ca/82/91/4c4d-4146-a835-6bea2af8d9a3/sd.jpg;10
+1051;GUILLAUME ET MATHILDE, SACRÉS NORMANDS;49.7548585;0.38107434;True;21.15;49.755048333;0.381091667;https://panoramax.openstreetmap.fr/derivates/e8/87/c2/de/e2b2-4d8a-81b6-6f64d52a53ea/sd.jpg;3
+1052;Victor By Milot;49.4950086;0.09327049;False;;;;;10
+1053;[Exposition] Jean-Pierre Clément;49.8726358;1.0438192;False;;;;;0
+1054;Visite guidée : Les serres des Jardins Suspendus;49.5037784;0.0942485;False;;;;;10
+1055;"Les Gîtes de Fabienne ""Le Nid"" -  Domaine Le Soleil Couchant";49.9244339;1.37912353;False;;;;;0
+1056;Visite de Forges-les-Eaux « Ferro et Aqua »;49.6128418;1.545757;False;;;;;0
+1057;Les Falaises de Criel;50.032218;1.321453;False;;;;;0
+1058;Coffee Bike l'Atelier;49.7533289;0.39675409;False;;;;;0
+1059;Jeûne et randonnée organisé par Les 5 soleils;49.843803;1.001418;False;;;;;0
+1060;Sortie ornithologique - Les hirondelles et martinets;49.59786;1.11045;False;;;;;0
+1061;Vers la Forêt d'Eawy;49.7673487;1.37316918;True;17.33;49.767219;1.373303;https://panoramax.openstreetmap.fr/derivates/88/2b/de/b2/dd75-4022-8a98-83d35e8af222/sd.jpg;3
+1062;Les Petites Suites Dieppoises - Le Petit Prince a dit;49.92459;1.078884;True;29.97;49.924332972;1.078758;https://panoramax.openstreetmap.fr/derivates/64/53/b9/59/5f47-44be-9019-65340f995f41/sd.jpg;10
+1063;Gîte Ailly;49.9014295;0.92639395;False;;;;;0
+1064;[Causerie Littéraire] À la rencontre de François Mauriac;49.8728044;1.0439229;False;;;;;0
+1065;"Marché à la ferme ""Les Prés d'Artemare""";49.7680433;0.7305165;False;;;;;0
+1066;Le bois du Temple;49.44108;1.66542;False;;;;;0
+1067;Centre de rééducation La Roseraie;49.507864;0.0831462;True;5.28;49.507873;0.083218;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/2b/b8/02/f9/0486-4e3b-a7bd-d0f3448b7605/sd.jpg;10
+1068;"Les Gîtes de Fabienne ""Rouges Gorges"" · Domaine Le Soleil Couchant";49.9240471;1.3792952;False;;;;;0
+1069;Gîtes de France® - Le Duplex;49.5314166;1.65652778;False;;;;;0
+1070;Biscuits de Caux;49.71293;0.837991;False;;;;;0
+1071;Gîte Quartz;49.90487;0.992512;True;23.08;49.9049403;0.9928153;https://panoramax.openstreetmap.fr/derivates/47/68/31/cb/2474-4b3e-8f95-a83e60426964/sd.jpg;7
+1072;Aux portes d'Yvetot à VTT;49.5781528;0.76045731;False;;;;;0
+1073;Descente de la Durdent en kayak ou en paddle;49.8530594;0.6013477;True;20.19;49.853222222;0.601472222;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/49/90/8c/ec/43d3-4aea-b4ac-aa52f2967e95/sd.jpg;10
+1074;Poney Club de Gonfreville l'Orcher;49.520099;0.21118865;False;;;;;6
+1075;Le Cottage;49.7008;0.23429;True;2.42;49.700786667;0.234316667;https://panoramax.openstreetmap.fr/derivates/a8/6d/cb/7c/ac58-4ca7-a6fe-ef92f2b8f818/sd.jpg;3
+1076;Le chapardeur du marais;49.61744;1.52157;False;;;;;0
+1077;Cidrerie du Petit Clos;49.7664805;1.5904427;False;;;;;0
+1078;[Conférence chorale] Les chansons du cousinage Normandie-Amérique du Nord;49.9275109;1.0878759;True;3.94;49.9275339;1.0879178;https://panoramax.openstreetmap.fr/derivates/1f/ee/07/90/9256-4f27-9c33-ef6a8ef1a315/sd.jpg;10
+1079;Journée Portes Ouvertes JEMA 2026;49.4929764;0.5703767;True;25.12;49.493188289;0.570255883;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/57/ea/fe/08/12d2-4928-9aef-c5c2b4801dd8/sd.jpg;10
+1080;Gîtes de France® - Mer et Jetée;49.9314118;1.0839111;True;31.13;49.9315834;1.0835674;https://panoramax.openstreetmap.fr/derivates/f8/19/4b/f2/9c44-4bbc-82c5-bfd4455de75e/sd.jpg;10
+1081;Gîtes de France® - Les Saules Pleureurs;49.9891333;1.29461389;True;10.17;49.989213972;1.294680972;https://panoramax.openstreetmap.fr/derivates/7c/a9/83/88/71a2-461e-b7da-6069ad6eadfa/sd.jpg;10
+1082;Routes par le Maroc;49.721286;0.784978;False;;;;;0
+1083;Détente au banya;49.888069;0.875475;False;;;;;0
+1084;LISIÈRES SAUVAGES;49.7571569;0.37270052;False;;;;;0
+1085;Ferme de La Mare;49.5405979;0.765735;False;;;;;0
+1086;Atelier Terre de Bray;49.65371;1.61858;True;3.63;49.653679;1.618564;https://panoramax.openstreetmap.fr/derivates/62/98/30/e3/7ad0-4227-90bf-f8916131c060/sd.jpg;10
+1087;Les Amandiers : Le Zôme;49.78224;1.113055;False;;;;;0
+1088;Découverte de la Saâne en paddle;49.894214;0.8739018;False;;;;;0
+1089;Sortie nature : Opération papillons;49.5236971;0.0807298;True;19.12;49.523869;0.080725;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/22/96/7a/f4/b8ad-45bb-a0da-7bcb94440ee0/sd.jpg;10
+1090;Atelier éveil à la ferme;49.5988645;1.3374166;False;;;;;0
+1091;Le Jardin des Arts;49.7159836;0.238454;True;15.11;49.716119;0.238437;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/2a/e4/1c/c7/5967-4ed0-a047-06e9e1ce0a7d/sd.jpg;10
+1092;Cirque Théâtre d'Elbeuf;49.2909836;1.01114569;True;21.45;49.290793112;1.011098756;https://panoramax.openstreetmap.fr/derivates/e7/9b/0a/c8/24ba-4605-b8b9-ff77db2ab1fb/sd.jpg;10
+1093;Séance de yoga;49.8633661;0.711919;True;24.45;49.863583333;0.711972222;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f2/a1/b9/85/be8e-4a47-9f51-6b38f8a47967/sd.jpg;6
+1094;Atelier : Bricoler et virevolter;49.4951039;0.1091365;True;8.28;49.495152;0.109224;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/c0/bc/fc/29/aea2-4877-a2b9-71b3b0f82679/sd.jpg;10
+1095;Le Prado;49.4825102;1.72383179;False;;;;;0
+1096;Rando’Lin;49.6150886;0.8244157;False;;;;;3
+1097;Les Fabulettes;49.71808;1.10077;False;;;;;10
+1098;Sortie nature : Découverte de la réserve à l'heure de la migration;49.44043;0.27294;True;10.29;49.440397304;0.272806835;https://panoramax.openstreetmap.fr/derivates/03/5e/bf/35/513b-4beb-b19b-a52d4a26f5f0/sd.jpg;10
+1099;Aire de Camping-Car de Clères;49.6016112;1.1155365;False;;;;;5
+1100;Marché traditionnel;49.7871911;0.63861211;True;8.82;49.78725;0.638694444;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/29/71/ac/9e/5b3b-4983-a128-add3989938ea/sd.jpg;10
+1101;Aux Goûts du Monde;49.61676;0.75633;False;;;;;0
+1102;Les P'tites Pommes;49.5985795;1.1098736;False;;;;;0
+1103;M. CELLIER;49.7941194;0.6206622;False;;;;;0
+1104;Séance de yoga;49.8633661;0.711919;True;24.45;49.863583333;0.711972222;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f2/a1/b9/85/be8e-4a47-9f51-6b38f8a47967/sd.jpg;6
+1105;Gîtes de France® - L'Ecluse;49.6238888;0.27583333;False;;;;;10
+1106;Gîte Marie;49.758869;0.3622927;False;;;;;0
+1107;Villa Armand Salacrou;49.4994787;0.09092113;True;10.38;49.499561;0.090989;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/0b/54/2b/19/fa37-4a5c-93d9-73bac2cb2064/sd.jpg;10
+1108;Le Clos Narcisse;49.7293889;0.60554244;False;;;;;0
+1109;Propos de jardinier : Les plantes médicinales;49.5037784;0.0942485;False;;;;;10
+1110;Les trésors de la Seine en kayak au coucher du soleil;49.3893954;1.12511917;False;;;;;0
+1111;Parc Canadien - Tipis Hôtel (tout confort);49.771563;1.18309799;False;;;;;0
+1112;Le petit Perroy;49.551276;0.754538;False;;;;;0
+1113;Maison des Quatre Eléments;49.537832;1.404676;False;;;;;0
+1114;Le Tour d'Hénouville;49.4790059;0.81801971;False;;;;;0
+1115;Art's en folie à Ouville l'Abbaye;49.6967934;0.8543911;False;;;;;0
+1116;Visite guidée : Central téléphonique;49.4993513;0.1007689;True;0.53;49.499353;0.100762;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/d3/de/29/42/84cd-4ae0-a463-faf6bd41ba0c/sd.jpg;10
+1117;L'essentiel - Espace bien-être;50.04752;1.41892;True;13.92;50.0473969;1.4189553;https://panoramax.openstreetmap.fr/derivates/3d/1d/7a/47/98dd-4cf9-baa3-390a2b869dab/sd.jpg;10
+1118;Circuit de la Sâane;49.704178;0.963637;False;;;;;0
+1119;Balcon face à la mer;50.06246;1.37;True;3.88;50.062485373;1.370037302;https://panoramax.openstreetmap.fr/derivates/ef/95/c7/5f/4cb7-44e8-adc8-81b2acc07311/sd.jpg;10
+1120;Hôtel B&B Le Havre 2;49.5039286;0.1970364;True;0.78;49.50393;0.197047;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/f3/c4/5d/99/d068-41a2-8984-acc59c0a5be4/sd.jpg;10
+1121;Aire de stationnement et de service du Camping ABIJUNE;49.6829154;0.21336001;True;15.49;49.682869;0.213563;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/b8/72/7e/2a/a92f-48ed-bb4b-35ff45830621/sd.jpg;10
+1122;Cinéma Les Arts;49.5350014;0.17931879;True;9.17;49.5350662;0.1792403;https://panoramax-storage-public-fast.s3.gra.perf.cloud.ovh.net/derivates/a3/20/e9/91/eee7-42cb-8f86-c478a2ac1e1f/sd.jpg;10
+1123;Camping Le Rivage;49.7369662;0.30761098;True;39.31;49.736614;0.307564;https://panoramax.openstreetmap.fr/derivates/e8/ad/8e/66/6ce8-48b0-b9bc-2f7cda0c6a4c/sd.jpg;5
+1124;Maison Caillet - Hôtel;49.7445929;0.49198709;False;;;;;0
+1125;Festival Normandie Impressionniste;49.440338;1.09146;True;24.55;49.4405231;1.0916451;https://panoramax.openstreetmap.fr/derivates/a6/58/dc/06/dca8-416c-a4f8-8785d6697cb0/sd.jpg;10
+1126;La Maison de Sotteville sur Mer;49.8846199;0.8271147;False;;;;;0
+1127;Découverte des oiseaux des jardins;49.5052832;0.09360476;False;;;;;0
+1128;[Visite guidée] Les femmes et la mer;49.9275109;1.0878759;True;3.94;49.9275339;1.0879178;https://panoramax.openstreetmap.fr/derivates/1f/ee/07/90/9256-4f27-9c33-ef6a8ef1a315/sd.jpg;10
+1129;Visite guidée - Jardin jungle;50.0257497;1.4508574;True;5.65;50.0257926;1.4508998;https://panoramax.openstreetmap.fr/derivates/f6/9f/bf/03/4b25-4f32-8080-309aac0a436f/sd.jpg;10

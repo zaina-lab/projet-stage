@@ -1,0 +1,214 @@
+/* Couleurs principales pour onglets, hover, bordures, graphiques */
+:root {
+    --coleur-bleu: #59839f; 
+    --coleur-rouge: #390f0c; 
+    --couleur-vert: #306860;
+    --coleur-gris-body: #f4f6f9; /* fond général */
+    --couleu-rouge-kpi : #694646; 
+    --titres : #E3E5E8; /*le titre de la page et les fenetres*/
+}
+
+
+html, body {
+    background-color: var(--coleur-gris-body);
+    height: 92%;
+    overflow-y: auto;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    width: 100%;
+}
+
+.tab {
+    font-size: 30px;
+    background-color: var(--coleur-bleu);
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    border-radius: 5px 5px 0 0;
+}
+
+.tab--selected {
+    background-color: var(--couleu-rouge-kpi) !important;
+    color: white !important;
+}
+
+
+
+/*titre de la page 1*/
+.page-title {
+    color: #7e120c;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    background-color: var(--titres);
+    border-bottom: 2px solid #dcd3d3;
+}
+
+
+/* La structure globale du tableau */
+.table-principale {
+    width: 100%;
+    border-collapse: collapse;
+    /* Pour que la bordure soit bien nette */
+    table-layout: fixed;
+    /* Pour respecter les largeurs à la lettre */
+}
+
+.main_container_1 {
+    padding: 50px 50px;
+}
+
+/* Séparation verticale entre les deux mondes */
+.colonne-gauche {
+    width: 50%;
+    vertical-align: top;
+    border-right: 5px solid #dcd3d3;
+    /* Ta bordure de séparation ici */
+    padding-right: 20px;
+    /* Un peu d'air avant la ligne */
+}
+
+.colonne-droite {
+    width: 50%;
+    vertical-align: top;
+    padding-left: 20px;
+    
+}
+
+/*-----------------------------------Les graphes---------------------------*/
+.dash-graph {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    background-color: white;
+    padding: 10px;
+}
+
+.Les_Graphes {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px;
+    
+}
+ /* _______________________________________________________________________*/
+
+/*----------------------------------- KPIs----------------------------------*/
+.KPIs_1 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.KPI_box {
+    color: white;
+    height: 78px;
+    width: 95%;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    padding: 20px;
+}
+
+.kpi_content {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.kpi_text {
+    display: flex;
+    flex-direction: column;
+}
+
+.kpi_value {
+    font-size: 30px;
+}
+
+.kpi_label {
+    font-size: 14px;
+
+}
+
+.kpi_icon_img {
+    width: 50px;
+    height: 66px;
+    object-fit: contain;
+    /* pour garder le ratio de l’image */
+}
+
+/* Couleurs dégradé bleu -> violet */
+.KPIs_1 .KPI_box:nth-child(1) {
+    background: var(--coleur-bleu);
+}
+
+.KPIs_1 .KPI_box:nth-child(2) {
+    background: #2d6373;
+}
+
+.KPIs_1 .KPI_box:nth-child(3) {
+    background: var(--couleur-vert);
+}
+
+.KPIs_1 .KPI_box:nth-child(4) {
+    background: #6b6f4e;
+}
+
+.KPIs_1 .KPI_box:nth-child(5) {
+    background: var(--couleu-rouge-kpi);
+}
+
+.KPIs_1 .KPI_box:nth-child(6) {
+    background: #8c3a2f;
+}
+
+.KPIs_1 .KPI_box:nth-child(7) {
+    background: #6b4a6f;
+}
+
+.KPIs_1 .KPI_box:nth-child(8) {
+    background:#4b3f72;
+}
+/*_______________________________________________________________________*/
+
+/*----------------------------------- TOP 3------------------------------*/
+.top3_container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.top3_poi {
+    height: 480px !important;
+}
+/*_____________________________________________________________________________*/
+
+/*----------------------------------- Carte--------------------------------*/
+
+/*Carte */
+.Carte_1 {
+    width: 95%;
+    height: 800px;
+    padding: 10px;
+    background-color: white;
+    margin: 20px auto;
+}
+
+/*_________________________________________________________________________*/
+/*----------------------------------- Filtres----------------------------------*/
+
+.les_filtres{
+    display: flex;
+    gap: 50px;
+    width: 100%;
+    align-items: flex-end;
+}
+.les_filtres>div {
+    flex: 1; /* Force les deux colonnes à se partager 100% de l'espace (50/50) */
+    min-width: 0; /* Empêche le dropdown de déborder si le texte est trop long */
+}
