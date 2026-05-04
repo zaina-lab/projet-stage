@@ -1,0 +1,16 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Données brutes
+*.json
+
+# Environnements virtuels
+venv/
+.env/
+
+# Logs / systèmes
+*.log
+
