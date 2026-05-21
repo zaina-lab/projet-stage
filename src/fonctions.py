@@ -1,4 +1,8 @@
 from collections import defaultdict
+from rapidfuzz import fuzz
+import pandas as pd
+import os
+import math
 import json
 
 # ====== LES CATÉGORIES ======
@@ -324,6 +328,36 @@ def extract_booking_contact(data):
     return email, tel
 
 
+
+# ========================== POUR europeana et wikimedea ... les API  ========================
+
+#fonction pour ajouter une ligne au fichier CSV
+def append_to_csv(row, OUTPUT_FILE):
+    df = pd.DataFrame([row])
+    if not os.path.exists(OUTPUT_FILE):
+        df.to_csv(OUTPUT_FILE, index=False, sep=";")
+    else:
+        df.to_csv(OUTPUT_FILE, mode="a", header=False, index=False, sep=";")
+
+
+#Calcul distance (Haversine)
+def haversine(lat1, lon1, lat2, lon2):
+    """Calcule la distance en mètres entre deux points GPS"""
+    try:
+        R = 6371000 # Rayon de la Terre en m
+        phi1, phi2 = math.radians(float(lat1)), math.radians(float(lat2))
+        dphi = math.radians(float(lat2) - float(lat1))
+        dlambda = math.radians(float(lon2) - float(lon1))
+        a = math.sin(dphi/2)**2 + math.cos(phi1)*math.cos(phi2)*math.sin(dlambda/2)**2
+        return 2 * R * math.atan2(math.sqrt(a), math.sqrt(1-a))
+    except: return 999999
+
+
+def nettoyer(val):
+    if pd.isna(val):
+        return ""
+    s = str(val).strip()
+    return "" if s.lower() in ("nan", "none", "0", "0.0", "") else s
 
 
 # ========================== MATRICE DE CRITICITE  ========================

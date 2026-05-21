@@ -2,21 +2,9 @@ import requests
 import pandas as pd
 import time
 import os
-import math
+from fonctions import append_to_csv, haversine
 
-OUTPUT_FILE = "panoramax.csv"
-
-#Calcul distance (Haversine)
-def haversine(lat1, lon1, lat2, lon2):
-    R = 6371000  # mètres
-    phi1 = math.radians(lat1)
-    phi2 = math.radians(lat2)
-    dphi = math.radians(lat2 - lat1)
-    dlambda = math.radians(lon2 - lon1)
-
-    a = math.sin(dphi/2)**2 + math.cos(phi1)*math.cos(phi2)*math.sin(dlambda/2)**2
-    return 2 * R * math.atan2(math.sqrt(a), math.sqrt(1 - a))
-
+OUTPUT_FILE = "img_panoramax.csv"
 
 #Créer une bbox autour d’un point
 def create_bbox(lat, lon, delta=0.001):
@@ -59,16 +47,6 @@ def best_image_for_poi(poi_lat, poi_lon, features):
 
     return best_dist, best_img
 
-
-# Sauvegarde CSV
-def append_to_csv(row):
-    df = pd.DataFrame([row])
-    if not os.path.exists(OUTPUT_FILE):
-        df.to_csv(OUTPUT_FILE, index=False, sep=";")
-    else:
-        df.to_csv(OUTPUT_FILE, mode="a", header=False, index=False, sep=";")
-
-
 #Pipeline principal
 def run_pipeline(df):
     if os.path.exists(OUTPUT_FILE):
@@ -108,7 +86,7 @@ def run_pipeline(df):
             "nb_results": len(features)
         }
 
-        append_to_csv(result)
+        append_to_csv(result, OUTPUT_FILE)
         time.sleep(0.5)
         if i % 50 == 0:
             print(f"{i}/{len(df)} traités")

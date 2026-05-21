@@ -381,7 +381,7 @@ if os.path.exists(OUTPUT_FILE):
     os.remove(OUTPUT_FILE)
 
 dossier_du_script = os.path.dirname(os.path.abspath(__file__))
-dossier_data = os.path.join(dossier_du_script, '..', 'flux-25899-202604100900', 'objects')
+dossier_data = os.path.join(dossier_du_script, '..', 'objects')
 df = analyse_datatourisme(dossier_data)
 
 df_csv = df.copy()

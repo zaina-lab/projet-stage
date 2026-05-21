@@ -1,5 +1,6 @@
 
 from dash import Dash, html, dcc, Input, Output
+import dash_bootstrap_components as dbc
 import pandas as pd
 import os
 import plotly.express as px
@@ -28,9 +29,11 @@ palette = [
     '#694646'            
 ]
 
-app = Dash(__name__)
-
-#=========================== LECTURE DES DONNÉES =========================================
+app = Dash(
+    __name__, 
+    external_stylesheets=[dbc.icons.BOOTSTRAP], # On ne prend QUE les icônes
+    update_title=None
+)#=========================== LECTURE DES DONNÉES =========================================
 
 # dossier du script actuel
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -44,7 +47,7 @@ df_brut['Types'] = df_brut['Types'].fillna("").apply(
     lambda x: x.split(', ') if isinstance(x, str) and x != "" else []
 )
 
-csv_geo = os.path.join(BASE_DIR, "..", "cordinate_test.csv")
+csv_geo = os.path.join(BASE_DIR, "..", "cordinate_verif.csv")
 df_geo = pd.read_csv(csv_geo, sep=';')
 
 # Chargement des enrichissements
@@ -69,6 +72,325 @@ df_fiabilite_panoramax = pd.merge(
 #=========================== CHARGEMENT ET PRÉPARATION DES DONNÉES =========================================
 
 df["Categorie"] = df["Categorie"].fillna("Inconnu")
+
+
+
+#=========================== la bulle d'aide des graphes et KPIs =========================================
+ 
+def avec_aide(id_unique, description, composant_dash):
+    return html.Div([
+        html.Div([
+            html.I(
+                className="bi bi-info-circle", 
+                id=f"aide-{id_unique}",
+                style={
+                    "cursor": "help", 
+                    "color": "#59839f", 
+                    "fontSize": "1.2rem",
+                    "opacity": "0.7"
+                }
+            ),
+            dbc.Tooltip(
+                description,
+                target=f"aide-{id_unique}",
+                placement="left",
+                style={
+                    "whiteSpace": "pre-line", 
+                    "textAlign": "left",
+                    "backgroundColor": "rgba(0, 0, 0, 0.9)", 
+                    "color": "white",      
+                    "padding": "20px",
+                    "maxWidth": "500px", 
+                    "borderRadius": "10px",
+                    "fontSize": "1.1rem",
+                    "lineHeight": "1.5",
+                    "zIndex": "9999"
+                }
+            ),
+        ], style={
+            "position": "absolute", 
+            "top": "10px", 
+            "right": "15px", 
+            "zIndex": "10"
+        }),
+        composant_dash
+    ], style={"position": "relative"})
+
+description_g1 = [
+
+    html.B("📌 CE QUE C'EST"), html.Br(),
+    "Un treemap est un graphe en rectangles imbriqués où la taille de chaque rectangle est proportionnelle à une valeur. "
+    "Ici, chaque rectangle représente un type de POI (ex : hôtel, Restaurant, Museum …).", 
+    html.Br(), html.Br(),
+    
+    html.B("📥 EN ENTRÉE"), html.Br(),
+    "•La colonne 'Types' du fichier 'analyse_poi.csv' ", html.Br(),
+    "• Cette colonne peut contenir plusieurs types séparés par des virgules (ex : 'museum, culture'),  le code les explose d'abord avec '.explode()' pour traiter chaque type individuellement", html.Br(),
+    "• Il compte ensuite le nombre d'occurrences de chaque type avec '.value_counts()'", html.Br(), html.Br(),
+    
+    html.B("📊 AFFICHE"), html.Br(),
+    "• Chaque case = un type de POI", html.Br(),
+    "• La taille de la case = le nombre de POI", html.Br(),
+    "• Au survol = le nom du type + le nombre exact", html.Br(), html.Br(),
+    
+]
+
+description_g2 = [
+    
+    html.B("📌 CE QUE C'EST"), html.Br(),
+    "Même principe que le Graphe 1,"
+     " mais cette fois on visualise les catégories (groupes de haut niveau) et non les types fins.",
+    html.Br(), html.Br(),
+    
+    html.B("📥 EN ENTRÉE"), html.Br(),
+    "• La colonne 'Categorie' du DataFrame principal 'df'",html.Br(), html.Br(),
+
+    html.B("📊 AFFICHE"), html.Br(),
+    "• Chaque case =  une catégorie de POI", html.Br(),
+    "• La taille = le nombre de POI dans cette catégorie", html.Br(),
+    "• Au survol = le nom de la catégorie + nombre de POI", html.Br(), html.Br(),
+    
+    html.B("💡 COMMENT LE LIRE"), html.Br(),
+    "Les grandes cases = les categories les plus représentés dans la base."
+    "Si 'évènement'  est énorme et 'Culture' est minuscule, cela signifie que la base est dominée par les évènements."
+
+]
+
+description_g3 = [
+    
+    html.B("📌 CE QUE C'EST"), html.Br(),
+     " Un graphe en barres horizontales qui montre, pour chaque colonne du fichier CSV, combien de POI ont une valeur renseignée (non nulle).",
+    html.Br(), html.Br(),
+    
+    html.B("📥 EN ENTRÉE"), html.Br(),
+    "• Tous les champs du DataFrame 'df' (Nom, Ville, Latitude, Téléphone, Email, etc.)",html.Br(),
+    "• Il utilise '.notna().sum()' pour compter le nombre de valeurs présentes par colonne", html.Br(), html.Br(),
+
+    html.B("📊 AFFICHE"), html.Br(),
+    "• Axe Y : le nom de chaque champ", html.Br(),
+    "• Axe X : le nombre de POI ayant ce champ renseigné", html.Br(),
+    "• Couleur : dégradé du rouge (peu rempli) au bleu (très rempli)", html.Br(),
+    "• Trié du moins rempli au plus rempli pour repérer immédiatement les champs problématiques", html.Br(), html.Br(),
+    
+    html.B("💡 COMMENT LE LIRE"), html.Br(),
+    "Les barres courtes et rouges = les champs souvent manquants.",html.Br(),
+    "Les barres longues et bleues = les champs bien renseignés."
+
+]
+
+description_g5 = [
+    
+    html.B("📌 CE QUE C'EST"), html.Br(),
+     "Un scatter plot met en relation 4 dimensions pour chaque POI. ",
+    html.Br(), html.Br(),
+    
+    html.B("📥 EN ENTRÉE"), html.Br(),
+    "• 'richesse_desc' : longueur de la 'Description_Longue' en nombre de caractères.",html.Br(),
+    "• 'score_completude' : score calculé par la fonction 'calc_score()'.",html.Br(),
+    "• 'nb_types' : nombre de types associés au POI. ",html.Br(),
+    "• 'Categorie' : pour la couleur.", html.Br(), html.Br(),
+
+    html.B("📊 AFFICHE"), html.Br(),
+    "• Axe Y : richesse de la description (nb de caractères)", html.Br(),
+    "• Axe X : score de complétude (0% à 100%)", html.Br(),
+    "• Taille du point : nombre de types auquelle il appatient le POI", html.Br(),
+    "• Couleur : catégorie du POI", html.Br(),
+    "• Au survol : nom, ville, catégorie, description et score de complétude, types", html.Br(), html.Br(),
+    
+    html.B("💡 COMMENT LE LIRE"), html.Br(),
+    "En haut à droite = POI riches et bien renseignés. ",html.Br(),
+    "En bas à gauche = POI pauvres.",html.Br(),
+    "Un POI avec une longue description mais un faible score signifie qu'il a du texte mais manque d'infos pratiques (téléphone, adresse, etc.)."
+
+]
+
+description_g4 = [
+    
+    html.B("📌 CE QUE C'EST"), html.Br(),
+     "Un histogramme qui montre la distribution des scores de complétude de tous les POI, regroupé par catégorie. ",
+    html.Br(), html.Br(),
+    
+    html.B("📥 EN ENTRÉE"), html.Br(),
+    "• La colonne 'score_completude' calculée par 'calc_score()'",html.Br(),
+    "• La colonne 'Categorie' ", html.Br(), html.Br(),
+
+    html.B("📊 AFFICHE"), html.Br(),
+    "• Axe Y : nombre de POI dans chaque intervalle", html.Br(),
+    "• Axe X : valeurs de score (de 0 à 100%)", html.Br(),
+    "• Couleur : catégorie", html.Br(),
+    "• Les barres sont groupées côte à côte (barmode='group'", html.Br(),html.Br(),
+    
+    html.B("💡 COMMENT LE LIRE"), html.Br(),
+    "Si la majorité des barres sont à droite (score > 70%), la base est de bonne qualité globale. ",html.Br(),
+    "Si elles sont concentrées à gauche, beaucoup de POI sont incomplets. Comparer les catégories permet de voir laquelle est la mieux documentée.",html.Br(),
+
+]
+
+description_carte = [
+    
+    html.B("📌 CE QUE C'EST"), html.Br(),
+     "Une carte géographique interactive affichant tous les POI de la Seine-Maritime. Elle est aussi dynamique : un menu déroulant permet de filtrer par catégorie et de zoomer sur un POI précis.",
+    html.Br(), html.Br(),
+    
+    html.B("📥 EN ENTRÉE"), html.Br(),
+    "• Les colonnes 'Latitude' et 'Longitude' du DataFrame",html.Br(),
+    "• La colonne 'Description_Longue' : sa longueur détermine la taille du point sur la carte",html.Br(),
+    "• La colonne 'Categorie' : détermine la couleur",html.Br(),
+    "• La colonne 'Ville' : affichée au survol ", html.Br(), html.Br(),
+
+    html.B("📊 AFFICHE"), html.Br(),
+    "• Un point par POI géolocalisé", html.Br(),
+    "• Taille du point proportionnelle à la richesse de la description ", html.Br(),
+    "• Couleur par catégorie", html.Br(),
+    "• Au survol : nom du POI, ville, catégorie", html.Br(),
+    "• Fond de carte OpenStreetMap", html.Br(),html.Br(),
+    
+    html.B("💡 COMMENT LE LIRE"), html.Br(),
+    "Les grands points = POI bien décrits.",html.Br(),
+    "Les petits points = peu de description. ",html.Br(),
+    "Les zones denses = là où se concentre l'offre touristique.",html.Br(),
+
+]
+
+description_g6 = [
+    
+    html.B("📌 CE QUE C'EST"), html.Br(),
+     "Un graphe soleil (sunburst) à deux niveaux qui montre la qualité des coordonnées géographiques de chaque POI, décomposée par ville.",
+    html.Br(), html.Br(),
+    
+    html.B("📥 EN ENTRÉE"), html.Br(),
+    "• Le fichier 'cordinate_verif.csv'",html.Br(),
+    "• La colonne 'Verdict' : résultat de la vérification des coordonnées",html.Br(),
+    "• La colonne 'Ville' : ville du POI",html.Br(),
+    "• Les villes avec moins de 15 POI sont regroupées dans 'petites villes' pour la lisibilité",html.Br(),html.Br(),
+
+    html.B("📊 AFFICHE"), html.Br(),
+    "• Anneau intérieur : répartition par verdict ", html.Br(),
+    "• Anneau extérieur : décomposition par ville pour chaque verdict", html.Br(),
+    "• Au survol : nombre de POI + pourcentage dans le groupe parent", html.Br(), html.Br(),
+    
+    html.B("💡 COMMENT LE LIRE"), html.Br(),
+    "Plus le vert domine l'anneau intérieur, meilleure est la qualité géographique globale."
+     "Les sections rouges ou violettes indiquent des zones à corriger en priorité.",html.Br(),
+
+]
+
+
+description_g7 = [
+    
+    html.B("📌 CE QUE C'EST"), html.Br(),
+     "Une heatmap qui croise les catégories de POI (lignes) avec les verdicts de géolocalisation (colonnes). Chaque cellule montre le pourcentage de POI de cette catégorie ayant ce verdict.",
+    html.Br(), html.Br(),
+    
+    html.B("📥 EN ENTRÉE"), html.Br(),
+    "•Le DataFrame df_geo avec les colonnes categorie et Verdict",html.Br(),
+    "•Un tableau croisé (pd.crosstab) normalisé en pourcentages par ligne",html.Br(),html.Br(),
+
+    html.B("📊 AFFICHE"), html.Br(),
+    "• Lignes : catégories de POI (food, culture, nature…) ", html.Br(),
+    "• Colonnes : verdicts (PARFAIT, OK, ERREUR…)", html.Br(),
+    "• Cellule : % des POI de cette catégorie avec ce verdict", html.Br(),
+    "• Couleur : du rouge (haut) au bleu (bas) via l'échelle RdBu_r", html.Br(), html.Br(),
+    
+    html.B("💡 COMMENT LE LIRE"), html.Br(),
+    "Une ligne toute verte = catégorie bien géolocalisée.",html.Br(),
+    "Une ligne avec du rouge = catégorie problématique.",html.Br(),
+    "Cela permet de prioriser les efforts de correction par type de lieu.",html.Br(),
+
+]
+
+description_g8 = [
+    
+    html.B("📌 CE QUE C'EST"), html.Br(),
+     "Un graphe en barres empilées horizontales qui montre, pour chaque catégorie,"
+     " la proportion de POI ayant obtenu un score de correspondance élevé ou faible avec la base Europeana (base de données culturelle européenne).", html.Br(), html.Br(),
+    
+    html.B("📥 EN ENTRÉE"), html.Br(),
+    "• Le fichier 'europeana.csv' fusionné avec les données POI",html.Br(),
+    "• La colonne 'best_score' : score de similarité entre le POI et une fiche Europeana (entre 0 et 1)",html.Br(),
+    "• La colonne 'Categorie'",html.Br(),html.Br(),
+
+
+    html.B("📊 AFFICHE"), html.Br(),
+    "• Axe Y : catégories", html.Br(),
+    "• Axe X : nombre de POI", html.Br(),
+    "• bleu  = Score élevé (bonne correspondance Europeana", html.Br(),
+    "• violet = Score faible (correspondance douteuse ou absente) ", html.Br(), html.Br(),
+    
+    html.B("💡 COMMENT LE LIRE"), html.Br(),
+    "Une barre majoritairement verte foncé = la catégorie est bien enrichie via Europeana. ",html.Br(),
+    "Une barre verte claire dominante = peu de POI de cette catégorie ont trouvé une correspondance fiable dans la base culturelle européenne.",html.Br(), html.Br(),
+
+]
+
+description_g9 = [
+    
+    html.B("📌 CE QUE C'EST"), html.Br(),
+     "Un histogramme qui montre la distance en mètres entre un POI et la photo Panoramax la plus proche trouvée lors de l'enrichissement.",html.Br(), html.Br(),
+    
+    html.B("📥 EN ENTRÉE"), html.Br(),
+    "• Le fichier 'panoramax.csv' fusionné avec les données POI",html.Br(),
+    "• La colonne 'found' : booléen indiquant si une photo a été trouvée Seuls les POI avec 'found == True' sont inclus",html.Br(),
+    "• La colonne 'distance_m' : distance en mètres entre le POI et la photo",html.Br(),html.Br(),
+
+
+    html.B("📊 AFFICHE"), html.Br(),
+    "• Axe X : distance en mètres", html.Br(),
+    "• Axe Y : nombre de POI", html.Br(),
+    "• Ligne rouge pointillée : seuil de 20m (précision considérée comme excellente)", html.Br(),
+    "• 20 intervalles pour couvrir la distribution ", html.Br(), html.Br(),
+    
+    html.B("💡 COMMENT LE LIRE"), html.Br(),
+    "Si la majorité des barres sont à gauche du seuil rouge (< 20m),"
+    " les photos Panoramax sont très précises et proches des POI. Les barres à droite indiquent des photos trouvées mais éloignées: à vérifier manuellement. ",html.Br(),
+
+]
+
+description_g10 = [
+    
+    html.B("📌 CE QUE C'EST"), html.Br(),
+     "Un graphique radar (ou toile d'araignée) qui évalue la qualité d'une catégorie de POI selon 9 piliers métier pondérés.",html.Br(), html.Br(),
+    
+    html.B("📥 EN ENTRÉE"), html.Br(),
+    "• Le DataFrame filtré sur la catégorie sélectionnée via le dropdown",html.Br(),
+    "• La MATRICE_CRITICITE : définit le poids de chaque champ selon la catégorie ",html.Br(),
+    "• Pour chaque pilier, le score = moyenne pondérée des taux de remplissage de ses champs",html.Br(),html.Br(),
+
+
+    html.B("📊 AFFICHE"), html.Br(),
+    "• Une forme en toile pour la catégorie choisie", html.Br(),
+    "• Chaque axe va de 0% à 100%", html.Br(),
+    "• Plus la surface est grande, meilleure est la qualité globale", html.Br(),
+    "• Au survol : score du pilier + liste des champs analysés ", html.Br(), html.Br(),
+    
+    html.B("💡 COMMENT LE LIRE"), html.Br(),
+    "Un radar aplati sur certains axes = des lacunes dans ces piliers. "
+    "Par exemple, un axe 'Contact' à 20% pour les restaurants signifie que 80% des restaurants n'ont pas de téléphone/email renseigné. Idéal pour identifier les points faibles par catégorie."
+
+]
+
+description_g11 = [
+    
+    html.B("📌 CE QUE C'EST"), html.Br(),
+     "Une jauge de style compteur de vitesse qui indique le taux de remplissage d'un champ spécifique pour une catégorie donnée, et évalue si ce manque est critique ou non.",html.Br(), html.Br(),
+    
+    html.B("📥 EN ENTRÉE"), html.Br(),
+    "• Dropdown 1 : la catégorie (ex : food, 'culture', 'activity'…)",html.Br(),
+    "• Dropdown 2 : le champ à analyser (ex : 'Telephone', 'Latitude'…) ",html.Br(),
+    "• Le 'poids' du champ est récupéré depuis MATRICE_CRITICITE pour la catégorie choisie",html.Br(),
+    "• Le taux = % de POI de cette catégorie ayant ce champ renseigné",html.Br(),html.Br(),
+
+
+    html.B("📊 AFFICHE"), html.Br(),
+    "• Une jauge de 0 à 100%", html.Br(),
+    "• La valeur numérique du taux en grand", html.Br(),
+    "• Le verdict + le poids du champ dans le titre", html.Br(),
+    "• Des zones colorées selon le niveau d'alerte ", html.Br(), html.Br(),
+    
+    html.B("💡 COMMENT LE LIRE"), html.Br(),
+    "Si la jauge est dans le rouge avec un poids élevé (ex : Latitude pour les restaurants), c'est une donnée critique manquante qui bloque l'exploitation touristique.  "
+
+]
 
 #=========================== LES GRAPHES DU DIV 1  =========================================
 
@@ -366,7 +688,7 @@ kpi6 = f"{kpi_pondere(df, ['Heure_Ouverture'], test=test_horaire)} %"
 kpi7 = f"{kpi_geo_complet(df)} %"   
  
 
-#=========================== TOP 3 OPI ========================
+#=========================== TOP 3 POI ========================
 
 
 top_bad = df_analyse.sort_values("score_completude").head(3)
@@ -481,7 +803,7 @@ def geo_sunburst(df_geo):
         color_discrete_map={
             "PARFAIT Ville+CP+Rue": COLORS["vert"],
             "OK Ville+CP ": COLORS["bleu"],
-            "A VERIFIER Ville|CP": COLORS["violet"],
+            "A VERIFIER Ville|CP ": "#4b3d58",
             "ERREUR": COLORS["rouge"],
             "NON_TROUVE": "#DCD3D3"
         }
@@ -515,7 +837,7 @@ def geo_heatmap(df_geo):
         labels=dict(x="Verdict", y="Categorie de lieu", color="Pourcentage (%)"),
         x=df_pivot.columns,
         y=df_pivot.index,
-        color_continuous_scale='RdYlGn', # Du rouge (erreur) au vert (parfait)
+        color_continuous_scale='RdBu_r',
         aspect="auto"
     )
 
@@ -557,8 +879,8 @@ def europeana_fiabilite(df_merge):
         barmode="stack",
         orientation='h',
         color_discrete_map={
-            "Score élevé": COLORS["vert"],
-            "Score Faible": COLORS["rouge"]
+            "Score élevé": COLORS["bleu"],
+            "Score faible": "#4b3d58"
         }
     )
     fig.update_layout(
@@ -571,7 +893,7 @@ def europeana_fiabilite(df_merge):
     return fig
 
 
-# __________________________ Graphique 9 : Précision Panoramax _____________________
+# __________________________ Graphique 9 :histgrarmme Précision Panoramax _____________________
 
 def create_panoramax_dist(df_p):
     # Filtrer uniquement là où on a trouvé une image
@@ -582,12 +904,23 @@ def create_panoramax_dist(df_p):
         x="distance_m",
         nbins=20,
         title="Distance POI vs Photo Panoramax (m)",
-        color_discrete_sequence=[COLORS["bleu"]]
+        color_discrete_sequence=["#13263b"]
     )
-    # Ajouter une ligne verticale pour le seuil de 20m (très précis)
+    # Ajouter une ligne verticale pour le seuil de 20m 
     fig.add_vline(x=20, line_dash="dash", line_color=COLORS["rouge"], annotation_text="Seuil de précision")
     
-    fig.update_layout(paper_bgcolor='white', plot_bgcolor=COLORS["plot"], title_x=0.5)
+    fig.update_traces(
+            marker_line_color="white", # une fine ligne blanche entre les barres
+            marker_line_width=1,
+            opacity=0.85 # Un peu de transparence 
+        )
+
+    fig.update_layout(
+        paper_bgcolor='white', 
+        plot_bgcolor=COLORS["plot"], 
+        title_x=0.5,
+        bargap=0.05
+    )
     return fig
 
 # __________________________ Graphique 10 :radar chart des pilier suivant _____________________
@@ -666,7 +999,7 @@ def generer_radar_chart(df, categorie_choisie):
             "%{customdata}" + # Affiche la liste des champs
             "<extra></extra>"
         ),
-        line_color="#702516", # Utilisation de ton rouge pour l'alerte qualité
+        line_color="#4C1F16", # Utilisation de ton rouge pour l'alerte qualité
         marker=dict(size=8)
     ))
 
@@ -769,29 +1102,46 @@ app.layout = html.Div([
                             html.Div(
                                 className="Les_Graphes",
                                 children=[
-
-                                    dcc.Graph(
-                                        id="g1",
-                                        figure=fig_tree,
-                                        config={'displayModeBar': False}
+                                    avec_aide(
+                                        "aide-g1",
+                                        description_g1,
+                                        dcc.Graph(
+                                            id="g1",
+                                            figure=fig_tree,
+                                            config={'displayModeBar': False}
+                                        ),
                                     ),
 
-                                    dcc.Graph(
-                                        id="g2",
-                                        figure=fig_tree_cat,
-                                        config={'displayModeBar': False}
+                                    avec_aide(
+                                        "aide-g2",
+                                        description_g2,    
+                                        dcc.Graph(
+                                            id="g2",
+                                            figure=fig_tree_cat,
+                                            config={'displayModeBar': False}
+                                        ),
                                     ),
 
-                                    dcc.Graph(
-                                        id="g3",
-                                        figure=fig_missing,
-                                        config={'displayModeBar': False}
+
+                                    avec_aide(
+                                        "aide-g3",
+                                        description_g3,   
+                                        dcc.Graph(
+                                            id="g3",
+                                            figure=fig_missing,
+                                            config={'displayModeBar': False}
+                                        ),
                                     ),
 
-                                    dcc.Graph(
-                                        id="g5",
-                                        figure=fig_scatter,
-                                        config={'displayModeBar': False},  
+
+                                    avec_aide(
+                                        "aide-g5",
+                                        description_g5,                                   
+                                        dcc.Graph(
+                                            id="g5",
+                                            figure=fig_scatter,
+                                            config={'displayModeBar': False},  
+                                        ),
                                     ),
                                 ]
                             ),
@@ -956,7 +1306,7 @@ app.layout = html.Div([
                                                                 id="kpi6",
                                                                 className="kpi_value"),
                                                             html.Div(
-                                                                "POI avec informations de dates exploitablese", 
+                                                                "POI avec horaires d'ouverture exploitables", 
                                                                 className="kpi_label")
                                                 ]),
                                                 html.Div(
@@ -1001,7 +1351,7 @@ app.layout = html.Div([
                                         children=[
                                             # carrée du top3 
                                             dcc.Graph(
-                                                figure=top_3_poi(top_bad, "TOP 3 - POI les moins complets", COLORS["rouge"]),
+                                                figure=top_3_poi(top_bad, "TOP 3 - POI les moins complets", "#742727"),
                                                 config={'displayModeBar': False},
                                                 id="top3_bad",
                                                 className = "top3_poi"
@@ -1010,11 +1360,16 @@ app.layout = html.Div([
                                     ),
 
                                     html.Div(   
-                                        className="Les_Graphes",                                        children=[ 
-                                            dcc.Graph(
-                                                id="g4",
-                                                figure=fig_hist_score,
-                                                config={'displayModeBar': False}
+                                        className="Les_Graphes",                                        
+                                        children=[ 
+                                            avec_aide(
+                                                "aide-g4",
+                                                description_g4,   
+                                                dcc.Graph(
+                                                    id="g4",
+                                                    figure=fig_hist_score,
+                                                    config={'displayModeBar': False}
+                                                ),
                                             ),
                                         ]
                                     ),
@@ -1062,12 +1417,16 @@ app.layout = html.Div([
                         html.Div(
                             className="Carte_1",
                             children=[
-                                dcc.Graph(
-                                    className="carte_graph_1",
-                                    id="map1",
-                                    figure=fig_map,
-                                    config={'displayModeBar': False},
-                                )
+                                avec_aide(
+                                    "aide-carte",
+                                    description_carte,   
+                                    dcc.Graph(
+                                        className="carte_graph_1",
+                                        id="map1",
+                                        figure=fig_map,
+                                        config={'displayModeBar': False},
+                                    )
+                                ),
                             ]
                         ),
                         colSpan=2
@@ -1093,10 +1452,14 @@ app.layout = html.Div([
                                 html.Div(
                                     className="Les_Graphes", 
                                     children=[
-                                        dcc.Graph(
-                                            id="sunburst-qualite",
-                                            figure=geo_sunburst(df_geo), 
-                                            config={'displayModeBar': False}
+                                        avec_aide(
+                                            "aide-g6",
+                                            description_g6,   
+                                            dcc.Graph(
+                                                id="sunburst-qualite",
+                                                figure=geo_sunburst(df_geo), 
+                                                config={'displayModeBar': False}
+                                            ),
                                         ),
                                     ]
                                 ),
@@ -1105,10 +1468,14 @@ app.layout = html.Div([
                                 html.Div(
                                     className="Les_Graphes", 
                                     children=[
-                                        dcc.Graph(
-                                            id="heatmap-qualite",
-                                            figure=geo_heatmap(df_geo), 
-                                            config={'displayModeBar': False}
+                                        avec_aide(
+                                            "aide-g7",
+                                            description_g7,
+                                            dcc.Graph(
+                                                id="heatmap-qualite",
+                                                figure=geo_heatmap(df_geo), 
+                                                config={'displayModeBar': False}
+                                            ),
                                         ),
                                     ]
                                 ),
@@ -1121,10 +1488,14 @@ app.layout = html.Div([
                                 html.Div(
                                     className="Les_Graphes", 
                                     children=[
-                                        dcc.Graph(
-                                            id="europeana-bar",
-                                            figure=europeana_fiabilite(df_fiabilite_europeana), 
-                                            config={'displayModeBar': False}
+                                        avec_aide(
+                                            "aide-g8",
+                                            description_g8,
+                                            dcc.Graph(
+                                                id="europeana-bar",
+                                                figure=europeana_fiabilite(df_fiabilite_europeana), 
+                                                config={'displayModeBar': False}
+                                            ),
                                         ),
                                     ]
                                 ),
@@ -1133,10 +1504,14 @@ app.layout = html.Div([
                                 html.Div(
                                     className="Les_Graphes", 
                                     children=[
-                                        dcc.Graph(
-                                            id="panoramax-hist",
-                                            figure=create_panoramax_dist(df_fiabilite_panoramax), 
-                                            config={'displayModeBar': False}
+                                        avec_aide(
+                                            "aide-g9",
+                                            description_g9,
+                                            dcc.Graph(
+                                                id="panoramax-hist",
+                                                figure=create_panoramax_dist(df_fiabilite_panoramax), 
+                                                config={'displayModeBar': False}
+                                            ),
                                         ),
                                     ]
                                 ),
@@ -1160,10 +1535,14 @@ app.layout = html.Div([
                                 html.Div(
                                     className="Les_Graphes", 
                                     children=[
-                                        dcc.Graph(
-                                            id='radar-chart-qualite',
-                                            figure={}, 
-                                            config={'displayModeBar': False}
+                                        avec_aide(
+                                            "aide-g10",
+                                            description_g10,
+                                            dcc.Graph(
+                                                id='radar-chart-qualite',
+                                                figure={}, 
+                                                config={'displayModeBar': False}
+                                            ),
                                         ),
                                     ]
                                 ),
@@ -1196,10 +1575,14 @@ app.layout = html.Div([
                                 html.Div(
                                     className="Les_Graphes", 
                                     children=[
-                                        dcc.Graph(
-                                            id="gauge-criticite",
-                                            figure={}, 
-                                            config={'displayModeBar': False}
+                                        avec_aide(
+                                            "aide-g11",
+                                            description_g11,
+                                            dcc.Graph(
+                                                id="gauge-criticite",
+                                                figure={}, 
+                                                config={'displayModeBar': False}
+                                            ),
                                         ),
                                     ]
                                 ),
