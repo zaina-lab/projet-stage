@@ -3,10 +3,15 @@ from rapidfuzz import fuzz
 import pandas as pd
 import time
 import os
+from fonctions import append_to_csv
+from dotenv import load_dotenv
 
-api_key =" sartgumettl"
+load_dotenv()
+
+#API europeana
+api_key = os.getenv("EUROPEANA_API_KEY")
 INPUT_FILE = "analyse_poi.csv"
-OUTPUT_FILE = "europeana.csv"
+OUTPUT_FILE = "_img_europeana.csv"
 
 #fonction de recherche dans l'API Europeana
 def search_europeana(poi, api_key, rows=5):
@@ -38,13 +43,6 @@ def best_match_score(poi, items):
 
     return best_score, best_title
 
-#fonction pour ajouter une ligne au fichier CSV
-def append_to_csv(row):
-    df = pd.DataFrame([row])
-    if not os.path.exists(OUTPUT_FILE):
-        df.to_csv(OUTPUT_FILE, index=False, sep=";")
-    else:
-        df.to_csv(OUTPUT_FILE, mode="a", header=False, index=False, sep=";")
 
 #Fonction principale 
 def run_pipeline(poi_data, api_key):
@@ -63,7 +61,7 @@ def run_pipeline(poi_data, api_key):
             "best_match": best_title,
             "nb_results": len(items)
         }
-        append_to_csv(row)
+        append_to_csv(row, OUTPUT_FILE)
         time.sleep(0.5)
         if i % 100 == 0:
             print(f"{i}/{len(poi_data)} traités")

@@ -1,11 +1,13 @@
 import pandas as pd
 from geopy.geocoders import Nominatim
+from fonctions import append_to_csv
+from rapidfuzz import fuzz
 import time
 import os
 import re
 
 INPUT_FILE = 'analyse_poi.csv'
-OUTPUT_FILE = "cordinate_test.csv"
+OUTPUT_FILE = "cordinate_verif1.csv"
 
 #on cree un agent pour faire les requetes de geocodage
 geolocator = Nominatim(user_agent="coordonnees_test")
@@ -20,7 +22,7 @@ def cordinate_test(row):
     try:
         # On récupère les données du CSV
         ville_base = str(row.get('Ville', '')).lower().strip()
-        cp_base = str(row.get('Code_Postal', '')).strip()
+        cp_base = str(row.get('Code_Postal', '')).split('.')[0].strip()
         rue_base = str(row.get('Rue', '')).lower().strip() 
         
         cp_ok = False
@@ -39,8 +41,10 @@ def cordinate_test(row):
 
             # --- BLOC VILLE ---
             if ville_base != '':
-                ville_ok = ville_base in adresse_reelle
-                
+              # On calcule un score de ressemblance (0 à 100)
+              score_v = fuzz.partial_ratio(ville_base, adresse_reelle)
+              ville_ok = score_v >= 85 # On accepte si c'est très proche
+                        
             # --- BLOC RUE ---
             if rue_base not in ['', 'nan', 'none']:
                 mots = rue_base.split()
@@ -53,8 +57,16 @@ def cordinate_test(row):
                 
                 # Le reste de la logique
                 noms_rue = [m for m in mots if len(m) > 3 and not m.isdigit()]
-                nom_ok = any(m in adresse_reelle for m in noms_rue) if noms_rue else False
-                
+                #nom_ok = any(m in adresse_reelle for m in noms_rue) if noms_rue else False
+                if noms_rue:
+                    # On rassemble les mots de la rue (ex: "saint", "nicolas")
+                    nom_rue_base = " ".join(noms_rue)
+                    # On compare avec l'adresse Maps
+                    score_rue = fuzz.partial_ratio(nom_rue_base, adresse_reelle)
+                    nom_ok = score_rue >= 80 
+                else:
+                  nom_ok = False
+
                 if numeros_csv and numeros_gps:
                     n_csv = numeros_csv[0]
                     # On vérifie si un des nombres du GPS est proche du CSV (marge de 5)
@@ -91,15 +103,6 @@ def cordinate_test(row):
         "Adresse_GPS": adresse_reelle
     }
 
-
-def append_to_csv(row):
-    df = pd.DataFrame([row])
-    if not os.path.exists(OUTPUT_FILE):
-        df.to_csv(OUTPUT_FILE, index=False, sep=";")
-    else:
-        df.to_csv(OUTPUT_FILE, mode="a", header=False, index=False, sep=";")
-
-
 # --- PIPELINE PRINCIPALE ---
 def run_geo_pipeline():
     if os.path.exists(OUTPUT_FILE):
@@ -115,7 +118,7 @@ def run_geo_pipeline():
         result_row = cordinate_test(row)
         
         #On l'ajoute direct au CSV de sortie
-        append_to_csv(result_row)
+        append_to_csv(result_row, OUTPUT_FILE)
         
         #Affichage du progrès
         if i % 100 == 0:

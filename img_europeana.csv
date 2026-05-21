@@ -390,7 +390,7 @@ id_poi;poi;found;best_score;best_match;nb_results
 388;MEDI-CAUX BUS du Pays de Caux;False;0;;0
 389;Le Mont Lévêque à VTT;False;0;;0
 390;Le Genetey;False;0;;0
-391;[Foire à tout] En intérieur;True;0.38596491228070173;Alberto Camenzind (Architecte);1
+391;[Foire à tout] En intérieur;True;0.38596491228070173;Alberto Camenzind (Architecte);2
 392;L'Escale du Gros-Horloge;False;0;;0
 393;Appartement Superbe Vue Mer et Funiculaire;False;0;;0
 394;Gîtes de France® - François et Auguste;False;0;;0
@@ -645,7 +645,7 @@ id_poi;poi;found;best_score;best_match;nb_results
 643;Maison des Dalles;True;0.3076923076923077;Peisaj (din) București;5
 644;Balade commentée avec Claudine Naty;False;0;;0
 645;"Studio ""Le Panoramic""";False;0;;0
-646;Le Manège;True;1.0;Le manège;5
+646;Le Manège;True;1.0;Le Manège;5
 647;CHEVRIER Véronique;False;0;;0
 648;Chez le roi des Canaries;True;0.25503355704697983;LA BENEDICTION NUPTIALE DONNEE SOLENNELLEMENT AV / ROY ET A LA REINE D'ESPAGNE A FEGUIERES LE 5.¦e¦ NOVEMBRE 1701 : [estampe];2
 649;Clinique Bois Guillaume;True;0.25;Dr Jacqueline Porret-Forel (Médecin généraliste - Sa rencontre avec Aloïse, Dubuffet, l'Art Brut);2
@@ -1293,7 +1293,7 @@ Tirage photographique sur papier albuminé représentant :
 1283;Soirée Karaoké;False;0;;0
 1284;Chez la Princesse au petit pois;False;0;;0
 1285;Léo à Table - Restaurant d'insertion;False;0;;0
-1286;Nature Porcelaine;True;0.5714285714285714;Nature morte et losanges fleuris;5
+1286;Nature Porcelaine;True;0.6071428571428572;Nature morte au perroquet en porcelaine;5
 1287;M. et Mme BARBIER Thierry et Stéphanie;False;0;;0
 1288;Bar du Dormy House;False;0;;0
 1289;Gîtes de France® - Tout va Bien;False;0;;0
@@ -2079,9 +2079,9 @@ Rue du Lac 2";5
 2067;Coucher de soleil sur un voilier au large de Saint-Valery-en-Caux;False;0;;0
 2068;Inch Allah;True;0.9;Inch'allah;4
 2069;La maison du calme;True;0.43478260869565216;Asa Lanova (Du geste au mot);5
-2070;Gîte Forestier;True;0.27586206896551724;Sonus naturalis;1
+2070;Gîte Forestier;True;0.27586206896551724;Sonus naturalis;2
 2071;Gîtes de France® - Les Toupinettes;False;0;;0
-2072;Les Embruns;True;0.31999999999999995;Nautilocalyx mimuloides (Benth.) Morton;2
+2072;Les Embruns;True;0.31999999999999995;Nautilocalyx mimuloides (Benth.) Morton;3
 2073;Le Clos Brayon - Roulotte 76;False;0;;0
 2074;Chez Lili;True;0.4736842105263158;Neon lichtreclame - Chez Lili;5
 2075;[Visite guidée] Le Patrimoine d'Offranville;False;0;;0
@@ -2279,7 +2279,7 @@ Rue du Lac 2";5
 2267;RAR week-end : deux circuits de visites;False;0;;0
 2268;Camping municipal du Colombier;False;0;;0
 2269;Gîtes de France® - Le P'tit Morin;False;0;;0
-2270;Le Manège;True;1.0;Le manège;5
+2270;Le Manège;True;1.0;Le Manège;5
 2271;Atelier céramique adultes;True;0.33898305084745756;Jeanne-Odette Evard (Plasticienne);1
 2272;M. LEONNE Robenson;False;0;;0
 2273;[Exposition] Les mordus de la collections;False;0;;0
@@ -2384,7 +2384,7 @@ Rue du Lac 2";5
 2372;Aire de stationnement et de service du Sunêlia l'Aiguille Creuse;False;0;;0
 2373;Chez Ch'Rystophe;False;0;;0
 2374;Visite touristique commentée (guided tour in English on request);False;0;;0
-2375;Euphorie;True;0.48484848484848486;Euphorie und Enttäuschung;5
+2375;Euphorie;True;0.5;Saint Phalle, L'euphorie;5
 2376;La Petite Escale;False;0;;0
 2377;Gîtes de France® - Ecorcheboeuf;False;0;;0
 2378;Gîtes de France® - Le Bremontier;False;0;;0
@@ -3192,7 +3192,7 @@ Contre-épreuve d'un dessin à la pierre noire.";5
 3178;Rando-patrimoine : Un village cauchois ouvert sur la mer;False;0;;0
 3179;Bois flotté;True;0.5217391304347826;Flotte Lotte;5
 3180;Maison Mathilde;True;0.6956521739130435;Mathilde;5
-3181;Auberge des Ruines;True;0.4390243902439024;Auberge dans les ruines de Chevreuse : [dessin] / Parizeau del.t;3
+3181;Auberge des Ruines;True;0.4390243902439024;Auberge dans les ruines de Chevreuse : [dessin] / Parizeau del.t;4
 3182;Ca carillonne à la Cathédrale;False;0;;0
 3183;L'Huitrière;True;0.2272727272727273;Questions marîtimes et coloniales;5
 3184;Ethic Etapes Les Hellandes;False;0;;0
@@ -3646,7 +3646,7 @@ Contre-épreuve d'un dessin à la pierre noire.";5
 3632;L’Arc en ciel ;True;0.8888888888888888;L'Arc en ciel;5
 3633;Découverte d'un jardin d'assainissement;False;0;;0
 3634;Rouen magique en famille;False;0;;0
-3635;Chez Nico;True;0.3076923076923077;DANSE-PARTY CHEZ ESTELLA BLAIN;2
+3635;Chez Nico;True;0.3076923076923077;DANSE-PARTY CHEZ ESTELLA BLAIN;5
 3636;Hôtel Campanile Le Havre Nord - Montivilliers;False;0;;0
 3637;[Magie & musique] Tropisme poétique;False;0;;0
 3638;Circuit des Vallons;False;0;;0
@@ -3666,7 +3666,7 @@ Contre-épreuve d'un dessin à la pierre noire.";5
 3652;Comité Bovary;False;0;;0
 3653;L'Ecrin d'Azurite - Le Lagoon;False;0;;0
 3654;La balade de Quiberville;False;0;;0
-3655;La Hêtraie;True;0.25806451612903225;Jasione perennis Lam.;5
+3655;La Hêtraie;True;0.2264150943396226;Hieracium praecox subsp. pallidifrons Sudre;5
 3656;[Mini-Visite] La Cabane de la pollution;False;0;;0
 3657;Aire de service de la Base de loisirs de Jumièges;False;0;;0
 3658;Pôle de santé libéral Madeleine Brès;False;0;;0
@@ -4112,7 +4112,7 @@ Contre-épreuve d'un dessin à la pierre noire.";5
 4098;Ouverture de la Boucane du Grand Quai;False;0;;0
 4099;Hôtel Ibis Budget Rouen Sud Zenith;False;0;;0
 4100;Stage Moussaillons - Enfants (dès 5 ans) - Centre Nautique du Tréport;False;0;;0
-4101;Nature Porcelaine;True;0.5714285714285714;Nature morte et losanges fleuris;5
+4101;Nature Porcelaine;True;0.6071428571428572;Nature morte au perroquet en porcelaine;5
 4102;Marché traditionnel;True;0.5352112676056338;Marché aux bestiaux, bretons en costume traditionnel;5
 4103;Animation : La nature et l'estuaire;False;0;;0
 4104;[Concert] Des Orchestres Part.1;True;0.32352941176470584;Julien-François Zbinden (Compositeur);5
@@ -4351,7 +4351,7 @@ Contre-épreuve d'un dessin à la pierre noire.";5
 4337;Jardin des Pérelles;False;0;;0
 4338;Gîtes de France® - Le Colombier d'Yville;False;0;;0
 4339;Radicatrail 2026;False;0;;0
-4340;A Fleur de Fruits;True;0.8484848484848484;Fleurs et fruits;5
+4340;A Fleur de Fruits;True;0.7878787878787878;SALADE DE FRUITS;5
 4341;Circuit Pimont;False;0;;0
 4342;Le Kindarena;False;0;;0
 4343;Le Musoir 4;True;0.10204081632653061;École nationale des ponts et chaussées - Journaux de mission des élèves ingénieurs de l'Ecole des ponts et chaussées. Mission d'Angleterre et de Hollande accomplie en 1869 par M. Piéron;1
@@ -4955,7 +4955,7 @@ The test of a black stone design.";1
 4939;La Tour Mailly à VTT;False;0;;0
 4940;Foire à tout, kermesse et exposition;False;0;;0
 4941;Meublé 49 bis LEVILLAIN;False;0;;0
-4942;[Exposition photo];True;0.7142857142857143;Exposition;5
+4942;[Exposition photo];True;0.7272727272727273;Exposition Rops;5
 4943;[Exposition] Barbara Duprat, Annie Burette et Paul Bonmartel;False;0;;0
 4944;Simply Red - Gîte de Montreuil;False;0;;0
 4945;Luneray à pied;False;0;;0
@@ -5216,7 +5216,7 @@ The test of a black stone design.";1
 5200;Concours de châteaux de sable;True;1.0;Concours de châteaux de sable;5
 5201;Terremer;True;0.5517241379310345;The tales of Terremer;2
 5202;Planche à voile - Location;False;0;;0
-5203;[Théâtre] Poison;True;0.3076923076923077;Famous comedy Also affront is poison;5
+5203;[Théâtre] Poison;True;0.25806451612903225;North, Drama Theatre, 1941, Bubnov - St. John the Poison, Luka - John Kaljola;5
 5204;Structures gonflables - Base de loisirs de Caniel;False;0;;0
 5205;Le Pin 1;True;0.4444444444444444;Pin arolle;5
 5206;Circuit du Courval à VTT;False;0;;0
@@ -5745,7 +5745,7 @@ The test of a black stone design.";1
 5729;[Villa Augustine] Appartement Léopoldine;False;0;;0
 5730;Touches d'Histoire;True;0.32558139534883723;Departmental nursing home;5
 5731;Visite sandwich Forges-les-Eaux;False;0;;0
-5732;Les Capucins;True;0.6857142857142857;Les Capucins Sans Barbe;5
+5732;Les Capucins;True;0.8;Capucins;5
 5733;La Rainette;True;1.0;La rainette;5
 5734;Eco Hameau Coqs'LitsCaux - Lodges;False;0;;0
 5735;La Plaine du Maucomble à VTT;False;0;;0
@@ -5829,7 +5829,7 @@ The test of a black stone design.";1
 5813;Sans titre;True;0.9523809523809522;Sans titre.;5
 5814;La Plaine du Maucomble;False;0;;0
 5815;Exposition : Formes des luttes;False;0;;0
-5816;Le Vélocipède;True;0.3768115942028986;"affiche ; Affiche publicitaire pour le vélocipède Régina";5
+5816;Le Vélocipède;True;0.8695652173913043;Vélocipède;5
 5817;Les rendez-vous du bar associatif : soirée de printemps;False;0;;0
 5818;L'Escale;True;0.6153846153846154;grotte de l'Escale;5
 5819;[Fête du jeu] À Vous de Jouer;True;0.30107526881720426;Sallin Gisèle Mermoud Véronique (Comédienne - Metteuse en scène);1
@@ -6053,7 +6053,7 @@ The test of a black stone design.";1
 6037;Exposition sur Le Clos Masure;False;0;;0
 6038;Distributeur de miel;False;0;;0
 6039;"Festival ""Le Murmure du Son""";False;0;;0
-6040;Les Embruns;True;0.31999999999999995;Nautilocalyx mimuloides (Benth.) Morton;2
+6040;Les Embruns;True;0.31999999999999995;Nautilocalyx mimuloides (Benth.) Morton;3
 6041;Le Chemin Vert de Petit Caux;False;0;;0
 6042;Gîtes de France® - Le Verger;False;0;;0
 6043;[Rallye de Dieppe];False;0;;0

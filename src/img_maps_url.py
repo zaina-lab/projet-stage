@@ -3,7 +3,7 @@ import urllib.parse
 import os
 
 INPUT_FILE = 'analyse_poi.csv'
-OUTPUT_FILE = 'maps_urls.csv'
+OUTPUT_FILE = 'img_maps_urls.csv'
 
 #Charger le fichier CSV des POIs
 try:
