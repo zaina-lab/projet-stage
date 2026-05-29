@@ -51,8 +51,8 @@ csv_geo = os.path.join(BASE_DIR, "..", "cordinate_verif.csv")
 df_geo = pd.read_csv(csv_geo, sep=';')
 
 # Chargement des enrichissements
-df_europeana = pd.read_csv(os.path.join(BASE_DIR, "..", "europeana.csv"), sep=';')
-df_panoramax = pd.read_csv(os.path.join(BASE_DIR, "..", "panoramax.csv"), sep=';')
+df_europeana = pd.read_csv(os.path.join(BASE_DIR, "..", "img_europeana.csv"), sep=';')
+df_panoramax = pd.read_csv(os.path.join(BASE_DIR, "..", "img_panoramax.csv"), sep=';')
 
 # Fusionner les données pour avoir les catégories dans l'analyse de fiabilité
 df_fiabilite_europeana = pd.merge(

@@ -1,0 +1,320 @@
+id_poi;nom;nom_osm;score_fiabilite;Heure_Ouverture;Categorie
+1;De Rouen à Forges-les-Eaux;Aucun;0;Inconnu;activity
+4;Location de vélos - Bureau d'Information Touristique de Jumièges;Aucun;0;Inconnu;shop
+6;De Yainville à Jumièges;Aucun;0;Inconnu;activity
+10;Musée Pierre Corneille - Maison des Champs;Aucun;0;Inconnu;culture
+12;Le Donjon de Rouen;Aucun;0;Inconnu;culture
+13;Rando Yourte;Aucun;0;Inconnu;accommodation
+14;Hôtel Les Arcades;Aucun;0;Inconnu;accommodation
+15;Domaine Le Clos des Fontaines;Aucun;0;Inconnu;accommodation
+18;Cirque-Théâtre d'Elbeuf;Aucun;0;Inconnu;culture
+19;Le Rive Gauche;Le Rive Gauche;92;Tu-Fr 13:00-17:30;activity
+21;La Belle de Beauval;Aucun;0;Inconnu;shop
+25;La Chaumière;Aucun;0;Inconnu;accommodation
+27;Guérin Location;Aucun;0;Inconnu;shop
+29;Musée Industriel Vivant Expotec 103 - Moulin Saint-Gilles;Aucun;0;Inconnu;culture
+33;Aux portes d'Yvetot;Aucun;0;Inconnu;activity
+35;Musée du Tissage Charles Denis;Aucun;0;Inconnu;culture
+37;Valleuse des Grandes-Dalles;Aucun;0;Inconnu;nature
+40;La Grillade;Aucun;0;Inconnu;food
+45;Aître Saint-Maclou;Aître Saint-Maclou;90;09:00-19:00;culture
+47;Gîtes de France® - Auleclairlogis;Aucun;0;Inconnu;accommodation
+52;Hôtel Les Initiés;Les Initiés;99;"Mo-Fr 07:30-19:30; Sa 07:30-20:00";accommodation
+64;Sur la Piste des Comtes d'Evreux;Aucun;0;Inconnu;activity
+66;Plage-Baignade Saint-Valery-en-Caux;Aucun;0;Inconnu;activity
+67;Bienvenue chez M. Goubert;Aucun;0;Inconnu;accommodation
+69;Mon P'tit resto;Aucun;0;Inconnu;food
+71;Pôle de santé libéral et ambulatoire Gournay en Bray;Aucun;0;Inconnu;shop
+72;App'art 2 et App'art 3;Aucun;0;Inconnu;accommodation
+73;Mme TARLEE Catherine;Aucun;0;Inconnu;accommodation
+74;La Riv'Yères;Aucun;0;Inconnu;accommodation
+79;Plage-Baignade Saint-Aubin-sur-Mer;Aucun;0;Inconnu;activity
+81;Montigny;Aucun;0;Inconnu;activity
+83;Maison des forêts Darnétal;Aucun;0;Inconnu;nature
+84;Maître Jean;Aucun;0;Inconnu;activity
+85;Le Camp de César;Aucun;0;Inconnu;activity
+87;Gratte-Panche;Aucun;0;Inconnu;activity
+99;Gîtes de France® - La Petite Maison;Aucun;0;Inconnu;accommodation
+107;Centre hospitalier du Belvédère;Aucun;0;Inconnu;shop
+110;La Jolie Fécampoise;Aucun;0;Inconnu;accommodation
+119;Gare de Longroy-Gamaches;Aucun;0;Inconnu;activity
+125;Le Bièvredent;Aucun;0;Inconnu;activity
+127;Meublé 54 LEVILLAIN;Aucun;0;Inconnu;accommodation
+130;Gîte du petit pressoir;Aucun;0;Inconnu;accommodation
+133;Marais de Longueil;Aucun;0;Inconnu;nature
+137;Hôtel de Bourgtheroulde ***** - Autograph Collection;Aucun;0;Inconnu;accommodation
+138;Jardin du Manoir de l'Aumônerie;Aucun;0;Inconnu;culture
+141;Aire de pique-nique d'Héronchelles;Aucun;0;Inconnu;activity
+145;La croix de pierre;Aucun;0;Inconnu;activity
+146;Le Cotin des Cordiers;Aucun;0;Inconnu;accommodation
+153;Arbres remarquables de l'abbaye du Valasse;Aucun;0;Inconnu;nature
+155;L'Yvette;Aucun;0;Inconnu;accommodation
+159;Les Terres de Jim 2025;Aucun;0;Inconnu;other
+160;AST SUN JET PASSION;Aucun;0;Inconnu;activity
+163;La Maison Bleue;Aucun;0;Inconnu;accommodation
+183;La Mercerie de Denise;Aucun;0;Inconnu;accommodation
+184;Le Clos Vildor;Aucun;0;Inconnu;accommodation
+187;Centre Hospitalier d'Eu;Aucun;0;Inconnu;shop
+188;Chez Simon;Aucun;0;Inconnu;accommodation
+189;Des Glycines à la Porte Noire;Aucun;0;Inconnu;activity
+192;Hissez les voiles à Dieppe !;Aucun;0;Inconnu;other
+195;Mme CONSEIL Sylvia;Aucun;0;Inconnu;accommodation
+199;La Forêt de Ménonval;Aucun;0;Inconnu;activity
+200;Chez Mme ROBILLARD Marie-Line;Aucun;0;Inconnu;accommodation
+203;La Quesnoye;Aucun;0;Inconnu;activity
+206;Aéroclub de l'Estuaire de la Seine;Aucun;0;Inconnu;activity
+215;La Véloroute des Thermes;Aucun;0;Inconnu;activity
+217;La Chevrette;Aucun;0;Inconnu;activity
+218;Ferme des Templiers;Aucun;0;Inconnu;shop
+221;Le Nid Cauchois;Aucun;0;Inconnu;accommodation
+222;Gare de Bolbec;Aucun;0;Inconnu;activity
+226;Les clos masures;Aucun;0;Inconnu;activity
+233;La Sellerie;Aucun;0;Inconnu;accommodation
+236;Plage -Baignade et pêche à pied Quiberville-sur-Mer;Aucun;0;Inconnu;nature
+239;La Roulée;Aucun;0;Inconnu;activity
+242;Café des sports;Aucun;0;Inconnu;food
+250;Le Jardin du Roi de Rome à cheval;Aucun;0;Inconnu;activity
+252;Jardin des Fontaines;Aucun;0;Inconnu;nature
+255;Cours de navigation à la voile ados / adultes - Stage de Voile Dériveurs - Centre Nautique du Tréport;Aucun;0;Inconnu;other
+257;Hôtel Rouen Alba;Aucun;0;Inconnu;accommodation
+259;Grumesnil;Mairie de Grumesnil;97;"Tu 16:00-18:30; Fr 16:00-18:30; Sa 10:00-12:00";activity
+271;Le Relais Normand;Aucun;0;Inconnu;food
+272;Escale Dieppe Gambetta;Aucun;0;Inconnu;accommodation
+277;La Réformation;Aucun;0;Inconnu;activity
+287;Le Quai Sud;Aucun;0;Inconnu;accommodation
+289;Aire de stationnement et de service du Flower Camping La Chênaie;Aucun;0;Inconnu;accommodation
+292;La Basse Vallée de la Durdent;Aucun;0;Inconnu;activity
+303;Site V1 de Guerville;Aucun;0;Inconnu;culture
+309;L'oeil et la main - Espace d'expositions d'art;Aucun;0;Inconnu;culture
+312;Base Nautique et de Loisirs de Bédanne;Aucun;0;Inconnu;activity
+313;Woupi;Aucun;0;Inconnu;activity
+315;Maison de santé pluridisciplinaire La Charmille;Aucun;0;Inconnu;shop
+317;La Dame au Chapeau;Aucun;0;Inconnu;food
+319;Chapelle Seigneuriale de l'église Notre-Dame;Aucun;0;Inconnu;culture
+324;NAMONT Béatrice;Aucun;0;Inconnu;accommodation
+325;Les Grands Genêts;Aucun;0;Inconnu;activity
+329;La Plaine du Moulin;Aucun;0;Inconnu;activity
+333;Gare de Le Houlme;Aucun;0;Inconnu;activity
+338;La VéloCauchoise;Aucun;0;Inconnu;activity
+342;Glicool;Aucun;0;Inconnu;accommodation
+343;Gare de Motteville;Aucun;0;Inconnu;activity
+347;Marais de Fesques;Aucun;0;Inconnu;nature
+349;Le Vallon;Aucun;0;Inconnu;activity
+351;La Porteuse d'Eau;Aucun;0;Inconnu;nature
+352;Saint Valery en Caux : une ville et la mer;Aucun;0;Inconnu;other
+354;Les îles de la Seine en paddle au coucher du soleil;Aucun;0;Inconnu;other
+358;Tiny House Graine d'Insolite;Aucun;0;Inconnu;accommodation
+361;"APPARTEMENT ""LA SUITE ISAHORA"" _ LOVE ROOM";Aucun;0;Inconnu;accommodation
+362;Gare d'Yvetot;Yvetot;89;"Mo-Fr 05:30 -21:00; Sa 06:30-20:35; Su 08:15-21:30";activity
+364;Meublé 37/38 LEVILLAIN;Aucun;0;Inconnu;accommodation
+365;Le Marais des Communaux;Aucun;0;Inconnu;nature
+368;Gare de Montville;Aucun;0;Inconnu;activity
+377;Le Grenier de La Mothe - Management par l’orchestre;Aucun;0;Inconnu;other
+380;Les Deux Piliers;Aucun;0;Inconnu;accommodation
+383;Gîtes de France® - Gîte du Levant;Aucun;0;Inconnu;accommodation
+388;MEDI-CAUX BUS du Pays de Caux;Aucun;0;Inconnu;shop
+390;Le Genetey;Aucun;0;Inconnu;activity
+392;L'Escale du Gros-Horloge;Bar tabac du Gros Horloge;72;"Mo-Sa 07:00-20:00; Su 10:00-20:00";accommodation
+397;"Gîte ""le Bâtiment""";Aucun;0;Inconnu;accommodation
+401;Aire de pique-nique de Martainville-Epreville;Aucun;0;Inconnu;activity
+402;L'Écurie et l'Étable;Aucun;0;Inconnu;accommodation
+404;Les chemins de forrières;Aucun;0;Inconnu;activity
+407;Centre de santé de Fontaine le Dun;Aucun;0;Inconnu;shop
+411;Cours de catamarans - Centre Nautique du Tréport;Aucun;0;Inconnu;other
+412;Forêt domaniale d'Arques;Aucun;0;Inconnu;nature
+415;La Saurisserie;Aucun;0;Inconnu;accommodation
+419;Auberge de la Forêt;Aucun;0;Inconnu;food
+422;Résidence du bord de mer n°5;Aucun;0;Inconnu;accommodation
+423;La Charreterie - Studio;Aucun;0;Inconnu;accommodation
+424;Mme ROSSIGNOL Geneviève;Aucun;0;Inconnu;accommodation
+427;Les Magiciens de La Nuit;Aucun;0;Inconnu;activity
+429;Gîtes de France® - La Villa;Aucun;0;Inconnu;accommodation
+431;Aire de stationnement et de service Camping Les Falaises de Toussaint;Aucun;0;Inconnu;accommodation
+432;Bistrot des Barrières;Aucun;0;Inconnu;food
+440;L'idylle;Aucun;0;Inconnu;accommodation
+441;Gîtes de France® - La Lampotte 1;Aucun;0;Inconnu;accommodation
+449;Hôtel Sofhôtel;Aucun;0;Inconnu;accommodation
+456;Les Gîtes de Marjorie - La Maison de Jeanne;Aucun;0;Inconnu;accommodation
+457;Cinéma du Casino;Aucun;0;Inconnu;culture
+464;L'Ô2 Mer;L'Ô2 mer;93;"Mo-Su 09:00-23:00;PH 09:00-23:00";food
+466;Gîte de la Vallée;Aucun;0;Inconnu;accommodation
+479;La Bichotterie;Aucun;0;Inconnu;activity
+480;La Vallée de Valmont;Aucun;0;Inconnu;nature
+481;Bourvil à bicyclette;Aucun;0;Inconnu;activity
+483;Le Mont de Beaussault;Aucun;0;Inconnu;activity
+484;Aire de pique-nique de Bosc-le-Hard;Aucun;0;Inconnu;activity
+485;Au pied des vagues;Aucun;0;Inconnu;accommodation
+490;Flab' des Vents;Aucun;0;Inconnu;accommodation
+491;Hôtel Ibis Budget Petit-Quevilly;Aucun;0;Inconnu;accommodation
+502;À la découverte de Bondeville et Colleville;Aucun;0;Inconnu;activity
+503;Forêt de Jumièges;Jumièges;98;"Mo 14:00-17:00; Tu-We,Fr 09:00-12:00,14:00-17:00; Th 10:00-12:00,14:00-17:00; Sa 09:00-12:00; PH off; 2024 May 20 off";nature
+505;La Sirène - Restaurant;Aucun;0;Inconnu;accommodation
+510;Valleuse de Senneville-sur-Fécamp;Aucun;0;Inconnu;nature
+511;Point Location Nautisme;Aucun;0;Inconnu;activity
+512;Château d'Ouville l'Abbaye;Aucun;0;Inconnu;culture
+522;Maison de Santé pluridisciplinaire Les Carmes;Aucun;0;Inconnu;shop
+526;Villa quai du Tréport;Aucun;0;Inconnu;accommodation
+528;Brasserie Saint Joseph - Boutique;Aucun;0;Inconnu;shop
+534;Parc du chateau de Merval;Aucun;0;Inconnu;nature
+537;Entre Varenne et Scie;Aucun;0;Inconnu;activity
+538;la Ferme des Trois Portes;Aucun;0;Inconnu;culture
+541;La belle histoire;Aucun;0;Inconnu;accommodation
+546;LU6D;LU6D Rouen;99;"Mo-Th 11:00-22:30; Fr-Sa 10:00-23:00; Su 11:00-19:00";activity
+548;PR La Forêt de Jumièges;Aucun;0;Inconnu;activity
+554;La Maisonnette;Aucun;0;Inconnu;accommodation
+557;Gîte L'Air du Large;Aucun;0;Inconnu;accommodation
+561;Villa The Treport;Aucun;0;Inconnu;accommodation
+563;Aire de pique-nique de Montville;Aucun;0;Inconnu;activity
+573;Le Chalet du Pêcheur;Aucun;0;Inconnu;accommodation
+576;Ancien Bailliage d'Arques la Bataille;Aucun;0;Inconnu;culture
+598;Clinique Saint Hilaire;Clinique Saint-Hilaire;86;24/7;shop
+601;Gîte le clos des Nandous;Aucun;0;Inconnu;accommodation
+602;Gite à la ferme;Aucun;0;Inconnu;accommodation
+607;Sur la trace des chevaux;Aucun;0;Inconnu;activity
+609;La Côte de la Vierge;Aucun;0;Inconnu;activity
+611;Pont Colbert;Aucun;0;Inconnu;culture
+614;Enigma Keys;Aucun;0;Inconnu;activity
+616;RICHARD Maryse;Aucun;0;Inconnu;accommodation
+617;D'Eux-Mêmes;D'eux-mêmes;99;12:00-14:30, 19:00-22:30;food
+618;Team Break Rouen;Team Break;89;09:30-23:30;activity
+623;Four à pain de Flainville;Aucun;0;Inconnu;culture
+628;Aire de stationnement du Camping Les Mouettes;Aucun;0;Inconnu;accommodation
+629;Entre Seine et Terre;Aucun;0;Inconnu;activity
+632;Balade au fil de l'Austreberthe;Aucun;0;Inconnu;other
+633;La Maison des Sources 2;Aucun;0;Inconnu;accommodation
+637;[Fermé] Casino Joa Etretat;Aucun;0;Inconnu;food
+638;La Cavée des Sabotiers;Aucun;0;Inconnu;activity
+643;Maison des Dalles;Aucun;0;Inconnu;accommodation
+647;CHEVRIER Véronique;Aucun;0;Inconnu;accommodation
+648;Chez le roi des Canaries;Aucun;0;Inconnu;activity
+651;Port de plaisance de Saint-Aubin lès Elbeuf;Aucun;0;Inconnu;activity
+654;La Belle Jeannette - Appartement 2;Aucun;0;Inconnu;accommodation
+657;Mont Madame;Aucun;0;Inconnu;activity
+660;L'Evasion;Aucun;0;Inconnu;accommodation
+669;Gîtes de France® - du Mesnil;Aucun;0;Inconnu;accommodation
+673;Les Proses Trémières;Aucun;0;Inconnu;accommodation
+675;Routes par le Maroc;Aucun;0;Inconnu;activity
+677;Hôtel Mercure Rouen Centre Champ de Mars;Aucun;0;Inconnu;accommodation
+678;Valleuse du Petit-Ailly;Aucun;0;Inconnu;nature
+679;Le Domaine des jardins de Bracquetuit;Aucun;0;Inconnu;accommodation
+681;Aéroport Rouen Vallée de Seine;Aucun;0;Inconnu;activity
+682;Sur la Route de l'Ouraille;Aucun;0;Inconnu;activity
+685;Eglise Notre Dame du Bourg Dun;Le-Bourg-Dun;89;"We-Fr 09:45-12:00; Sa 09:45-12:00,14:00-17:00; PH off";culture
+686;Aire de pique-nique du Bocasse;Aucun;0;Inconnu;activity
+690;Le Bourg Joli;Aucun;0;Inconnu;activity
+692;Michael;Aucun;0;Inconnu;accommodation
+694;Maison de santé pluridisciplinaire Saint Eloi;Aucun;0;Inconnu;shop
+701;LE PIGEONNIER 1;Aucun;0;Inconnu;accommodation
+702;Le Gîte du Clocheton;Aucun;0;Inconnu;accommodation
+708;Les clos masures;Aucun;0;Inconnu;activity
+711;Autour de Guernesey;Aucun;0;Inconnu;activity
+712;Minoterie Louis Capron;Aucun;0;Inconnu;shop
+718;Centre Aquatique Aqualoup;Aucun;0;Inconnu;activity
+728;Abbaye Saint-Martin;Aucun;0;Inconnu;culture
+734;PR La Forêt de Montgeon;Aucun;0;Inconnu;activity
+736;LE PAPE Alain et Eliane;Aucun;0;Inconnu;accommodation
+739;SEALAR AÉROPORT LE HAVRE;Aucun;0;Inconnu;activity
+742;Colline Sainte-Catherine - Panorama de Rouen;Aucun;0;Inconnu;nature
+744;Grand Hôtel de la Seine;Aucun;0;Inconnu;accommodation
+745;Gîte Le Clos D’Anthime;Aucun;0;Inconnu;accommodation
+754;Le Palais des Sens - Une heure pour soi;Une Heure pour Soi;93;Mo-Sa 09:00-19:00;shop
+756;Stage RS FEVA pour les 12-15 ans - Ecole de voile du Tréport Sensation Large;Aucun;0;Inconnu;other
+757;Au fil de la Lézarde;Aucun;0;Inconnu;activity
+759;Mix & Move - Le cocktail nomade;Aucun;0;Inconnu;food
+761;Le Chemin des Ecoliers;Aucun;0;Inconnu;activity
+762;Camping à la Ferme de Flamanville;Aucun;0;Inconnu;accommodation
+766;L'Ecurie;Aucun;0;Inconnu;accommodation
+767;Hôtel Le Cardinal;Aucun;0;Inconnu;accommodation
+772;Le B'52;Aucun;0;Inconnu;food
+773;Salon de Thé La Hulotte;Aucun;0;Inconnu;food
+776;Les Bruyères;Aucun;0;Inconnu;activity
+778;La Forge;Aucun;0;Inconnu;activity
+781;Le Nouveau Monde;Aucun;0;Inconnu;activity
+783;Hôtel Centre Rouen Vieille Tour;Aucun;0;Inconnu;accommodation
+787;Le paradis des fleurs;Aucun;0;Inconnu;accommodation
+789;SCEA Ferme de Torchy;Aucun;0;Inconnu;shop
+791;Bien-être & Harmonie;Aucun;0;Inconnu;shop
+793;Escapade Verte Marine;Aucun;0;Inconnu;accommodation
+804;Gîtes de France® - Le Phare Ouest;Aucun;0;Inconnu;accommodation
+813;Les Monts;Aucun;0;Inconnu;activity
+817;Restaurant Campanile Barentin;Aucun;0;Inconnu;food
+818;Porte Océane;Café de la Porte-Océane;87;"Mo-Fr 07:45-19:00; Sa 08:45-19:00";other
+821;Hôtel O Bout du Quai;Aucun;0;Inconnu;accommodation
+822;La Maison - Chambre Manor House;Aucun;0;Inconnu;accommodation
+826;Centre Henri Becquerel;Aucun;0;Inconnu;shop
+830;Balade nautique - Centre Nautique du Tréport;Aucun;0;Inconnu;other
+838;Bienvenue chez Martine et Jean-Claude VAILLANT;Aucun;0;Inconnu;accommodation
+842;La Petite “Lourdes”;Aucun;0;Inconnu;activity
+848;Forêt indivise d'Eu;Aucun;0;Inconnu;nature
+851;M et Mme Lecomte;Aucun;0;Inconnu;accommodation
+859;Hôtel Relais d'Étretat;Aucun;0;Inconnu;accommodation
+868;La Vallée de la Ganzeville;Aucun;0;Inconnu;activity
+876;La baie du Havre en voilier;Aucun;0;Inconnu;other
+879;Manoir de l'aumônerie - Gîte de la Longère;Aucun;0;Inconnu;accommodation
+890;La Route de Pompon;Aucun;0;Inconnu;activity
+896;Earth Moov';Aucun;0;Inconnu;activity
+900;Emji;EMJI;99;"We-Fr 10:30-18:30; Tu 11:45-18:30; Sa 10:00-11:30";food
+902;Les Croix des Blanques;Aucun;0;Inconnu;culture
+904;Maison de santé pluridisciplinaire Wastus Santé;Aucun;0;Inconnu;shop
+907;Aux sources de l'Eaulne;Aucun;0;Inconnu;activity
+915;Centre Hospitalier Intercommunal Elbeuf-Louviers-Val de Reuil (Site d’Elbeuf-Les Feugrais);Aucun;0;Inconnu;shop
+917;Plage-Baignade Yport;Aucun;0;Inconnu;nature
+918;Gîtes de France® - Le Conquérant;Aucun;0;Inconnu;accommodation
+922;Train touristique Rouen;Aucun;0;Inconnu;activity
+924;La Maison - Chambre Nicolas;Aucun;0;Inconnu;accommodation
+927;Église Saint-Jacques;Aucun;0;Inconnu;culture
+929;Le Grand Eawy;Aucun;0;Inconnu;activity
+930;L'Andellix;Aucun;0;Inconnu;activity
+935;Longueville-sur-Scie à pied;Aucun;0;Inconnu;activity
+946;Gîte de La Ruchette;Aucun;0;Inconnu;accommodation
+948;Chalet Mésange;Aucun;0;Inconnu;accommodation
+953;Le Puit;Aucun;0;Inconnu;culture
+956;La Normande;Aucun;0;Inconnu;accommodation
+962;Clinique Mathilde - Groupe Vivalto Santé;Aucun;0;Inconnu;shop
+965;Centre Hospitalier (Gournay-en-Bray);Aucun;0;Inconnu;shop
+974;Les Tables de la Gare;Aucun;0;Inconnu;food
+977;Le verger conservatoire;Aucun;0;Inconnu;nature
+978;Gîtes de France® - La Bergerie du Mauconduit;Aucun;0;Inconnu;accommodation
+979;Maison de Santé pluridisciplinaire Les Jardins Le Havre Bléville;Aucun;0;Inconnu;shop
+980;Sur les pas des ramendeuses;Aucun;0;Inconnu;activity
+984;Les Fleurs de Maria;Aucun;0;Inconnu;accommodation
+989;L'Estival;Aucun;0;Inconnu;food
+993;Quai 39;Aucun;0;Inconnu;accommodation
+995;Office de Tourisme Bray Eawy - Location de vélos;Aucun;0;Inconnu;shop
+999;"""LE BALCON DE NOTRE DAME"" du groupe ISAHORA-LOCATION.COM";Aucun;0;Inconnu;accommodation
+1009;L'Éclat d'Emaux - Sophie MARTINACHE;Aucun;0;Inconnu;activity
+1019;Le Lihut;Aucun;0;Inconnu;activity
+1021;La Ferté Saint Samson;Mairie de la Ferté-Saint-Samson;82;"Mo 17:00-19:00; Th 17:00-19:00";activity
+1022;Villa 27 entre falaise et mer;Aucun;0;Inconnu;accommodation
+1025;Au gré des vents sur un vieux gréement à Fécamp;Aucun;0;Inconnu;other
+1027;Meublé 56 LEVILLAIN;Aucun;0;Inconnu;accommodation
+1030;Les Jacquemarts en attelage;Aucun;0;Inconnu;activity
+1038;La Sente des Manoirs;Aucun;0;Inconnu;activity
+1039;Aire de pique-nique de Clères;Aucun;0;Inconnu;activity
+1042;GAEC La Chèvrerie de Bliquetuit;La Chèvrerie de Bliquetuit;79;Fr-Sa 14:00-18:00;shop
+1045;Urban Style Hôtel de l'Europe;Aucun;0;Inconnu;accommodation
+1048;Gîtes de France® - Les Erables;Aucun;0;Inconnu;accommodation
+1057;Les Falaises de Criel;Aucun;0;Inconnu;accommodation
+1061;Vers la Forêt d'Eawy;Aucun;0;Inconnu;activity
+1067;Centre de rééducation La Roseraie;Aucun;0;Inconnu;shop
+1071;Gîte Quartz;Aucun;0;Inconnu;accommodation
+1074;Poney Club de Gonfreville l'Orcher;Aucun;0;Inconnu;activity
+1077;Cidrerie du Petit Clos;Aucun;0;Inconnu;culture
+1082;Routes par le Maroc;Aucun;0;Inconnu;activity
+1088;Découverte de la Saâne en paddle;Aucun;0;Inconnu;other
+1092;Cirque Théâtre d'Elbeuf;Aucun;0;Inconnu;activity
+1106;Gîte Marie;Aucun;0;Inconnu;accommodation
+1107;Villa Armand Salacrou;Aucun;0;Inconnu;other
+1110;Les trésors de la Seine en kayak au coucher du soleil;Aucun;0;Inconnu;other
+1114;Le Tour d'Hénouville;Aucun;0;Inconnu;activity
+1117;L'essentiel - Espace bien-être;Aucun;0;Inconnu;shop
+1124;Maison Caillet - Hôtel;Aucun;0;Inconnu;accommodation
+1126;La Maison de Sotteville sur Mer;Aucun;0;Inconnu;accommodation
+1131;Meublé 33;Aucun;0;Inconnu;accommodation
+1132;Parcours du Saint-Mellon;Aucun;0;Inconnu;activity
+1140;Cours - Golf de Yerville;Aucun;0;Inconnu;activity
+1150;Le Prêtre;Aucun;0;Inconnu;activity
+1166;La Crielloise;Aucun;0;Inconnu;accommodation
+1167;Au refuge de la colline;Aucun;0;Inconnu;accommodation
+1168;Villa Juliette;Aucun;0;Inconnu;accommodation
+1171;Le Phare;Aucun;0;Inconnu;accommodation
