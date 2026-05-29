@@ -15,10 +15,6 @@ venv/
 *.log
 
 #Fichiers temporairement ignorés
-img_wikipedia_api.py
-img_wikipedia.csv
-img_wikipedia2.py
-img_wikipedia2.csv
-img_validation.html
-img_validation_gemini.py
+menu_api.py
+menus.csv
 

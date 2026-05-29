@@ -1,70 +1,98 @@
 # 🌍 Projet POI-Intelligence : Synthèse Technique & Opérationnelle
 
 ## 📌 Vision du Projet
-Ce projet vise à transformer les données brutes des **Points d'Intérêt (POI)** de la Seine-Maritime en une base de connaissances enrichie et fiabilisée. Il combine des techniques de **Data Engineering**, de **Web Scraping** et de **Data Visualization** pour offrir un diagnostic précis de la qualité de l'offre touristique du territoire.
+
+Ce projet est dédiée à l'enrichissement et à la fiabilisation des **Points d'Intérêt (POI)** de la Seine-Maritime. L'objectif est de transformer des données brutes (souvent incomplètes) en une base de connaissances structurée, vérifiée et exploitable pour le secteur du tourisme.
 
 ---
 
-## 🏗️ Architecture du Système
+## 🛠️ Architecture du Pipeline d'Enrichissement
 
-### 1. Analyse & Scoring de Qualité
-Le moteur de scoring (`fonctions.py`) évalue chaque POI selon une **Matrice de Criticité** dynamique. L'importance d'un champ varie selon la catégorie métier (ex: le téléphone est critique pour un hôtel, mais secondaire pour un site naturel).
+Le système repose sur une architecture modulaire où chaque composant cible un aspect spécifique de la donnée.
 
-*   **Catégories gérées** : Hébergement (`accommodation`), Restauration (`food`), Culture & Patrimoine (`culture`), Événements (`event`), Activités (`activity`), Boutiques (`shop`), Nature (`nature`).
-*   **Indicateurs de Performance (KPIs)** : 
-    *   **Score de complétude globale** : Moyenne pondérée du remplissage des champs critiques.
-    *   **Contactabilité** : Présence d'un téléphone ou d'un email validé.
-    *   **Réservation** : Disponibilité de contacts dédiés à la réservation.
-    *   **Accessibilité & Services** : Accueil des animaux, accessibilité PMR (wheelchair).
-    *   **Richesse Sémantique** : Qualité des descriptions (longueur > 200 car. et pertinence).
-    *   **Fiabilité Temporelle** : Présence d'horaires d'ouverture exploitables.
+### 1. 📞 Module Contacts (`contact_api.py`)
 
-### 2. Pipeline d'Enrichissement Automatisé (ETL)
-Le système agrège des données provenant de sources ouvertes via une cascade de recherche intelligente :
-*   📞 **Contacts & Identité** (`contact_api.py`) : Recherche hybride via **OpenStreetMap (Overpass)**, **Wikidata**, **API Gouv (INSEE)** pour la fiabilité officielle, et **DuckDuckGo** en dernier recours.
-*   📖 **Descriptions & Contexte** (`descriptions_api.py`) : Extraction de résumés via **Wikipedia API** et **DuckDuckGo Search**. Le système intègre un "douanier" (validation stricte) qui vérifie la présence du nom du POI et élimine les textes parasites (navigation, newsletters, erreurs géographiques).
-*   📸 **Images & Médias** (`img_*.py`) : 
-    *   **Wikipedia/Wikimedia** : Extraction de photos haute résolution avec filtres anti-blasons et anti-biographies.
-    *   **Europeana API** : Récupération de documents historiques et culturelles.
-    *   **Panoramax API** : Intégration de vues de terrain par calcul de proximité (Haversine).
+Recherche et valide les coordonnées de contact (Téléphone, Email) via une approche hybride :
 
-### 3. Validation Géographique & Fiabilité
-*   **Vérification de Localisation** (`coordinate_verif.py`) : Détection d'erreurs de coordonnées GPS via comparaison entre l'adresse déclarée et la position réelle sur la carte (Verdict : Parfait, OK, A vérifier, Erreur).
-*   **Correction de Coordonnées** (`coordinate_correction.py`) : Repositionnement automatique des POI mal localisés via les données géographiques d'OpenStreetMap.
+- **Sources** : OpenStreetMap (Overpass), Wikidata, API Gouv, et DuckDuckGo.
+- **Objectif** : Maximiser la "contactabilité" des établissements.
+
+### 2. 📖 Module Descriptions (`descriptions_api.py`)
+
+Génère des contenus textuels riches pour chaque POI.
+
+- **Sources** : Wikipedia API et DuckDuckGo Search.
+- **Fiabilisation** : Un algorithme de nettoyage élimine les textes non pertinents (mentions légales, menus de navigation) et vérifie la présence du nom du POI dans le texte.
+
+### 3. 📸 Module Médias & Images
+
+Une cascade de sourcing pour garantir une couverture visuelle maximale :
+
+- **Wikipedia/Wikimedia** : Photos haute résolution filtrées.
+- **Europeana** : Archives historiques et culturelles.
+- **Panoramax** : Vues de terrain (Street-view open source) par calcul de proximité géographique.
+
+### 4. 🕒 Module Horaires (`horaires_api.py`)
+
+Extraction et normalisation des plages d'ouverture pour permettre une exploitation temporelle des données.
+
+### 5. ♿ Module Accessibilité PMR (`PMR_api.py`)
+
+Analyse automatisée de l'accessibilité pour les personnes à mobilité réduite, basée sur les données d'infrastructure et les tags géographiques.
+
+### 6. 🎯 Module Public Cible (`public_cible.py`)
+
+Identification des audiences (familles, enfants, groupes, etc.) pour une meilleure segmentation marketing.
+
+### 7. 🗺️ Fiabilisation Géographique
+
+- **Vérification** (`coordinate_verif.py`) : Compare la position déclarée avec l'adresse réelle pour détecter les erreurs de placement.
+- **Correction** (`coordinate_correction.py`) : Repositionne automatiquement les POI mal localisés via les données d'OpenStreetMap.
 
 ---
 
-## 🖥️ Dashboard & Visualisation (Dash/Plotly)
-Une interface interactive (`app.py`) permet de piloter la qualité des données :
-*   **Diagnostic Global** : Treemaps de répartition, KPI Cards et histogrammes de complétude.
-*   **Analyse Radar & Criticité** : Évaluation des 9 piliers métier (Horaires, Localisation, Contact, Description, Prix, etc.).
-*   **Cartographie Interactive** : Visualisation des POI avec taille proportionnelle à la richesse de leur description et filtres par verdict de précision.
+## 📊 Diagnostic & Scoring de Qualité
+
+Le moteur (`fonctions.py`) évalue chaque POI via une **Matrice de Criticité**. Le score de qualité n'est pas fixe mais dépend de la catégorie (ex: un email est plus critique pour un hôtel que pour un monument naturel).
+
+**Catégories gérées :**
+
+- Hébergement (`accommodation`)
+- Restauration (`food`)
+- Culture & Patrimoine (`culture`)
+- Événements (`event`)
+- Activités (`activity`)
+- Boutiques (`shop`)
+- Nature (`nature`)
+
+---
+
+## 🖥️ Dashboard Interactif (`app.py`)
+
+Une interface développée avec **Plotly Dash** permet de visualiser l'état de la base de données :
+
+- **KPIs en temps réel** : Taux de complétude global et par module.
+- **Cartographie dynamique** : Visualisation spatiale des POI avec filtres de qualité.
+- **Analyse Radar** : Comparaison des performances sur les 9 piliers métier.
+
+---
+
+## 📂 Organisation des Données
+
+Le projet traite les données sous forme de fichiers CSV pour chaque étape de l'enrichissement :
+
+- `analyse_poi.csv` : Base de données principale issue de DataTourisme.
+- `contacts.csv`, `descriptions.csv`, `horaires.csv` : Résultats des enrichissements API.
+- `cordinate_verif.csv`, `cordinate_correction.csv` : Rapports de fiabilité géo.
+- `PMR.csv`, `public_cible.csv` : Données thématiques.
+
+_(Note : il reste qulque colonne qui n'ont pas encore été traité)_
 
 ---
 
 ## 🛠️ Stack Technique
-- **Langage** : Python 3.10+
-- **Frontend** : Plotly Dash, Dash Bootstrap Components
-- **Data** : Pandas, NumPy, RapidFuzz (fuzzy matching)
-- **APIs & Web** : Wikipedia API, DuckDuckGo Search (DDGS), Overpass API, API Gouv, Europeana, Panoramax.
 
----
-
-## 📂 Organisation des Sources (`src/`)
-- `app.py` : Cœur du Dashboard interactif.
-- `fonctions.py` : Logique métier, Matrice de Criticité et utilitaires de calcul.
-- `lecture.py` : Pré-traitement et chargement des données DataTourisme (JSON to CSV).
-- `main.py` : Analyse statistique et répartition des catégories.
-- **Modules d'Enrichissement :**
-    - `contact_api.py` : Récupération des informations de contact.
-    - `descriptions_api.py` : Recherche et nettoyage des descriptions textuelles.
-    - `img_wikipedia2.py` / `img_europeana_api.py` / `img_panoramax_api.py` : Sourcing d'images.
-    - `PMR_api.py` : Analyse de l'accessibilité handicapé via GPS.
-    - `coordinate_verif.py` & `coordinate_correction.py` : Fiabilisation géographique.
-
----
-
-## 📈 Impact & Résultats
-- **Score de Confiance** : Priorisation automatique des mises à jour pour les gestionnaires de données.
-- **Réduction des "Zones Blanches"** : Enrichissement massif des POI sans contact ni description.
-- **Qualité Certifiée** : Mise en place de filtres de sécurité pour éviter les descriptions hors-sujet.
+- **Langage** : Python 3.10
+- **Frontend** : Plotly Dash.
+- **Data** : Pandas, NumPy, RapidFuzz.
+- **Sources Externes** : Wikidata, Wikipedia,Ducksuckgo , OSM (Overpass), Europeana, Panoramax, API Gouv.

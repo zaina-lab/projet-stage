@@ -84,7 +84,7 @@ def analyser_resultats(file_path):
     au_moins_un = df[(df['Telephone'].fillna('').ne('')) | (df['Email'].fillna('').ne(''))]
     succes_count = len(au_moins_un)
 
-    print(f"=== ANALYSE DU FICHIER : {file_path} ===")
+    print(f"\n=== ANALYSE DU FICHIER : {file_path} ===")
     print(f"Nombre total de lignes : {total}")
     print("-" * 30)
     print(f"📞 Téléphones récupérés : {tel_trouves} ")
@@ -161,3 +161,84 @@ analyser_completude_colonne(df, nom_colonne='Accessibilite_PMR', nom_propre='Acc
 
 # ================ ANALYSE DU specification_prix PAR CATÉGORIE  =======================Non trouve
 analyser_completude_colonne(df, nom_colonne='specification_prix', nom_propre='Spécification de prix')
+
+print("\n\n\n")
+
+# ================ STATIQTIQUES DES ENRICHISSEMENTS =======================
+print("====== STATISTIQUES DES ENRICHISSEMENTS PAR FICHIER ======")
+files_to_analyze = {
+    'contacts.csv': {
+        'sep': ';',
+        'success_condition': lambda df: (df['Telephone'].fillna('').ne('')) | (df['Email'].fillna('').ne('')),
+        'label': 'Contacts (Tél/Email)'
+    },
+    'descriptions.csv': {
+        'sep': ';',
+        'success_condition': lambda df: df['found'] == True,
+        'label': 'Descriptions (Wiki/DDG)'
+    },
+    'horaires.csv': {
+        'sep': ';',
+        'success_condition': lambda df: df['Heure_Ouverture'].fillna('Inconnu').ne('Inconnu'),
+        'label': 'Horaires d\'ouverture'
+    },
+    'img_panoramax.csv': {
+        'sep': ';',
+        'success_condition': lambda df: df['found'] == True,
+        'label': 'Photos (Panoramax)'
+    },
+    'img_europeana.csv': {
+        'sep': ';',
+        'success_condition': lambda df: df['found'] == True,
+        'label': 'Photos (Europeana)'
+    },
+    'img_wikipedia.csv': {
+        'sep': ';',
+        'success_condition': lambda df: df['image_url'].fillna('').str.strip().ne(''),
+        'label': 'Photos (Wikipedia)'
+    },
+    'PMR.csv': {
+        'sep': ';',
+        'success_condition': lambda df: df['verdict'].isin(['Oui', 'Partiel']),
+        'label': 'Accessibilité PMR'
+    },
+    'public_cible.csv': {
+        'sep': ';',
+        'success_condition': lambda df: df['public_cible'].fillna('').str.strip().ne(''),
+        'label': 'Public Cible'
+    },
+    'cordinate_correction.csv': {
+        'sep': ';',
+        'success_condition': lambda df: df['correction_status'].fillna('').str.contains('✅', na=False),
+        'label': 'Correction Coordonnées'
+    },
+    'menus.csv': {
+        'sep': ';',
+        'success_condition': lambda df: df['statut'].str.contains('ok', na=False),
+        'label': 'Menus Restaurants'
+    },
+}
+
+GLOBAL_TOTAL = len(df)
+print(f"\nNombre total de POI : {GLOBAL_TOTAL}")
+print(f"{'Catégorie':<25} | {'Global (Complet)':<16} | {'Gain':<8} | {'Reste':<8} | {'Taux Global':<6}")
+print("-" * 75)
+
+for filename, config in files_to_analyze.items():
+    if os.path.exists(filename):
+        try:
+            # Low_memory=False to avoid DtypeWarning
+            df_enrich = pd.read_csv(filename, sep=config['sep'], low_memory=False, on_bad_lines='skip')
+            total_enrich = len(df_enrich)
+            success_enrich = config['success_condition'](df_enrich).sum()
+            
+            # Formule demandée : GLOBAL_TOTAL - total_enrich + success_enrich
+            total_complet = GLOBAL_TOTAL - total_enrich + success_enrich
+            reste = GLOBAL_TOTAL - total_complet
+            
+            rate = (total_complet / GLOBAL_TOTAL * 100) if GLOBAL_TOTAL > 0 else 0
+            print(f"{config['label']:<25} | {total_complet:<16} | +{success_enrich:<7} | {reste:<8} | {rate:>5.1f}%")
+        except Exception as e:
+            print(f"{config['label']:<25} | Error reading file: {e}")
+    else:
+        print(f"{config['label']:<25} | Fichier absent")

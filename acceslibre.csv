@@ -1,0 +1,703 @@
+id_poi_datatourisme;match_score;name;siret;site_internet;contact_url;entree_plain_pied
+1811;91.5;Le  Chêne;;;;False
+2039;93.3;Mairie - Allouville-Bellefosse;;;;True
+3368;113.7;Happy City;;https://happy-city.fr/rouen/;;True
+3184;91.5;Domaine des Hellandes;;https://www.leshellandes.com/;https://www.leshellandes.com/contact.html;True
+2876;113.2;Bière Brotonia;;http://www.brotonia.com/;;
+3956;130.0;Restaurant La Presqu'île;;https://lapresquile9.wixsite.com/lapresquile;;True
+5541;129.6;Bière Brotonia;;http://www.brotonia.com/;;
+959;93.5;pharmacie Argueil;;https://www.doctolib.fr/pharmacie/argueil/pharmacie-vuilhorgne;;False
+1141;93.5;pharmacie Argueil;;https://www.doctolib.fr/pharmacie/argueil/pharmacie-vuilhorgne;;False
+469;87.9;Auto Ecole De LOU AUMALE;;;;
+1212;85.6;Hôtel restaurant O Deux Aumale;;https://www.odeuxaumale.fr/;;True
+2059;85.0;Aumale Optique;;http://aumaleoptique.com/;;True
+2227;129.1;Logis Hotel la Villa des Houx;;https://www.logishotels.com/fr/hotel/-2963?partid=1535;;True
+2255;129.1;Logis Hotel la Villa des Houx;;https://www.logishotels.com/fr/hotel/-2963?partid=1535;;True
+3723;95.6;Mairie - Auppegard;;http://www.auppegard.fr;;True
+1814;85.6;Soleil Cauchois;;http://www.soleil-cauchois.fr/;;True
+606;103.8;Mairie de Auzouville-sur-Ry;;;;False
+1813;92.0;Auberge de la Mère Duval;;;;True
+24;94.3;AL Optique - Bacqueville-en-Caux;;http://pro.pagesjaunes.fr/optique-hepineuze;;
+2263;105.8;Mairie - Bacqueville-en-Caux;;http://bacqueville-en-caux.fr;;
+817;106.6;Campanile Rouen Nord - Barentin;;;;True
+2144;88.6;Campanile Rouen Nord - Barentin;;;;True
+4920;128.8;Campanile Rouen Nord - Barentin;;;;True
+6635;112.4;Centre Hospitalier de l'Austreberthe;;https://www.ch-austreberthe.fr/;;True
+2604;112.7;Gîte du Coq à l'Ane;;http://www.lecoqalane.fr;https://www.lecoqalane.fr/contact;
+2647;112.6;Gîte du Coq à l'Ane;;http://www.lecoqalane.fr;https://www.lecoqalane.fr/contact;
+4779;86.6;Camping Ferme de la Hetraie;;;;True
+6059;85.7;Chateau de Bertreville;;https://www.chateaubertreville.com/;;
+471;89.7;Mairie - Blangy-sur-Bresle;;http://www.blangysurbresle.fr;;
+2874;128.9;Musée du verre;;https://www.blangysurbresle.fr/vivre-a-blangy/le-centre-culturel-du-manoir-de-fontaine/;;True
+5532;92.8;Office de Tourisme Communautaire Aumale/Blangy;;http://www.tourisme-aumale-blangy.fr/;;True
+6721;103.3;Mairie - Blangy-sur-Bresle;;http://www.blangysurbresle.fr;;
+1717;129.8;SEINE EN VUE;;;;False
+1911;97.1;Hôtel Première Classe Rouen Nord - Bois Guillaume;;https://www.premiereclasse.com/fr/hotels/premiere-classe-rouen-nord-bois-guillaume/?utm_source=google&utm_medium=maps&utm_content=FRA22151&utm_campaign=Premi%C3%A8re%20Classe;;True
+3627;129.3;Best Western Plus Hotel le Conquerant;;https://leconquerantrouen.com/;https://leconquerantrouen.com/contact/;True
+5594;93.1;CHU Hôpitaux de Bois-Guillaume;;https://www.chu-rouen.fr/;;True
+1787;91.0;La Quesne, Ferme et Fromagerie;;http://fermedelaquesne.fr/;;
+859;129.1;Hôtel Relais d'Étretat;;;;True
+3665;129.9;Le Carnot;;http://lecarnot.fr/;;True
+4688;129.8;Le Carnot;;http://lecarnot.fr/;;True
+3289;87.5;Mairie - Bolleville;;http://www.bolleville76.fr;;
+3583;112.2;Gite du Bois Beuriot;;https://www.giteduboisdebeuriot.e-monsite.com;;True
+4953;98.6;Gite du Bois Beuriot;;https://www.giteduboisdebeuriot.e-monsite.com;;True
+5378;112.1;Gite du Bois Beuriot;;https://www.giteduboisdebeuriot.e-monsite.com;;True
+3952;98.5;Mairie - Bosc-le-Hard;;http://www.mairiedebosclehard.eu;;False
+1511;93.9;Mairie - Bourville;;;;
+4247;86.6;Mairie - Bourville;;;;
+679;86.8;Mairie - Bracquetuit;;;;
+2288;93.4;Mairie - Bracquetuit;;;;
+1583;89.2;Mairie - Bretteville-Saint-Laurent;;;;False
+2307;113.4;Ecomusee de la Pomme et du Cidre;;https://ecomuseeducidre.fr/;;
+3651;113.4;Ecomusee de la Pomme et du Cidre;;https://ecomuseeducidre.fr/;;
+3794;110.9;Ecomusee de la Pomme et du Cidre;;https://ecomuseeducidre.fr/;;
+5621;92.7;Mairie de Bretteville-du-Grand-Caux;;;;False
+1906;95.5;Office de tourisme Normandie Caux Vexin - Bureau d'Information Touristique de Buchy;;https://www.normandie-caux-vexin.com/;;False
+2021;101.6;Mairie - Bénouville;;;;
+5513;86.8;Mairie de Cailleville;;;;True
+6694;129.1;FERME DES MARRONNIERS;;;;True
+663;109.6;Camping Le Clos des Charmilles;;;;True
+3628;91.2;Piscine de la Vallée;;http://www.piscinedelavallee.com/;;True
+3789;114.6;Salaisons des Roches Blanches (SA);;https://www.roches-blanches.fr/;;True
+3884;97.5;Office de Tourisme de Cany Barville;;https://cote-albatre-tourisme.fr/;;True
+4702;87.8;Office de Tourisme de Cany Barville;;https://cote-albatre-tourisme.fr/;;True
+5698;113.4;La Brasserie du Phare;;https://www.facebook.com/Brasserieduphare/;;
+5023;108.6;brasserie normande septantesix Caudebec les Elbeuf;;https://www.brasserieseptantesix.fr/;;True
+4205;102.1;Mairie - Cideville;;;;
+1102;129.6;Les P'tites Pommes;;;;True
+1862;88.5;Le Clos de la Beauce;;;;True
+1993;129.2;La Popote;;http://www.restaurantlapopote.fr/;;True
+2109;96.6;During Pastry - La Forêt Des Macarons;;;;True
+3770;110.8;Parc de Clères;;https://www.parcdecleres.fr/;https://www.parcdecleres.fr/contact/;True
+3875;110.9;Parc de Clères;;https://www.parcdecleres.fr/;https://www.parcdecleres.fr/contact/;True
+4097;85.4;During Pastry - La Forêt Des Macarons;;;;True
+6006;93.9;La Grange Des Marettes;;;;
+5424;88.9;Hôtel Restaurant Le Seino-Marin Rouen Cléon Elboeuf;;http://www.hotel-restaurant-cleon.com/;;True
+74;95.6;The Riv 'Yères;;;;False
+1520;96.0;ATIMERIA Spa de la Vieille Ferme;;http://www.hotel-spa-en-normandie.com/;;
+3256;115.6;Camping Les Mouettes;;https://www.camping-lesmouettes.fr/;https://www.camping-lesmouettes.fr/nous-contacter/;
+3998;129.8;Les Galets;;https://www.hotel-les-galets.com/;;True
+4276;95.2;Camping Le Mont Joli Bois;;;;
+4625;88.8;Camping Le Mont Joli Bois;;;;
+5671;129.4;Le Château de Chantereine;;;;False
+6389;129.3;Camping Le Mont Joli Bois;;;;
+2947;111.7;AB Sports, Piscine et Spa;;https://www.ab-experiences.com/;https://www.ab-experiences.com/contact/;True
+6175;88.7;Restaurant Le Courtil;;https://www.restaurant-lecourtil.fr/;https://www.restaurant-lecourtil.fr/contactez-le-restaurant-le-courtil-a-criquetot-lesneval;True
+722;129.2;Auberge du Val au Cesne;;https://valaucesne.com/;https://valaucesne.com/contact/;True
+1602;107.3;Mairie de Cuy-Saint-Fiacre;;;;False
+2781;89.5;Mairie de Cuy-Saint-Fiacre;;;;False
+4761;103.8;Mairie de Cuy-Saint-Fiacre;;;;False
+1654;111.0;Centre Hospitalier Durécu-Lavoisier;;;;True
+14;129.8;Hotel Restaurant Les Arcades;;;;False
+192;90.4;Cercle de la Voile de Dieppe;;http://cvdieppe.fr;;True
+396;85.4;Dieppe GMS;;;;False
+807;128.9;Cercle de la Voile de Dieppe;;http://cvdieppe.fr;;True
+1216;89.6;Cercle de la Voile de Dieppe;;http://cvdieppe.fr;;True
+1318;129.3;Conservatoire Camille Saint-Saëns;;https://www.dieppeconservatoire.fr/;https://www.dieppeconservatoire.fr/infos-pratiques-1/nous-trouver-et-nous-contacter/;
+1403;129.7;Au Grand Duquesne;;;;False
+1524;112.8;Hotel de l'Europe;;;;False
+1556;112.6;Hotel Restaurant Les Arcades;;;;False
+1595;113.2;Mercure Dieppe La Présidence;;;;False
+1632;103.5;Gîte la Cale 10;;;;False
+1942;129.9;Windsor;;;;True
+2175;129.9;Cabaret la sirène à barbe;;https://la-sireneabarbe.com/;;True
+2384;90.5;pharmacie  du Puits Salé;;http://www.facebook.com/Pharmacie-du-Puits-Sal%C3%A9-553966161425831/;;True
+2625;110.6;Château-musée de Dieppe;;https://www.dieppe.fr/mes-activites/la-culture/le-musee;https://www.dieppe.fr/mes-activites/la-culture/le-musee/infos-pratiques;False
+2862;86.7;Office de Tourisme de Dieppe-Maritime;;http://www.dieppetourisme.com;https://www.dieppetourisme.com/sejourner/pratique/loffice-de-tourisme/#summary-horaires-ot;True
+3498;129.7;A L'Hotel de la Plage;;http://www.laplage-dieppe.com;;True
+3667;129.9;L'Entrepôt;;;;False
+3798;129.9;Auberge du Vieux Puits;;http://www.puys.fr;;True
+3962;87.1;auto école saint rémy;;;;True
+4112;129.6;Estran Cité de la Mer;;http://www.estrancitedelamer.fr/;http://www.estrancitedelamer.fr/qui-contacter/;True
+4183;129.2;ibis budget Dieppe Centre Port;;;;True
+4296;115.0;Office de Tourisme de Dieppe-Maritime;;http://www.dieppetourisme.com;https://www.dieppetourisme.com/sejourner/pratique/loffice-de-tourisme/#summary-horaires-ot;True
+4488;92.5;Comptoir A Huitres;;;;True
+4516;88.2;Centre hospitalier de Dieppe : Service des Urgences;;;;True
+4564;128.8;Hotel Aguado;;;;True
+4985;113.7;Casino Dieppe;;https://casino-dieppe.partouche.com/;;False
+5000;129.4;Restaurant La Tour aux Crabes;;;;True
+5025;129.0;L'Échappée - Hôtel Casino Dieppe;;;;True
+5264;129.8;Au Grand Duquesne;;;;False
+5346;86.6;Estran Cité de la Mer;;http://www.estrancitedelamer.fr/;http://www.estrancitedelamer.fr/qui-contacter/;True
+5449;129.3;Hotel First Eco Dieppe;;;;True
+5471;129.4;Restaurant La Tour aux Crabes;;;;True
+5670;110.2;Mémorial du 19 août 1942;;;;False
+6278;113.8;DIEPPE SCENE NATIONALE;;http://www.dsn.asso.fr;;True
+6601;113.6;Auberge du Vieux Puits;;http://www.puys.fr;;True
+6647;130.0;La Belle Escale;;;;
+417;113.9;SOPHIE COIFFURE DOUDEVILLE L'Espace beauté;;http://www.sophie-coiffure.fr/;;True
+4687;88.6;Cabaret Le Puits Enchante;;;;True
+4923;129.7;Verger de Provence;;https://www.saveursduverger.fr/;;True
+5172;87.6;Cabaret Le Puits Enchante;;;;True
+3435;113.1;Restaurant Le PARC;;http://www.restaurant-leparc.com/;;True
+747;112.3;Fromagerie des trèfles;;;;
+18;113.6;Cirque-Théâtre d'Elbeuf;;http://www.cirquetheatre-elbeuf.com/;;True
+1092;112.8;Cirque-Théâtre d'Elbeuf;;http://www.cirquetheatre-elbeuf.com/;;True
+3639;109.6;Gîte d'Hybouville;;;;False
+5928;98.7;Gîte de la Maison de Campagne;;;https://www.gites-normandie-76.com/Gite-Envronville-Maison-De-Campagne-G2269.html;False
+4575;105.8;Chateau D'Ernemont;;;;False
+187;112.3;Centre Hospitalier d'Eu;;;;True
+2616;129.9;Les Rhumèdes de L'Apothicaire;;;;False
+3547;129.3;le Relais;;;;False
+4553;95.8;Office de Tourisme Destination Le Tréport - Mers Bureau de Eu;;https://www.destination-letreport-mers.fr/la-destination/presentation-des-communes/eu/;https://www.destination-letreport-mers.fr/contactez-nous/;False
+5804;130.0;Mayrena Hotel;;;;False
+3449;97.3;Mairie - Fallencourt;;;;True
+347;98.9;Mairie - Fesques;;;;False
+2379;90.8;Mairie - Fesques;;;;False
+3698;104.5;Mairie de Flamanville;;;;True
+449;129.2;Sofhotel;;https://www.sofhotel.com/;;True
+1056;89.2;Mairie de Forges-les-Eaux;;;;True
+1513;92.2;Domaine de Forges;;https://www.forgeshotel.com/;https://www.forgeshotel.com/contactez-nous;
+2458;99.9;Hôtel Restaurant La Robe et le Palais Forges les Eaux;;;;True
+3099;99.8;Hôtel Restaurant La Robe et le Palais Forges les Eaux;;;;True
+4419;112.7;Office de Tourisme de Forges-les-Eaux;;http://forgesleseaux-tourisme.com/;;True
+5383;93.3;VVF Villages L'Écrin Normand Forges-les-Eaux;;;;True
+5435;94.4;Mairie de Forges-les-Eaux;;;;True
+1598;128.9;Le Vert Bocage;;http://levertbocage.fr/;;False
+3018;129.1;Campanile Rouen Est - Franqueville Saint Pierre;;https://rouen-est-franqueville-saint-pierre.campanile.com/fr-fr/?utm_content=partoo&utm_medium=seo-bgp&utm_source=google;;True
+5244;129.6;Le Vert Bocage;;http://levertbocage.fr/;;False
+1896;99.4;Mairie - Fresquiennes;;http://www.mairiedefresquiennes.fr;;
+304;129.8;La Cave du Salut;;;;True
+782;129.7;Hôtel Le Grand Pavois;;;;True
+897;129.2;Librairie Banse;;;;True
+1161;129.8;Hôtel Le Grand Pavois;;;;True
+1199;87.8;Centre Hospitalier intercommunal;;http://www.ch-fecamp.fr/;;True
+1982;129.1;Théâtre Le Passage;;http://www.theatrelepassage.fr/;;True
+2100;129.9;La maison bleue;;;;True
+2139;104.0;Boulangerie Patisserie;;https://tinyurl.com/bdh7zd69;;True
+2209;91.7;Bacardi Martini France - Palais Bénédictine;;https://www.benedictinedom.com/fr/fr/flamboyant-palais/;https://contact.benedictinedom.com/hc/fr/requests/new?ticket_form_id=151485;True
+2597;129.0;L'Extraordinaire Voyage du Chocolat;;https://chocolatshautot.com/;https://chocolatshautot.com/contact/;
+2997;118.2;Hautot Chocolatier;;https://chocolatshautot.com/boutiques/chocolatier-fecamp/;;True
+3471;129.6;la Frégate;;;;False
+3697;91.3;Bacardi Martini France - Palais Bénédictine;;https://www.benedictinedom.com/fr/fr/flamboyant-palais/;https://contact.benedictinedom.com/hc/fr/requests/new?ticket_form_id=151485;True
+3869;129.9;Gîte Le Bivouac Fécamp;;;;False
+4371;113.6;Hôtel de la Plage;;;;False
+6353;90.3;Hotel Ibis Budget Fecamp;;;;True
+6493;129.9;Hotel Vent d'Ouest;;;;False
+2495;85.7;Mairie - Gaillefontaine;;https://www.mairiegaillefontaine.fr;;False
+3974;85.7;Mairie - Gaillefontaine;;https://www.mairiegaillefontaine.fr;;False
+5463;85.7;Mairie - Gaillefontaine;;https://www.mairiegaillefontaine.fr;;False
+5724;85.2;Mairie - Gaillefontaine;;https://www.mairiegaillefontaine.fr;;False
+5935;88.0;Mairie - Gainneville;;http://www.gainneville.fr;;False
+868;105.5;Mairie - Ganzeville;;http://www.ganzeville.com;;
+6510;89.0;Mairie - Ganzeville;;http://www.ganzeville.com;;
+1425;111.9;Maison du Patrimoine et des Cités Provisoires;;https://www.gonfreville-l-orcher.fr/mes-loisirs/vie-culturelle/maison-du-patrimoine-et-des-cites-provisoires/;https://www.gonfreville-l-orcher.fr/nous-contacter/;
+2188;105.3;Complexe Aquatique G d'O;;https://www.lehavreseinemetropole.fr/annuaire-general/complexe-aquatique-gdo-gonfreville-lorcher;;True
+2865;129.7;Kyriad Direct Le Havre Est - Gonfreville;;https://direct-le-havre-est-gonfreville.kyriad.com/fr-fr/;;True
+4582;113.2;Kyriad Direct Le Havre Est - Gonfreville;;https://direct-le-havre-est-gonfreville.kyriad.com/fr-fr/;;True
+6659;113.8;Maison du Patrimoine et des Cités Provisoires;;https://www.gonfreville-l-orcher.fr/mes-loisirs/vie-culturelle/maison-du-patrimoine-et-des-cites-provisoires/;https://www.gonfreville-l-orcher.fr/nous-contacter/;
+965;98.8;Centre Hospitalier;;;;True
+1095;129.7;Le Prado;;;;True
+1203;92.8;Optic 2000 - Opticien Gournay-En-Bray;;https://www.optic2000.com/magasins/l/gournay-en-bray/22-place-nationale/c00819?utm_campaign=fiche+gmb;;True
+5477;129.9;Hôtel de Normandie;;https://normandiehotel.fr/;;True
+5575;128.9;Hotel Le Saint Aubin;;;;True
+5894;90.2;Office de Tourisme des 4 Rivières;;http://www.tourismedes4rivieresenbray.com;;True
+2696;113.5;jadorelecochon.com;;http://www.jadorelecochon.com/;;True
+259;101.0;Mairie - Grumesnil;;;;True
+1384;97.9;Mairie - Grumesnil;;;;True
+4020;129.8;Rouge Cottage;;;;True
+2680;98.8;Église Saint-Martin;;https://www.lehavreseine-patrimoine.fr/patrimoines/patrimoine-funeraire-et-religieux/eglise-saint-martin;https://www.lehavreseine-patrimoine.fr/foire-aux-questions;
+2791;129.9;Musée du Prieuré;;https://www.harfleur.fr/lieux_remarquables_a_visiter.html;;
+4587;129.0;Centre Culturel La Forge;;http://www.harfleur.fr/;;True
+106;92.7;pressoir du bois gribout;;;;True
+2641;85.1;Hotel VUE SUR MER Pourville;;;;True
+6586;111.2;Camping le Marqueval;;https://www.campinglemarqueval.com/;;True
+2723;111.6;Auberge De La Durdent;;;;True
+5032;111.9;Auberge De La Durdent;;;;True
+141;96.7;Mairie - Héronchelles;;;;True
+4603;111.6;ibis budget Rouen Nord Isneauville;;;;True
+4;95.9;Bureau d'Information Touristique de Jumièges;;https://www.visiterouen.com/;https://www.visiterouen.com/pratique/informations/nous-contacter/;True
+15;129.3;Domaine Le Clos des Fontaines;;;;True
+3181;113.2;Auberge des Ruines;;https://www.auberge-des-ruines.fr/;https://www.auberge-des-ruines.fr/reservation;True
+4072;109.0;Camping Forest;;;;True
+6351;95.2;Abbaye de Jumieges;;https://www.abbayedejumieges.fr/;;True
+6556;90.5;Abbaye de Jumieges;;https://www.abbayedejumieges.fr/;;True
+5795;129.5;Logis Hôtel le Bellevue;;https://www.logishotels.com/fr/hotel/-14303?partid=1535;;False
+6069;85.0;Logis Hôtel le Bellevue;;https://www.logishotels.com/fr/hotel/-14303?partid=1535;;False
+2750;87.5;Le Clos du Meslay;;https://gite-de-reception-clos-du-meslay.fr/;;True
+6525;111.6;Le Clos du Meslay;;https://gite-de-reception-clos-du-meslay.fr/;;True
+1021;94.4;Mairie - La Ferté-Saint-Samson;;;;
+2150;98.3;Mairie de La Hallotière;;;;True
+482;112.5;Le Clos De La Vaupalière - Rouen;;http://www.closvaupaliere.fr/;;False
+5385;111.9;Le Clos De La Vaupalière - Rouen;;http://www.closvaupaliere.fr/;;False
+3307;96.0;La Grange de Bosc-Grimont - Lodge;;https://bosc-grimont.fr/;https://www.bosc-grimont.fr/contact;True
+2296;129.7;Brasserie Sainte Beuve;;https://brasserie-sainte-beuve.eproshopping.fr/;;True
+313;129.2;WOUPI;;;;
+2866;86.6;École Maternelle Anne FRANK;21760322400015.0;;;
+4375;129.2;Piscine de Grand-Quevilly;79042851000016.0;;;True
+4494;94.1;Maison des arts;;https://maisondesarts-gq.fr;;False
+6255;113.8;Pathé Grand-Quevilly;;https://www.pathe.fr/cinemas/cinema-pathe-grand-quevilly;https://www.pathe.fr/aide/article/slug/contacter-service-client;True
+129;112.9;All Suites Appart Hôtel Le Havre - GESTLEHAVRE;;https://www.allsuites.com/hotel/appart-hotel-le-havre;https://www.allsuites.com/contact?type=1&residence=2477;True
+213;96.4;Bodega;;;;
+497;129.7;Le Denver;;https://ledenver.fr/fr;https://ledenver.fr/fr/contact;True
+528;96.0;Brasserie Saint Joseph;;http://www.normandale.fr/;;True
+562;98.8;The People - Le Havre;;;;False
+680;129.9;Aux Rendez-Vous des Gourmets;;https://www.auxrendezvousdesgourmetslh.fr/;https://www.auxrendezvousdesgourmetslh.fr/fr/contact-epicerie-fine;False
+689;129.7;Oscar Hotel;;https://oscar-hotel-lh.fr/;;False
+696;90.9;Saison 2;;https://www.saison-2.fr/;https://www.saison-2.fr/contact/;
+780;113.3;Les Bains des Docks;;https://www.les-bains-des-docks.com/;https://www.les-bains-des-docks.com/contact/;True
+818;112.5;Café de la Porte Océane;;;;False
+820;111.8;Family's Games;;;;
+829;95.6;Les 400 coups - Librairie jeunesse;;http://www.les400coups.fr/;https://les400coups.fr/nous-contacter/;True
+887;129.9;Bouchon Normand;;https://www.bouchonnormand.fr/;https://www.bouchonnormand.fr/contact;True
+905;130.0;Appart'hôtel Odalys City Le Havre Centre Les Docks;;https://www.odalys-vacances.com/location-ville/normandie/le-havre/centre-les-docks.html?&saison_b=h;https://www.odalys-vacances.com/contacteznous/;True
+971;112.0;SPORT NAUTIQUE ET PLAISANCE (SNPH);;https://www.snph.org/;https://www.snph.org/contact;
+1004;88.9;Cimetière Sainte-Marie;;http://lehavre.fr/annuaire/cimetiere-sainte-marie;https://www.lehavreseine-patrimoine.fr/patrimoines/patrimoine-funeraire-et-religieux/cimetiere-sainte-marie;True
+1052;92.0;Victor By Milot;;;;
+1178;129.7;Hôtel Ibis Le Havre Centre;;;;True
+1194;129.8;Le Grand Quai;;http://www.augrandquai.fr/;;True
+1266;88.1;La Galerne;;http://www.lagalerne.com/;https://www.lagalerne.com/nous-contacter/;True
+1295;113.1;Aparthotel Adagio Access Le Havre Les Docks;;;;True
+1428;103.6;Hotel Vent D'Ouest;;http://www.ventdouest.fr/;;True
+1443;105.9;Centre de rééducation fonctionnelle de la Heve;;;;True
+1497;129.9;La Galerne;;http://www.lagalerne.com/;https://www.lagalerne.com/nous-contacter/;True
+1555;129.6;Le Grignot;;https://legrignot.fr/;;True
+1579;86.5;Église Saint-Joseph;;https://www.lehavre-etretat-tourisme.com/decouvrir/les-incontournables/eglise-saint-joseph-du-havre/;https://www.lehavre-etretat-tourisme.com/contactez-nous/;True
+1663;129.8;Origines;;;;
+1697;130.0;Calice et Mandibule;;http://www.calice-mandibule.fr/;;True
+1704;129.6;Théâtre Le Normandy;;https://theatrelenormandy.com/;https://theatrelenormandy.com/contact/;False
+1729;129.7;LH Station Café;;https://www.lhstationcafe.fr/;;True
+1739;91.4;Cimetière Sainte-Marie;;http://lehavre.fr/annuaire/cimetiere-sainte-marie;https://www.lehavreseine-patrimoine.fr/patrimoines/patrimoine-funeraire-et-religieux/cimetiere-sainte-marie;True
+1750;129.6;Le Salon des P'Tea Chats;;;;
+1773;130.0;Le Funiculaire;;;;True
+1791;95.3;JOST Auberge de jeunesse Le Havre Centre Gare;;;;True
+1879;100.9;Abbaye de Graville;;https://musees-mah-lehavre.fr/;https://musees-mah-lehavre.fr/contact;True
+1895;88.2;La Rêverie;;;;
+2074;129.8;Chez Lili;;http://chezlili.bar/;https://chezlili.bar/contactez-le-restaurant/;True
+2199;85.0;Le Havre - Port Center;;https://lehavreportcenter.com/;https://lehavreportcenter.com/;True
+2217;130.0;Paradox;;https://www.paradox-vr.fr/;https://www.paradox-vr.fr/contact/;True
+2344;128.9;Hilton Garden Inn Le Havre Centre;;;;True
+2351;129.4;Église Saint-Joseph;;https://www.lehavre-etretat-tourisme.com/decouvrir/les-incontournables/eglise-saint-joseph-du-havre/;https://www.lehavre-etretat-tourisme.com/contactez-nous/;True
+2425;113.6;Les Fauves;;https://lesfauves.fr/;https://lesfauves.fr/contactez-le-restaurant/;True
+2482;129.8;Manufactory;;https://www.manufactorylh.com;;False
+2529;98.6;Hotel Vent D'Ouest;;http://www.ventdouest.fr/;;True
+2550;102.6;Les Gens de Mer Le Havre;;;;
+2632;113.5;Appartement témoin Perret;;https://www.lehavreseine-patrimoine.fr/patrimoines/le-havre-patrimoine-mondial/appartement-temoin-perret;https://www.lehavreseine-patrimoine.fr/foire-aux-questions;True
+2661;90.6;Hôtel Ibis Styles le Havre;;https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=9017&merchantid=seo-maps-FR-9017&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps;;False
+2679;130.0;Paradox;;https://www.paradox-vr.fr/;https://www.paradox-vr.fr/contact/;True
+2691;129.5;Le Havre - Port Center;;https://lehavreportcenter.com/;https://lehavreportcenter.com/;True
+2710;106.2;Brûlerie Charles Danican - Cafés Charles Danican;;https://www.cafecharlesdanican.com/;https://www.cafecharlesdanican.com/pages/contact;
+2741;130.0;Le Hangar Zéro;;;;True
+2761;113.1;Église Saint-Michel;;https://www.lehavre.catholique.fr/;https://www.lehavre.catholique.fr/contacter-le-diocese/;True
+2784;103.9;Premiere Classe Le Havre Centre-LES DOCKS;;;;True
+2800;129.6;Le Zgorthiote;;https://www.lezgorthiote.com/;https://lezgorthiote.com/contact/;True
+2827;90.0;L'Orangeraie;;https://www.orangeraie-jardins-suspendus.fr/;https://www.orangeraie-jardins-suspendus.fr/contact/;
+2977;129.0;Centre Nautique Paul Vatine;;https://cnpaulvatine.fr/;https://cnpaulvatine.fr/contact/;
+3060;92.3;Cimetière Sainte-Marie;;http://lehavre.fr/annuaire/cimetiere-sainte-marie;https://www.lehavreseine-patrimoine.fr/patrimoines/patrimoine-funeraire-et-religieux/cimetiere-sainte-marie;True
+3077;130.0;Hôtel Carmin;;https://hotelcarmin-lehavre.com/;https://hotelcarmin-lehavre.com/fra/contact;True
+3078;100.9;Le Hangar Zéro;;;;True
+3103;93.4;Abeille Parachutisme;;https://www.abeilleparachutisme.fr/;https://www.abeilleparachutisme.fr/contact;True
+3205;129.5;L'Havrais Bière;;https://lhavraisbiere.fr/notre-carte-du-moment/;;True
+3371;129.9;Le Taj Mahal;;https://www.restaurant-taj-mahal.fr/;;True
+3448;129.6;Hopital Prive de L'Estuaire;;;;True
+3503;108.9;Jost Hotel Le Havre Gare;;;;True
+3521;129.1;Appart'hôtel Odalys City Le Havre Centre;;;;
+3524;129.2;Brûlerie Charles Danican - Cafés Charles Danican;;https://www.cafecharlesdanican.com/;https://www.cafecharlesdanican.com/pages/contact;
+3572;110.9;Musée d'art moderne André Malraux;;https://www.muma-lehavre.fr/;https://www.muma-lehavre.fr/fr/contact/general;True
+3584;129.4;Le Diplodocus;;;;
+3602;111.9;Club des Loisirs Nautiques Thalassa;;https://www.clnthalassa.net;;
+3626;128.9;Hôtel Dubocage de Bléville;;https://www.musees-mah-lehavre.fr/musees/hotel-dubocage-bleville;https://www.musees-mah-lehavre.fr/contact;True
+3767;116.0;The Roof Le Havre - Home De L'escalade;;;;True
+3851;110.9;Nomad Hotel Le Havre;;https://www.oceaniahotels.com/nomad-hotel-le-havre;;True
+3925;112.6;Le Volcan - Scène Nationale du Havre;;https://www.levolcan.com/;https://www.levolcan.com/contact-lequipe;True
+3926;129.7;Pâtisserie MAZZONI;;https://patisseriemazzoni.fr/;;False
+3940;109.2;Calice et Mandibule;;http://www.calice-mandibule.fr/;;True
+4005;87.2;Café Marie Blachère;;http://www.marieblachere.com/;;True
+4027;129.7;Le Cacaotier;;https://www.lecacaotier.com/;https://www.lecacaotier.com/contact/;
+4085;101.1;Maison de l'armateur;;https://musees-mah-lehavre.fr/;https://musees-mah-lehavre.fr/contact;True
+4107;111.0;Le Havre Etretat Normandie Tourisme;;https://www.lehavre-etretat-tourisme.com/;https://www.lehavre-etretat-tourisme.com/contactez-nous/;True
+4138;110.6;Cimetière Sainte-Marie;;http://lehavre.fr/annuaire/cimetiere-sainte-marie;https://www.lehavreseine-patrimoine.fr/patrimoines/patrimoine-funeraire-et-religieux/cimetiere-sainte-marie;True
+4155;113.8;Abbaye de Graville;;https://musees-mah-lehavre.fr/;https://musees-mah-lehavre.fr/contact;True
+4230;92.8;💊 Pharmacie Les Pépinières, Le Havre, Seine Maritime 76;;https://pharmacie-les-pepinieres.business.site/;;True
+4315;89.0;Novotel Le Havre Centre Gare;;https://hotel-novotel-lehavre.com/;https://hotel-novotel-lehavre.com/contact/;True
+4349;129.9;Au Caid;;https://bureautabac.fr/76/le-havre/au-caid-y7d;;True
+4369;110.7;Calice et Mandibule;;http://www.calice-mandibule.fr/;;True
+4374;93.4;Jost Hotel Le Havre Gare;;;;True
+4414;93.0;Le Studio;;http://www.cinema-le-studio.fr/;;True
+4415;85.1;Cimetière Sainte-Marie;;http://lehavre.fr/annuaire/cimetiere-sainte-marie;https://www.lehavreseine-patrimoine.fr/patrimoines/patrimoine-funeraire-et-religieux/cimetiere-sainte-marie;True
+4496;110.3;Hautot Chocolatier Pâtissier;;https://chocolatshautot.com/boutiques/chocolatier-le-havre/;;False
+4536;128.9;Mercure Le Havre Centre Bassin Du Commerce;;;;True
+4563;129.6;Novotel Le Havre Centre Gare;;https://hotel-novotel-lehavre.com/;https://hotel-novotel-lehavre.com/contact/;True
+4583;129.7;Restaurant la Sirene;;;;
+4584;121.4;Le Havre Etretat Normandie Tourisme;;https://www.lehavre-etretat-tourisme.com/;https://www.lehavre-etretat-tourisme.com/contactez-nous/;True
+4594;129.1;CHEZ RENE;;;;True
+4618;129.1;Les Enfants Sages;;https://restaurant-lesenfantssages.com/;https://restaurant-lesenfantssages.com/contact/;
+4627;86.8;Théâtre Le Normandy;;https://theatrelenormandy.com/;https://theatrelenormandy.com/contact/;False
+4648;129.8;Le Margote;;https://www.lemargote.fr/;;True
+4757;129.7;Il Roméo;;;;True
+4801;129.5;Hotel le Richelieu;;;;False
+4818;87.3;Café Marie Blachère;;http://www.marieblachere.com/;;True
+4876;113.7;Hôtel Lilybloom;;https://www.hotellilybloom.fr/;https://www.hotellilybloom.fr/contact;True
+4888;112.2;Kangourou Kids;;https://www.kangouroukids.fr/nos-agences/le-havre;https://www.kangouroukids.fr/contact;
+4892;129.1;RESTAURANT LE 129ème;;https://restaurants.accor.com/fr/restaurant-1123_R001-restaurant-pizzapasta-le-havre.shtml;;True
+4981;129.8;Godot & Fils Bureau de change de devises, comptoir d'or investissement;;https://godotetfils.com/lehavre/;https://godotetfils.com/lehavre/contact/;True
+5030;130.0;La Croisette;;http://www.restaurant-lacroisette.fr/;;
+5077;113.0;Maison de l'armateur;;https://musees-mah-lehavre.fr/;https://musees-mah-lehavre.fr/contact;True
+5184;129.2;NACHOS - MEXICAN GOOD FOOD;;https://nachos.fr/le-havre/?utm_source=google;;True
+5187;109.4;Le Tetris;;https://letetris.fr/;https://letetris.fr/infos-pratiques/contactez-nous;
+5212;129.8;Chez André;;;;False
+5334;111.1;Les Bains Maritimes;;https://www.lehavre-etretat-tourisme.com/;https://www.lehavre-etretat-tourisme.com/contactez-nous/;
+5338;128.9;A l'Epicerie Le Havre;;https://www.a-lepicerie.com/;https://www.a-lepicerie.com/contact/;True
+5478;129.8;Monsieur Auguste;;http://www.monsieurauguste.fr/;;True
+5484;129.6;Saveur Chocolat;;;;True
+5566;115.7;Pasino Partouche Le Havre (Casino);;https://casino-lehavre.partouche.com/;;False
+5812;130.0;The Architect;;;;True
+5876;129.8;Museum D'Histoire Naturelle;;https://museum-lehavre.fr/;https://museum-lehavre.fr/contacts;True
+5915;129.7;B&B HOTEL Le Havre Centre;;https://www.hotel-bb.com/fr/hotel/le-havre-centre;;True
+5948;100.1;Jost Hotel Le Havre Gare;;;;True
+5955;129.8;Best Western Plus Le Havre Centre Gare;;;;True
+6049;120.6;Clinique des Ormeaux Sa;;;;True
+6071;129.0;Société des Régates du Havre;;;;
+6174;89.4;Start People Le Havre;;https://www.startpeople.fr/nos-agences/start-people-le-havre;https://www.startpeople.fr/contactez-nous;False
+6178;129.9;Le Sorrento;;https://sorrento-lehavre.com/;https://sorrento-lehavre.com/contact-restaurant-italien-le-havre/;True
+6268;94.9;Piscine Municipale Cours de la République;;https://www.lehavre.fr/annuaire/piscine-la-republique;;True
+6279;129.9;La Rêverie;;;;
+6331;129.7;Taverne Paillette;;https://www.taverne-paillette.com/;;True
+6380;129.8;Jean-Luc Tartarin;;;;False
+6429;89.0;The People - Le Havre;;;;False
+6533;129.7;Galerie Eric Baudet;;https://galerie-ericbaudet.fr/;https://galerie-ericbaudet.fr/contact/;False
+6554;106.7;Ophelie Patisse;;https://coursdecuisine76.jimdofree.com/;;
+6614;111.7;La Singerie;;;;False
+6693;129.7;Brasserie Georges B.;;https://brasserie-georges-b.fr/;;True
+2167;92.6;Base de loisirs de Jumièges;;https://www.basedejumieges.fr;;
+3657;88.5;Base de loisirs de Jumièges;;https://www.basedejumieges.fr;;
+6358;96.8;Base de loisirs de Jumièges;;https://www.basedejumieges.fr;;
+491;102.8;Ibis budget Rouen Petit Quevilly;;;;True
+1429;101.9;Hôpital Saint Julien;;https://www.chu-rouen.fr/hopital/hopital-saint-julien-petit-quevilly/;;True
+4126;87.4;Cimetière communal de Le Petit-Quevilly;;https://www.petit-quevilly.fr/;;True
+4471;129.7;Restaurant Les Capucines;;http://www.les-capucines.com/;;True
+1308;129.3;Camping Abijune;;https://www.camping-abijune.com/;https://www.camping-abijune.com/contact-camping-abijune/;True
+3356;118.5;Hotel bar Saint Christophe;;;;False
+3853;130.0;Hotel bar Saint Christophe;;;;False
+6101;130.0;O'4 Saisons;;https://o4saisons.fr/;https://o4saisons.fr/contact/;
+821;129.8;Ô Bout du Quai;;;;True
+1020;112.6;FUNICULAIRE;;;;True
+1526;129.5;Le Damali;;https://www.ledamali.fr/;;True
+1994;129.8;La Villa Normande;;http://lavillanormande-letreport.com/;;False
+2287;130.0;Lady Marcass;;https://www.instagram.com/lady.marcass/;;False
+2546;92.5;JOACASINO;;http://www.joa-casino.com;;True
+2845;129.8;La Villa Normande;;http://lavillanormande-letreport.com/;;False
+2996;112.8;La Villa  Marine;;;;False
+4050;129.0;Hôtel le Saint Yves;;;;True
+4271;129.3;Hotel De Calais;;;;
+5755;96.9;Office de Tourisme Destination Le Tréport - Mers Bureau Le Tréport Plaisance;;https://www.destination-letreport-mers.fr/la-destination/presentation-des-communes/le-treport/;https://www.destination-letreport-mers.fr/contactez-nous/;True
+6070;90.7;Hotel De Calais;;;;
+2168;129.8;Ma Première Bière;;https://ma-premiere-biere.fr/;;
+3519;85.4;Théâtre romain de Lillebonne;;https://www.theatreromaindelillebonne.fr/;https://www.theatreromaindelillebonne.fr/contact/;True
+5179;113.8;Hotel de France;;;;False
+5311;113.2;Théâtre romain de Lillebonne;;https://www.theatreromaindelillebonne.fr/;https://www.theatreromaindelillebonne.fr/contact/;True
+6089;103.0;Centre Hospitalier Intercommunal Caux Vallée De Seine;;http://chi-cauxvalleedeseine.fr/;;True
+2441;129.6;Le Relais du Lion D'Or;;https://www.relaisduliondor.com/;;False
+1591;89.7;La Suite de l'Etoile;;;;False
+133;96.8;Mairie - Longueil;;;;
+1640;106.2;Mairie - Longueville-sur-Scie;;http://www.longueville-sur-scie.fr;;True
+5122;89.0;Mairie - Longueville-sur-Scie;;http://www.longueville-sur-scie.fr;;True
+538;92.6;Ferme des Trois Portes;;http://lestroisportes.fr/;;True
+1500;114.9;Mairie - Luneray;;http://www.luneray.fr;;
+4945;90.6;Mairie - Luneray;;http://www.luneray.fr;;
+5689;92.7;Ferme des Trois Portes;;http://lestroisportes.fr/;;True
+4932;129.9;Goélia Les Portes d'Étretat;;https://www.goelia.com/fr/residence-vacances/etretat/residence-goelia-les-portes-d-etretat.204.4.php;;
+2165;112.3;Château de Martainville Musée des Traditions et Arts Normands;;http://www.chateaudemartainville.fr;https://www.chateaudemartainville.fr/contact-2/;False
+4747;129.8;Auberge Du Clos Normand;;https://www.closnormand.fr/fr;https://www.closnormand.fr/fr/contact;
+5581;104.9;Auberge Du Clos Normand;;https://www.closnormand.fr/fr;https://www.closnormand.fr/fr/contact;
+2571;111.4;Labyrinthe Artmazia;;http://labyrinthe-artmazia.com;;True
+5445;127.4;Attelages de la Jumenterie des Nefliers;;https://www.jdn-ecogite.fr/fr;https://www.jdn-ecogite.fr/fr;True
+6326;110.0;La Jumenterie des Néfliers;;https://www.jdn-ecogite.fr/fr;https://www.jdn-ecogite.fr/fr;True
+107;113.7;Centre hospitalier du Belvédère;;http://www.ch-belvedere.fr/;;True
+3776;106.1;Campanile Rouen Nord - Mont Saint-Aignan;;;;True
+1372;113.4;Relais de Montigny;;;;False
+4232;99.8;Relais de Montigny;;;;False
+5578;110.4;Relais de Montigny;;;;False
+2046;111.6;Campanile Le Havre Nord - Montivilliers;;https://le-havre-nord-montivilliers.campanile.com/fr-fr/;;True
+3392;93.1;Abbaye de Montivilliers;;https://abbaye-montivilliers.fr/;https://abbaye-montivilliers.fr/contact/;
+3636;113.0;Campanile Le Havre Nord - Montivilliers;;https://le-havre-nord-montivilliers.campanile.com/fr-fr/;;True
+4331;120.4;Hôtel Inn Design Le Havre Nord Montvilliers;;;;True
+4449;100.2;abbatiale Saint sauveur;;http://www.ville-montivilliers.fr;;True
+5388;129.6;Complexe Aquatique Belle Etoile;;https://www.lehavreseinemetropole.fr/annuaire-general/complexe-aquatique-belle-etoile-montivilliers;;True
+6419;87.1;Abbaye de Montivilliers;;https://abbaye-montivilliers.fr/;https://abbaye-montivilliers.fr/contact/;
+465;129.5;Musée des Sapeurs Pompiers de France;;https://montville.fr/musee-des-sapeurs-pompiers-de-france/;;True
+3889;112.1;Piscine André Martin;;https://www.intercauxvexin.fr/fr/piscine;;True
+4429;113.3;Les Granges Du Bout De La Ville;;;;True
+631;85.4;Mesnil et Parc Botanique de Bray Garden;;;;True
+3253;85.4;Mesnil et Parc Botanique de Bray Garden;;;;True
+5831;103.0;Mairie - Morgny-la-Pommeraye;;;;
+893;94.4;Parc Canadien;;https://www.parccanadien.com;https://www.parccanadien.com/contact;True
+1111;87.2;Parc Canadien;;https://www.parccanadien.com;https://www.parccanadien.com/contact;True
+2334;106.1;Parc Canadien;;https://www.parccanadien.com;https://www.parccanadien.com/contact;True
+5081;108.4;Parc Canadien;;https://www.parccanadien.com;https://www.parccanadien.com/contact;True
+2916;129.4;Au Quai Gourmand;;;;True
+906;94.0;Bureau touristique Bray-Eawy;;http://tourisme.brayeawy.fr/;;True
+974;129.2;Les Tables de la Gare;;http://tablesdelagare.com/;;True
+3324;129.5;Hotel Restaurant  les Airelles;;;;False
+3709;113.4;Hôtel et Restaurant Côme Inn;;http://www.comeinn.fr/;;False
+5510;129.5;Hotel Restaurant  les Airelles;;;;False
+5981;110.5;Centre hospitalier Fernand Langlois;;https://ch-neufchatel.fr/;;True
+6008;89.0;Auberge de Norville;;https://auberge-de-norville.excursionsfrance.top/;;False
+715;112.4;Les Confiseurs;;https://www.lesconfiseurs.com/;https://www.lesconfiseurs.com/contact;True
+3232;88.6;Gîte Normandie Côte d'Albâtre;;https://www.gites-normandie-76.com;;True
+3340;85.5;Gîte le Clos Saint Bernard;;https://www.gites-normandie-76.com/Gite-Octeville-sur-mer-Le-Clos-Saint-Bernard-G1351.html;;True
+448;93.3;MOBCO Offranville;;https://mobco.fr/;;True
+2043;87.1;Pharmacie d'Offranville;;https://pharmacies.pharmaciengiphar.com/normandie/seine-maritime/offranville/pharmacie-doffranville-1074;;True
+4524;90.0;Auto Ecole du Château Offranville;;http://www.auto-ecole-chateau-dieppe.fr/;;
+5296;87.3;Hôpital de Oissel;;http://www.chu-rouen.fr/;;True
+6711;128.9;Carré Rouge Couture;;;;True
+13;111.1;Rando-Yourte;;;;
+5650;114.0;Domaine de Bertheauville;;;;True
+5856;130.0;Domaine de Bertheauville;;;;True
+340;111.0;Musée d'Histoire de la Vie Quotidienne;;;;True
+3995;130.0;Brasserie La P'tiote;;;;True
+2031;109.3;ACE Hôtel Rouen Parc des Expositions;;https://www.ace-hotel-rouen.com/fr/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=lien;;True
+384;93.3;Sure Hotel by Best Western Port Jérome - Le Havre;;;;True
+544;86.7;Centre Equestre des Droops;;https://cedroops.ffe.com/;https://cedroops.ffe.com/page/racine/nous_contacter;
+933;129.6;Brasserie des Halles;;;;True
+1631;86.5;Pole Céramique Normandie;;;;True
+2142;99.7;Mairie - Quincampoix;;http://www.mairie-quincampoix.fr;;False
+6112;110.7;La Roulotte du Moulin de Rebets;;;;False
+542;110.2;MUSEOSEINE, musée de la Seine Normande;;https://museoseine.cauxseine.fr/;https://museoseine.cauxseine.fr/nous-contacter/;True
+553;89.3;Maison de la Randonnée et du Trail;;https://www.entreseineetmer.com/;https://www.entreseineetmer.com/sejourner/loffice-de-tourisme/nous-contacter/;True
+1426;129.8;Brasserie du Bac;;;;True
+1698;129.1;Cinema le Paris;;;;True
+1733;128.9;Skáli;;;;True
+2804;126.3;Charlotte et Ernesto - Biscuiterie Artisanale;;http://www.charlotteeternesto.fr;https://www.charlotteeternesto.fr/pages/contact;False
+2982;129.6;Croque Express;;https://www.facebook.com/Croquexpress/;;True
+3540;86.7;Agence Immobilière Du Mascaret;;https://www.agencedumascaret.com/;;True
+3816;97.6;Pharmacie de Caudebec;;https://pharmacie-caudebec.fr/;;True
+4254;119.8;Boutique de l'Abbaye Saint-Wandrille;;;;True
+5369;111.3;Maison Vacquerie - Musée Victor Hugo;;http://museevictorhugo.fr;;True
+5943;93.1;Maison de la Randonnée et du Trail;;https://www.entreseineetmer.com/;https://www.entreseineetmer.com/sejourner/loffice-de-tourisme/nous-contacter/;True
+6692;107.9;Le Normandie SARL;;;;False
+45;97.2;Auberge Saint Maclou;;;;False
+137;129.3;Hôtel de Bourgtheroulde, Autograph Collection;;;;True
+257;101.2;Comfort Hotel  Alba Rouen;;;;False
+392;92.5;A la Cloche D'Argent - la Brulerie du Gros Horloge;;;;False
+527;130.0;Le Bistrot de la Pucelle;;https://www.lebistrotdelapucelle.fr/;;
+598;128.9;Clinique Saint-Hilaire;;http://www.clinique-sainthilaire.fr/;;True
+617;113.5;D'Eux-Memes;;;;
+618;112.8;Team Break Rouen;;;;True
+677;112.4;Mercure Rouen Centre Champ de Mars;;https://all.accor.com/hotel/1273/index.fr.shtml;https://all.accor.com/hotel/1273/index.fr.shtml;True
+744;105.8;Grand Hôtel De La Seine (Kyriad);;http://hotelseinerouen.com/;;False
+767;102.4;Hotel Cardinal Rouen;;http://www.hotelcardinal.fr/;;True
+783;111.2;Hôtel Centre Rouen Vieille Tour;;http://www.rouencentrehotel.fr/;;True
+797;129.8;Musée National de l'Education;;;;False
+855;87.1;Mercure Rouen Centre Cathédrale;;;;True
+900;130.0;EMJI;;http://www.emjicafe.fr/;;True
+921;130.0;Terres de France - Appart Hotel Rouen Flaubert;;https://www.apparthotel-rouen-flaubert.com;https://www.apparthotel-rouen-flaubert.com/contact/;True
+1045;129.6;Urban Style Hotel de l'Europe;;;;False
+1285;94.0;Léo à table;;;;True
+1382;88.5;Zhoushi - Saint Maclou;;https://linktr.ee/Zhoushi.Rouen;;
+1413;89.6;Musée des Beaux Arts de Rouen;;https://mbarouen.fr/fr/le-musee-des-beaux-arts;;True
+1577;90.1;Les délices de la cathédrale;;https://www.instagram.com/les_delices_de_la_cathedrale/?hl=fr;;True
+1584;89.7;Keepcool Rouen;;https://www.keepcool.fr/s/salle-de-sport-rouen-centre/?utm_source=campaign-gmb;;True
+1648;97.6;Le Bistro St Maclou;;https://www.facebook.com/STMACLOU/;;True
+1734;129.9;Gill Côté Bistro;;https://www.gill-cote-bistro.fr/;;True
+1753;87.5;Historial Jeanne d'Arc;;;;True
+1768;129.7;B&B Hotel Rouen Centre Rive Gauche;;;;True
+1945;101.9;Brit Hotel Confort Rouen Centre;;;;True
+2153;129.6;Les Macarons de Grand'Mère Auzou;;http://www.auzouchocolatier.fr/;;True
+2247;124.1;Le Cacotier;;;;False
+2295;128.8;Le 106;;https://www.le106.com/;https://www.le106.com/contactez-nous.html;True
+2326;95.0;Théâtre à l'Ouest Rouen;;https://theatrealouest.com/rouen;;True
+2400;112.0;Cité Immersive Viking;;https://viking.cites-immersives.fr;https://viking.cites-immersives.fr/fr/infos-pratiques/?_gl=1*czvqwx*_up*MQ..*_gs*MQ..*_ga*MTQ1OTQ5OTQ1MC4xNzQzNTE0NDI3*_ga_BW0LGHNMJY*MTc0MzUxNDQyNC4xLjAuMTc0MzUxNDQyNC4wLjAuNDE2MzMwNTYz&gclid=Cj0KCQjwna6_BhCbARIsALId2Z3imxe7utW243cTv9UYdY2lrmubIbktc0EyGQ;True
+2459;129.9;Le P'tit Zinc;;http://www.restaurant76.fr/;;True
+2490;129.9;Morand Hotel;;;;False
+2591;113.7;Radisson Blu Hotel, Rouen Centre;;;;True
+2780;129.5;La Table de Flore;;;;False
+2810;129.5;Gill;;;;False
+3039;129.3;La Galerie des Arts du feu;;;;True
+3070;113.6;MUSEUM D'HISTOIRE NATURELLE;;;;True
+3217;129.8;La Maison D'Emma;;;;False
+3310;129.7;B&B Hotel Rouen Centre Rive Droite;;;;True
+3443;113.4;Café victor;;;;True
+3447;85.4;MUSEE MARITIME FLUVIAL ET PORTUAIRE DE ROUEN;;;;True
+3747;95.6;Alive Hotel de Québec;;;;False
+3872;87.2;Chapelle Saint-Louis – L'étincelle, Théâtre(s) de la Ville de Rouen;;https://letincelle-rouen.fr/;;True
+3927;113.7;Mercure Rouen Centre Cathédrale;;;;True
+3953;129.1;Ibis Rouen Centre Rive Gauche Mermoz;;;;True
+4093;86.8;Hôtel de Bourgtheroulde, Autograph Collection;;;;True
+4111;130.0;Au Flaméron;;;;False
+4213;98.8;Hotel  Littéraire  Gustave Flaubert;;;;False
+4615;129.9;Café Hamlet;;;;False
+4711;129.8;Maison Pinel;;;;False
+4714;129.8;Les gens heureux;;;;False
+4741;129.0;Mer Amitié;;;;True
+4988;129.7;Historial Jeanne d'Arc;;;;True
+4999;112.5;Hotel  Paulette  Rouen Centre  Cathédrale;;;;True
+5239;129.3;Novotel Suites Rouen Normandie;;;;True
+5438;129.9;Maison vatelier;;;;False
+5554;130.0;Hotel de la Cathedrale;;;;False
+5560;129.3;Hôtel Le Vieux Carré;;;;True
+5716;115.6;ibis Rouen Centre Champ de Mars;;https://all.accor.com/hotel/5690/index.fr.shtml;https://all.accor.com/hotel/5690/index.fr.shtml;True
+5874;87.4;Les délices de la cathédrale;;https://www.instagram.com/les_delices_de_la_cathedrale/?hl=fr;;True
+5961;104.0;Kinepolis Rouen;;;;
+6144;129.6;Brasserie Paul;;;;False
+6190;128.8;ibis budget Rouen Centre Rive Gauche;;;;True
+6321;109.8;ibis budget Rouen Centre Rive Gauche;;;;True
+6396;91.3;Cité Immersive Viking;;https://viking.cites-immersives.fr;https://viking.cites-immersives.fr/fr/infos-pratiques/?_gl=1*czvqwx*_up*MQ..*_gs*MQ..*_ga*MTQ1OTQ5OTQ1MC4xNzQzNTE0NDI3*_ga_BW0LGHNMJY*MTc0MzUxNDQyNC4xLjAuMTc0MzUxNDQyNC4wLjAuNDE2MzMwNTYz&gclid=Cj0KCQjwna6_BhCbARIsALId2Z3imxe7utW243cTv9UYdY2lrmubIbktc0EyGQ;True
+6448;129.2;IBIS STYLES ROUEN CENTRE CATHEDRALE;;;;
+6515;129.3;Les Maraîchers;;;;False
+6521;97.5;Chocolaterie AUZOU Jean-Marie ROUEN;;https://www.auzouchocolatier.fr/;;True
+6529;129.3;L'ODAS;;https://lodas.fr/;;True
+6534;122.3;Holiday Inn Express - Rouen Centre - Rive Gauche, an IHG Hotel;;;;True
+6567;109.7;All Sports Café Rouen;;;;True
+6713;129.8;Le P'Tit Bec;;;;False
+2081;113.7;La Balaiterie;;https://www.labalaiterie.fr/;https://www.labalaiterie.fr/contactez-nous;False
+2373;129.3;Chez Ch'Rystophe;;;;True
+3215;85.1;ATELIER N°7 MARIE HÉLÈNE LECUYER;;;;False
+1989;109.3;Gîte de l'Andelle;;https://www.airbnb.fr/rooms/1318141235208207123?source_impression_id=p3_1746432205_P3zdhOu_7zSmQujD;;
+915;95.4;Centre Hospitalier Intercommunal Elbeuf-Louviers-Val de Reuil;;http://www.chi-elbeuf-louviers.fr/;;True
+5648;130.0;Hotel du Chateau Blanc;;;;False
+2426;113.0;Flower Camping Vitamin';;http://www.camping-vitamin.com/;;True
+4402;103.5;initial by balladins Dieppe;;;;False
+6058;102.8;Golden Tulip Dieppe Hôtel & Spa;;https://dieppe.goldentulip.com/fr-fr/?utm_content=partoo&utm_medium=seo-bgp&utm_source=google;;True
+2106;91.0;Gîtes de Caumont - Bois Saleu;;https://www.gitesdecaumont.eu/;;
+3539;91.8;Gîtes de Caumont - Neuf Moulin;;https://www.gitesdecaumont.eu/;;
+4363;91.6;Gite La Hérissonnerie;;;;False
+2073;94.3;Le Clos Brayon;;;;True
+6373;101.6;Le Clos Brayon;;;;True
+540;98.8;Mairie - Saint-Jean-de-Folleville;;https://www.saintjeandefolleville.fr/;;True
+2454;93.9;Hôtel Spa Les Pins De César;;https://lespinsdecesar.com/;;True
+3126;110.5;Tim'Jet;;https://www.timjet.fr/;https://www.timjet.fr/contact;
+3322;130.0;Auberge Bout de Bois;;https://www.aubergeboutdebois.com/fr/;https://www.aubergeboutdebois.com/fr/contact;
+4381;129.5;Les Pépites Gourmandes;;https://www.facebook.com/profile.php?id=61584806144469;;
+4875;90.7;Mémorial de Bruneval;;https://bruneval42.com/;https://bruneval42.com/nous-contacter/;
+6426;129.7;MOANA;;http://omaoma-asso.fr;https://lapetitegraine.ellohaweb.com/;True
+6350;89.4;Mairie - Saint-Laurent-en-Caux;;;;True
+1771;86.6;Gîte les Clairières;;https://www.gitehachard.com/;https://www.gitehachard.com/contact.html;
+6259;104.4;Camping Les Pommiers;;https://www.camping-les-pommiers.com/;https://www.camping-les-pommiers.com/contact/?_gl=1*14xtfio*_up*MQ..*_ga*MTY1NDAwODUxLjE3Nzg1MDMyNDA.*_ga_4NSWTX8W6Q*czE3Nzg1MDMyMzkkbzEkZzAkdDE3Nzg1MDMyMzkkajYwJGwwJGgw;True
+6467;110.7;Camping Les Pommiers;;https://www.camping-les-pommiers.com/;https://www.camping-les-pommiers.com/contact/?_gl=1*14xtfio*_up*MQ..*_ga*MTY1NDAwODUxLjE3Nzg1MDMyNDA.*_ga_4NSWTX8W6Q*czE3Nzg1MDMyMzkkbzEkZzAkdDE3Nzg1MDMyMzkkajYwJGwwJGgw;True
+138;94.6;Manoir de l'Aumônerie;;;;False
+879;110.0;Manoir de l'Aumônerie;;;;False
+2518;112.8;Manoir de l'Aumônerie;;;;False
+3083;108.0;Manoir de l'Aumônerie;;;;False
+2512;90.2;La Berteliere, The Originals Relais (Qualys-Hotel);;;;True
+1419;90.1;Mairie - Saint-Nicolas-d'Aliermont;;http://www.saint-nicolas-aliermont.fr;;
+4234;129.2;Musée de l'Horlogerie.;21760624300012.0;http://www.musee-horlogerie-aliermont.fr;;True
+181;95.5;Les Gîtes du Château de Maltot;;;;False
+2462;93.4;Mairie - Saint-Ouen-sous-Bailly;;http://www.saintouensousbailly.fr;;
+2034;93.0;Centre d'art contemporain de la Matmut - Daniel Havis;;https://www.matmutpourlesarts.fr/;https://www.matmutpourlesarts.fr/contact;False
+1202;121.9;Centre Hospitalier de Saint-Romain-de-Colbosc;;;;True
+6031;113.5;Brasserie Bakpaker;;https://www.brasserie-bakpaker.fr/;;True
+5872;88.2;Mairie - Saint-Sylvain;;;;False
+352;86.5;Mairie - Saint-Valery-en-Caux;;http://www.ville-saint-valery-en-caux.fr;;False
+489;112.0;Camping D'Etennemare;;http://www.camping-etennemare.com;https://camping-etennemare.com;False
+1164;129.3;Hôtel les Bains;;http://www.lesbains76.com/;;False
+1976;113.4;Club Nautique Valeriquais;;;;False
+2275;129.1;La Maison Des Galets;;;;
+3165;129.6;Hôtel les Bains;;http://www.lesbains76.com/;;False
+3188;88.2;Centre Hospitalier du Grand Large;;;;True
+3963;113.5;Hôtel du Casino;;https://www.hotel-casino-saintvalery.com/?utm_source=google&utm_medium=organic&utm_campaign=my_business;;True
+4473;93.5;Théâtre Le Rayon Vert;;;;True
+4979;129.8;Hôtel Henri IV;;;;
+5938;89.0;Office de Tourisme de Saint-Valery-en-Caux;;https://cote-albatre-tourisme.fr/;;True
+6507;130.0;crêperie la Gouanière;;;;True
+4732;85.6;LA FERME DUMESNIL;;https://www.facebook.com/FermeDumesnil76;;True
+6200;110.8;LA FERME DUMESNIL;;https://www.facebook.com/FermeDumesnil76;;True
+19;93.0;Le Rive Gauche;;https://www.lerivegauche76.fr/;;True
+3243;104.7;Premiere Classe Rouen Sud - Parc des Expositions;;;;True
+4099;105.8;ibis budget Rouen Parc des Expos Zenith;;;;True
+5908;109.8;IBIS STYLES ROUEN PARC EXPO ZENITH;;http://ibis.com;;True
+770;129.6;Logis Hôtel La Bonne Adresse;;https://www.logishotels.com/fr/hotel/-118958?partid=1535;;False
+1243;129.6;La Petite Rade Hôtel;;;;True
+1458;128.9;Le Bout du Monde;;;;
+4862;129.7;Eugénie Brasserie;;https://eugenie-brasserie.fr/;https://eugenie-brasserie.fr/contact;
+5396;129.6;LE GRAND LARGE;;https://www.legrandlarge76.fr/;;True
+6076;87.1;La Bise Le Havre;;https://labise.cool/;;
+6430;118.8;Le Chat Blue;;;;True
+4484;118.7;Charcuterie & Boucherie à la Ferme - EARL SOGI;;http://www.charcuterie-a-la-ferme.com/;;True
+6375;130.0;Le Grill;;;;True
+1782;129.1;Le Relais des Dalles;;;;True
+2573;91.6;Chateau De Sissi;;;;False
+5342;91.7;Chateau De Sissi;;;;False
+6002;103.9;Manoir de Briquedalles;44179135700029.0;https://www.sejour-dalbatre.com;https://www.sejour-dalbatre.com/fr/contact;
+6710;129.1;Le Relais des Dalles;;;;True
+2825;87.4;Fromages de chèvres - Anthore Babeth. Chevrerie du vieux manoir;;;;True
+1726;93.8;Mairie - Saumont-la-Poterie;;;;False
+2465;86.3;Mairie - Saumont-la-Poterie;;;;False
+4662;111.1;Mairie - Saumont-la-Poterie;;;;False
+5902;93.8;Mairie - Saumont-la-Poterie;;;;False
+5442;96.8;Mairie - Serqueux;;http://www.serqueux76.fr;;True
+1941;92.6;Vallée de Gîtes Normands;;;;
+3086;129.6;Restaurant Le Normandie;;http://www.le-normandie-terres-de-caux.fr/;;True
+4006;111.2;Camembert Les 5 Frères;;https://www.crowdfarming.com/en/farmer/camembert-5-freres/up/adopt-a-cow-camembert-5-freres-normandy/overharvest;;True
+6113;93.5;Brasserie La Godène;;https://sites.google.com/view/brasserielagodene;;True
+6206;89.3;Brasserie La Godène;;https://sites.google.com/view/brasserielagodene;;True
+5644;129.6;Restaurant Antre Amis;;;;True
+3430;104.3;"Camping municipal ""Les Acacias""";;http://www.camping-acacias.fr;;True
+2056;98.1;Gites L'Hirondelle - L'Hirondo;;;;
+4009;89.1;Gites L'Hirondelle - L'Hirondo;;;;
+6605;117.3;Gites L'Hirondelle - L'Hirondo;;;;
+1118;92.1;Mairie - Val-de-Saâne;;http://www.valdesaane.com;;
+6360;85.2;Tabouret Didier;;;;
+420;129.8;Le Scie-Gare;;http://lesciegare.com/;;True
+1354;104.4;Office de Tourisme d'Auffay, Val-de-Scie - Terroir de Caux;20006853400011.0;https://www.quibervillesurmer-auffay-tourisme.com/;https://www.quibervillesurmer-auffay-tourisme.com/pratique/nous-contacter/;True
+2593;89.2;Cocci Market Auffay;;http://coccimarket.fr/CocciMarket/AUFFAY/13-RUE-NARCISSE-DUFOUR.aspx;;True
+2854;129.8;Le Scie-Gare;;http://lesciegare.com/;;True
+452;112.0;Maison Caillet;;http://maisoncaillet.com;;True
+1124;129.2;Maison Caillet;;http://maisoncaillet.com;;True
+1850;129.8;Hotel Restaurant de la Terrasse;;;;False
+552;88.1;Mairie - Vatierville;;;;False
+3440;93.2;Mairie - Vatteville-la-Rue;;http://www.vattevillelarue.fr;;True
+3771;93.1;Mairie - Vatteville-la-Rue;;http://www.vattevillelarue.fr;;True
+6452;128.9;Auberge du Moulin;;;;True
+1523;103.5;Office de Tourisme de Veules-les-Roses;;https://cote-albatre-tourisme.fr/;;True
+5305;129.9;Relais Hotelier Douce France;;;;False
+1163;130.0;Les Frégates Hotel Restaurant;;http://www.les-fregates.com/;;False
+1324;112.9;Les Frégates Hotel Restaurant;;http://www.les-fregates.com/;;False
+4076;129.5;Hotel des Bains;;;;True
+2797;85.6;Espace Saint-Aquilin;;;;True
+421;113.7;Camping Les Près de la Mer;;https://www.lespresdelamer.com/;https://www.lespresdelamer.com/acces/;True
+2694;113.0;Camping Maupassant;;https://www.camping-maupassant.com/;https://www.camping-maupassant.com/;True
+1433;89.6;Pizza Chez Vous Yerville;;https://www.pizzachezvous.fr/;;
+2614;113.8;La Halle d'Antan;;;;False
+3193;129.8;L Atelier des Gourmands;;;;False
+505;129.3;La Sirène;;http://www.hotel-sirene.com/;;False
+673;129.6;Gîte Les Proses Trémières;;;;True
+1528;90.3;Point information d'Yport - Fécamp Tourisme;;https://www.fecamptourisme.com/;;True
+1928;85.9;Mairie - Yport;;http://www.ville-yport.fr;;False
+1929;130.0;Hotel Restaurant Normand Yport;;http://www.hotel-normand.fr/;;False
+5293;104.3;La Sirène;;http://www.hotel-sirene.com/;;False
+5521;99.8;Hotel Restaurant Normand Yport;;http://www.hotel-normand.fr/;;False
+5552;129.8;La Sirène;;http://www.hotel-sirene.com/;;False
+6114;112.9;Le Cabestan et sa Plume;;;;True
+299;129.0;AUBERGE D'YPREVILLE;;;;True
+61;130.0;Yvetot Normandie Tourisme;;http://www.yvetot-normandie-tourisme.fr/;;True
+118;111.3;B&B HOTEL Yvetot;;;;True
+302;92.8;McDonald's;;http://www.restaurants.mcdonalds.fr/mcdonalds-yvetot;;True
+881;129.8;Creme de Pâtissière;;;;True
+1484;129.8;Bienfaits;;;;False
+3849;90.9;Hôpital ASSELIN HEDELIN;;https://hopital-yvetot.com/;;True
+3972;129.8;Bienfaits;;;;False
+5029;129.9;Le Moulin à Poivre;;https://www.facebook.com/lemoulinapoivreyvetot/;;True
+5536;108.3;Hautot Chocolatier Pâtissier;;https://chocolatshautot.com/boutiques/chocolatier-yvetot/;;True
+1848;130.0;L'Hirondelle;;https://www.lhirondelle-etoutteville.com/fr;https://www.lhirondelle-etoutteville.com/fr/contact;True
+2470;130.0;L'Hirondelle;;https://www.lhirondelle-etoutteville.com/fr;https://www.lhirondelle-etoutteville.com/fr/contact;True
+3797;130.0;L'Hirondelle;;https://www.lhirondelle-etoutteville.com/fr;https://www.lhirondelle-etoutteville.com/fr/contact;True
+405;129.0;La Villa 10;;;;False
+475;92.9;Hôtel la Résidence  Manoir de la Salamandre;;;;False
+600;92.3;L'Aiguille Creuse - Étretat;;https://menuonline.fr/laiguillecreuse;https://menuonline.fr/laiguillecreuse/contact;True
+637;115.0;Casino Joa Etretat;;https://www.joa.fr/;https://www.joa.fr/casinos/etretat;
+894;129.9;Le Bel Ami;;https://www.lebelami.com/;;
+1260;92.3;Hotel Restaurant Dormy House;;;;False
+1385;129.2;Le Restaurant Du Perrey;;https://hotelrayonvertetretat.com/restaurant/;https://hotelrayonvertetretat.com/acces-et-contact/;
+1623;129.9;Hôtel Le Rayon Vert;;;;True
+1716;129.6;Le Bistretatais;;;;
+2395;129.7;La Flottille;;https://restaurant-laflottille.fr/;https://restaurant-laflottille.fr/contact/;
+2904;90.2;L'Aiguille Creuse - Étretat;;https://menuonline.fr/laiguillecreuse;https://menuonline.fr/laiguillecreuse/contact;True
+3116;129.5;Castel de la Terrasse;;;;False
+3162;110.1;Voiles et Galets D'Etretat;;https://www.voilesetgalets.com/;https://www.voilesetgalets.com/contact.html;
+3183;113.3;L'Huitriere;;https://www.lhuitriere.fr/;;
+3268;129.7;Hotel D'Angleterre;;http://www.etretat-hotel-angleterre.com/;;False
+3530;129.4;LE HOMARD BLEU;;https://www.restaurant-lehomardbleu.com/;https://www.restaurant-lehomardbleu.com/#acces-contact;
+3902;89.3;L'Aiguille Creuse - Étretat;;https://menuonline.fr/laiguillecreuse;https://menuonline.fr/laiguillecreuse/contact;True
+4117;96.6;Hautot Chocolatier Pâtissier;;https://chocolatshautot.com/boutiques/chocolatier-etretat/;;True
+4432;111.3;Le Romain d'Etretat;;http://www.leromaindetretat.com/;https://www.leromaindetretat.com/informations-contact/;True
+4456;114.7;Casino Joa Etretat;;https://www.joa.fr/;https://www.joa.fr/casinos/etretat;
+4787;129.8;Hotel  des Falaises;;;;False
+5231;100.7;Le Lann-Bihoué;;https://www.etretat-lannbihoue.fr/;;
+5837;113.4;Le Clos Lupin - Maison Maurice Leblanc;;;;False
+6161;113.8;Hôtel la Résidence  Manoir de la Salamandre;;;;False
+6314;108.2;L'Aiguille Creuse - Étretat;;https://menuonline.fr/laiguillecreuse;https://menuonline.fr/laiguillecreuse/contact;True
+6427;112.9;Château des Aygues;;https://www.lehavreseine-patrimoine.fr/patrimoines/patrimoine-civil-et-domestique/chateau-des-aygues;https://chateaulesaygues.simdif.com/contact.html;
+6632;109.8;Camping Municipal;;https://etretat.fr/;https://etretat.fr/nous-contacter/;
+6681;130.0;Pani Pitt;;;;
